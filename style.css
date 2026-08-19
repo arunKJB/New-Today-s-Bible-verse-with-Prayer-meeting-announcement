@@ -1,0 +1,1286 @@
+/* =========================================================
+   RESET
+========================================================= */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* =========================================================
+   HTML / BODY
+========================================================= */
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+
+html {
+    touch-action: manipulation;
+}
+
+
+body {
+    font-family:
+        "Noto Sans Tamil",
+        Arial,
+        sans-serif;
+
+    background: #000;
+    color: #fff;
+
+    -webkit-tap-highlight-color: transparent;
+}
+
+
+/* =========================================================
+   MAIN BACKGROUND
+========================================================= */
+
+.background {
+    position: fixed;
+    inset: 0;
+
+    width: 100%;
+    height: 100%;
+
+    background: #000;
+
+    z-index: -20;
+}
+
+
+/* =========================================================
+   PAGE
+========================================================= */
+
+.page {
+    position: fixed;
+    inset: 0;
+
+    width: 100%;
+    height: 100dvh;
+    min-height: 100vh;
+
+    overflow: hidden;
+
+    touch-action: manipulation;
+}
+
+
+/* =========================================================
+   BACKGROUND IMAGE
+========================================================= */
+
+.background-image {
+    position: absolute;
+    inset: 0;
+
+    width: 100%;
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    transition:
+        opacity 0.8s ease,
+        transform 1.2s ease;
+
+    will-change: transform, opacity;
+}
+
+
+/* =========================================================
+   DARK OVERLAY
+========================================================= */
+
+.background-image::after {
+    content: "";
+
+    position: absolute;
+    inset: 0;
+
+    background:
+        linear-gradient(
+            to bottom,
+            rgba(0, 0, 0, 0.25),
+            rgba(0, 0, 0, 0.55)
+        );
+}
+
+
+/* =========================================================
+   FIRST SCREEN
+========================================================= */
+
+.page-one {
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    opacity: 1;
+    visibility: visible;
+
+    transform: translate3d(0, 0, 0);
+
+    transition:
+        opacity 0.75s ease,
+        transform 0.75s ease,
+        visibility 0s linear 0s;
+
+    z-index: 10;
+
+    cursor: pointer;
+
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+
+/* =========================================================
+   FIRST SCREEN HIDDEN
+========================================================= */
+
+.page-one.hide {
+    opacity: 0;
+    visibility: hidden;
+
+    transform:
+        translate3d(-100%, 0, 0);
+
+    transition:
+        opacity 0.75s ease,
+        transform 0.75s ease,
+        visibility 0s linear 0.75s;
+}
+
+
+/* =========================================================
+   FIRST BACKGROUND
+========================================================= */
+
+.image-one {
+    background-image:
+        url();
+}
+
+
+/* =========================================================
+   PAGE CONTENT
+========================================================= */
+
+.page-content {
+    position: relative;
+
+    z-index: 5;
+
+    width: 100%;
+    height: 100%;
+}
+
+
+/* =========================================================
+   FIRST SCREEN CONTENT
+========================================================= */
+
+.first-screen-content {
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+    justify-content: center;
+
+    text-align: center;
+
+    padding:
+        clamp(70px, 10vh, 120px)
+        clamp(12px, 4vw, 50px)
+        clamp(40px, 7vh, 80px);
+}
+
+
+/* =========================================================
+   TOP LOGO
+========================================================= */
+
+.top-logo {
+    position: fixed;
+
+    top:
+        max(10px, env(safe-area-inset-top));
+
+    left: 50%;
+
+    transform: translateX(-50%);
+
+    width:
+        clamp(45px, 7vw, 75px);
+
+    height:
+        clamp(45px, 7vw, 75px);
+
+    object-fit: cover;
+
+    border-radius: 50%;
+
+    z-index: 100;
+
+    border:
+        2px solid
+        rgba(255, 255, 255, 0.8);
+
+    pointer-events: none;
+}
+
+
+/* =========================================================
+   BIBLE IMAGE
+========================================================= */
+
+.bible-image {
+    width:
+        clamp(100px, 18vw, 210px);
+
+    height:
+        clamp(100px, 18vw, 210px);
+
+    object-fit: contain;
+
+    margin-bottom:
+        clamp(15px, 3vh, 35px);
+
+    filter:
+        drop-shadow(
+            0 8px 20px
+            rgba(0, 0, 0, 0.7)
+        );
+
+    pointer-events: none;
+}
+
+
+/* =========================================================
+   MAIN TITLE
+========================================================= */
+
+.main-title {
+    width: 100%;
+
+    max-width: 100%;
+
+    white-space: nowrap;
+
+    text-align: center;
+
+    overflow: visible;
+
+    font-size:
+        clamp(
+            13px,
+            3.2vw,
+            38px
+        );
+
+    line-height: 1;
+
+    font-weight: 800;
+
+    letter-spacing:
+        clamp(
+            0px,
+            0.15vw,
+            1px
+        );
+
+    text-shadow:
+        0 3px 8px
+        rgba(0, 0, 0, 0.9),
+
+        0 0 20px
+        rgba(255, 255, 255, 0.25);
+
+    pointer-events: none;
+}
+
+
+/* =========================================================
+   SCREEN HINT
+========================================================= */
+
+.screen-hint {
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    gap: 8px;
+
+    margin-top:
+        clamp(35px, 8vh, 100px);
+
+    font-size:
+        clamp(
+            11px,
+            2vw,
+            20px
+        );
+
+    color:
+        rgba(255, 255, 255, 0.9);
+
+    animation:
+        hintPulse 2s infinite;
+
+    pointer-events: none;
+}
+
+
+/* =========================================================
+   HAND
+========================================================= */
+
+.hint-hand {
+    font-size:
+        clamp(
+            20px,
+            4vw,
+            38px
+        );
+
+    animation:
+        handMove 1.2s infinite;
+}
+
+
+/* =========================================================
+   HINT ANIMATIONS
+========================================================= */
+
+@keyframes hintPulse {
+
+    0%,
+    100% {
+        opacity: 0.6;
+    }
+
+    50% {
+        opacity: 1;
+    }
+}
+
+
+@keyframes handMove {
+
+    0%,
+    100% {
+        transform:
+            translateY(0);
+    }
+
+    50% {
+        transform:
+            translateY(-8px);
+    }
+}
+
+
+/* =========================================================
+   SECOND SCREEN
+========================================================= */
+
+.page-two {
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    opacity: 0;
+    visibility: hidden;
+
+    transform:
+        translate3d(100%, 0, 0);
+
+    transition:
+        opacity 0.75s ease,
+        transform 0.75s ease,
+        visibility 0s linear 0.75s;
+
+    z-index: 5;
+}
+
+
+/* =========================================================
+   SECOND SCREEN ACTIVE
+========================================================= */
+
+.page-two.active {
+    opacity: 1;
+
+    visibility: visible;
+
+    transform:
+        translate3d(0, 0, 0);
+
+    transition:
+        opacity 0.75s ease,
+        transform 0.75s ease,
+        visibility 0s linear 0s;
+}
+
+
+/* =========================================================
+   SECOND SCREEN BACKGROUND
+========================================================= */
+
+.image-two {
+    background-image:
+        url("assests/backgrounds/day1.jpg");
+
+    transform: scale(1.02);
+}
+
+
+/* =========================================================
+   SECOND SCREEN CONTENT
+========================================================= */
+
+.second-screen-content {
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    padding:
+        clamp(65px, 9vh, 100px)
+        clamp(10px, 3vw, 40px)
+        clamp(45px, 7vh, 70px);
+}
+
+
+/* =========================================================
+   VERSE WRAPPER
+========================================================= */
+
+.verse-wrapper {
+    width: 100%;
+
+    max-width: 850px;
+
+    height: 100%;
+
+    display: flex;
+
+    flex-direction: column;
+
+    justify-content: center;
+
+    align-items: stretch;
+
+    gap:
+        clamp(6px, 1.2vh, 14px);
+}
+
+
+/* =========================================================
+   VERSE CARD
+========================================================= */
+
+.verse-card {
+    width: 100%;
+
+    padding:
+        clamp(8px, 1.5vh, 18px)
+        clamp(10px, 3vw, 28px);
+
+    border-radius:
+        clamp(10px, 2vw, 20px);
+
+    background:
+        rgba(0, 0, 0, 0.52);
+
+    border:
+        1px solid
+        rgba(255, 255, 255, 0.35);
+
+    backdrop-filter:
+        blur(7px);
+
+    -webkit-backdrop-filter:
+        blur(7px);
+
+    box-shadow:
+        0 8px 30px
+        rgba(0, 0, 0, 0.35);
+}
+
+
+/* =========================================================
+   REFERENCE
+========================================================= */
+
+.verse-reference {
+    text-align: center;
+
+    font-size:
+        clamp(
+            12px,
+            2vw,
+            20px
+        );
+
+    font-weight: 800;
+
+    margin-bottom:
+        clamp(3px, 0.7vh, 8px);
+}
+
+
+/* =========================================================
+   VERSE TEXT
+========================================================= */
+
+.verse-text {
+    text-align: center;
+
+    font-weight: 600;
+}
+
+
+/* =========================================================
+   TAMIL VERSE
+========================================================= */
+
+.tamil-text {
+    font-size:
+        clamp(
+            16px,
+            3vw,
+            31px
+        );
+
+    line-height:
+        1.45;
+}
+
+
+/* =========================================================
+   ENGLISH VERSE
+========================================================= */
+
+.english-text {
+    font-family:
+        Arial,
+        sans-serif;
+
+    font-size:
+        clamp(
+            13px,
+            2.2vw,
+            24px
+        );
+
+    line-height: 1.3;
+}
+
+
+/* =========================================================
+   AMEN BUTTON
+========================================================= */
+
+#amenBtn {
+    display: block;
+
+    margin:
+        clamp(7px, 1.2vh, 15px)
+        auto
+        0;
+
+    border: none;
+
+    border-radius: 999px;
+
+    padding:
+        clamp(7px, 1.1vh, 12px)
+        clamp(18px, 4vw, 35px);
+
+    font-family:
+        "Noto Sans Tamil",
+        sans-serif;
+
+    font-size:
+        clamp(
+            13px,
+            2vw,
+            20px
+        );
+
+    font-weight: 800;
+
+    background:
+        rgba(255, 210, 60, 0.95);
+
+    color: #222;
+
+    cursor: pointer;
+
+    box-shadow:
+        0 5px 18px
+        rgba(0, 0, 0, 0.35);
+
+    transition:
+        transform 0.15s ease,
+        box-shadow 0.15s ease;
+
+    touch-action: manipulation;
+
+    -webkit-tap-highlight-color: transparent;
+}
+
+
+#amenBtn:active {
+    transform:
+        scale(0.92);
+}
+
+
+/* =========================================================
+   PRAYER CARD
+========================================================= */
+
+.prayer-card {
+    width: 100%;
+
+    padding:
+        clamp(7px, 1.2vh, 15px)
+        clamp(10px, 2.5vw, 25px);
+
+    border-radius:
+        clamp(10px, 2vw, 18px);
+
+    background:
+        linear-gradient(
+            135deg,
+            rgba(255, 190, 60, 0.90),
+            rgba(130, 65, 10, 0.88)
+        );
+
+    border:
+        1px solid
+        rgba(255, 255, 255, 0.55);
+
+    box-shadow:
+        0 8px 25px
+        rgba(0, 0, 0, 0.45);
+
+    text-align: center;
+
+    color: #fff;
+}
+
+
+/* =========================================================
+   PRAYER TITLE
+========================================================= */
+
+#prayerTitle {
+    font-size:
+        clamp(
+            13px,
+            2.3vw,
+            23px
+        );
+
+    font-weight: 800;
+
+    line-height: 1.15;
+
+    margin-bottom:
+        clamp(3px, 0.6vh, 7px);
+}
+
+
+/* =========================================================
+   PRAYER DESCRIPTION
+========================================================= */
+
+#prayerDescription {
+    font-size:
+        clamp(
+            11px,
+            1.8vw,
+            17px
+        );
+
+    line-height: 1.25;
+
+    margin-bottom:
+        clamp(4px, 0.7vh, 8px);
+}
+
+
+/* =========================================================
+   PRAYER DETAILS
+========================================================= */
+
+.prayer-details {
+    display: flex;
+
+    flex-wrap: wrap;
+
+    justify-content: center;
+    align-items: center;
+
+    gap:
+        clamp(4px, 1vw, 12px);
+
+    font-size:
+        clamp(
+            10px,
+            1.6vw,
+            17px
+        );
+
+    font-weight: 600;
+
+    line-height: 1.2;
+}
+
+
+.prayer-details span {
+    white-space: nowrap;
+}
+
+
+/* =========================================================
+   BLESSING BAR
+   HIDDEN UNTIL SECOND SCREEN OPENS
+========================================================= */
+
+.final-blessing {
+    position: fixed;
+
+    bottom: 0;
+    left: 0;
+
+    width: 100%;
+
+    height:
+        clamp(
+            28px,
+            4vh,
+            42px
+        );
+
+    overflow: hidden;
+
+    z-index: 90;
+
+    background:
+        rgba(0, 0, 0, 0.70);
+
+    backdrop-filter:
+        blur(5px);
+
+    -webkit-backdrop-filter:
+        blur(5px);
+
+    opacity: 0;
+
+    visibility: hidden;
+
+    transform:
+        translateY(100%);
+
+    transition:
+        opacity 0.5s ease,
+        transform 0.5s ease,
+        visibility 0s linear 0.5s;
+
+    pointer-events: none;
+}
+
+
+/* =========================================================
+   BLESSING BAR VISIBLE
+========================================================= */
+
+.final-blessing.show {
+    opacity: 1;
+
+    visibility: visible;
+
+    transform:
+        translateY(0);
+
+    transition:
+        opacity 0.5s ease,
+        transform 0.5s ease,
+        visibility 0s linear 0s;
+}
+
+
+/* =========================================================
+   BLESSING TRACK
+========================================================= */
+
+.blessing-track {
+    display: flex;
+
+    align-items: center;
+
+    width: max-content;
+
+    height: 100%;
+
+    animation:
+        blessingMove 25s linear infinite;
+}
+
+
+/* =========================================================
+   BLESSING TEXT
+========================================================= */
+
+.blessing-track span {
+    display: inline-block;
+
+    margin-right: 50px;
+
+    white-space: nowrap;
+
+    font-size:
+        clamp(
+            10px,
+            1.5vw,
+            16px
+        );
+
+    font-weight: 700;
+}
+
+
+/* =========================================================
+   BLESSING ANIMATION
+========================================================= */
+
+@keyframes blessingMove {
+
+    from {
+        transform:
+            translateX(0);
+    }
+
+    to {
+        transform:
+            translateX(-50%);
+    }
+}
+
+
+/* =========================================================
+   EFFECT CONTAINERS
+========================================================= */
+
+#bottom-flash-container,
+#amen-flash-container,
+#golden-glow {
+    position: fixed;
+
+    inset: 0;
+
+    width: 100%;
+    height: 100%;
+
+    pointer-events: none;
+
+    overflow: hidden;
+
+    z-index: 80;
+}
+
+
+/* =========================================================
+   GOLDEN GLOW
+========================================================= */
+
+#golden-glow {
+    opacity: 0;
+
+    background:
+        radial-gradient(
+            circle at center,
+            rgba(255, 215, 80, 0.28),
+            transparent 60%
+        );
+
+    transition:
+        opacity 0.25s ease;
+}
+
+
+#golden-glow.show {
+    opacity: 1;
+}
+
+
+/* =========================================================
+   BOTTOM FLASH ICON
+========================================================= */
+
+.bottom-flash-icon {
+    position: absolute;
+
+    bottom: -60px;
+
+    left: 50%;
+
+    font-size:
+        clamp(
+            22px,
+            5vw,
+            45px
+        );
+
+    opacity: 0.50;
+
+    animation:
+        bottomIconFly 1.8s ease-out forwards;
+
+    will-change:
+        transform,
+        opacity;
+}
+
+
+@keyframes bottomIconFly {
+
+    0% {
+        transform:
+            translate3d(
+                var(--start-x),
+                0,
+                0
+            )
+            scale(0.5)
+            rotate(0deg);
+
+        opacity: 0;
+    }
+
+    20% {
+        opacity: 0.50;
+    }
+
+    70% {
+        opacity: 0.50;
+    }
+
+    100% {
+        transform:
+            translate3d(
+                var(--end-x),
+                -110vh,
+                0
+            )
+            scale(1.15)
+            rotate(var(--rotate));
+
+        opacity: 0;
+    }
+}
+
+
+/* =========================================================
+   AMEN CENTER ICON
+========================================================= */
+
+.amen-center-icon {
+    position: absolute;
+
+    left: 50%;
+    top: 50%;
+
+    font-size:
+        clamp(
+            25px,
+            6vw,
+            55px
+        );
+
+    opacity: 0.50;
+
+    animation:
+        amenCenterFlash 1.2s ease-out forwards;
+
+    will-change:
+        transform,
+        opacity;
+}
+
+
+@keyframes amenCenterFlash {
+
+    0% {
+        transform:
+            translate(-50%, -50%)
+            scale(0.2)
+            rotate(0deg);
+
+        opacity: 0;
+    }
+
+    20% {
+        opacity: 0.50;
+    }
+
+    100% {
+        transform:
+            translate(
+                calc(-50% + var(--x)),
+                calc(-50% + var(--y))
+            )
+            scale(1.2)
+            rotate(var(--rotate));
+
+        opacity: 0;
+    }
+}
+
+
+/* =========================================================
+   AMEN BOTTOM ICON
+========================================================= */
+
+.amen-bottom-icon {
+    position: absolute;
+
+    left: 50%;
+    bottom: -50px;
+
+    font-size:
+        clamp(
+            22px,
+            5vw,
+            45px
+        );
+
+    opacity: 0.50;
+
+    animation:
+        amenBottomFlash 1.5s ease-out forwards;
+
+    will-change:
+        transform,
+        opacity;
+}
+
+
+@keyframes amenBottomFlash {
+
+    0% {
+        transform:
+            translate3d(
+                var(--start-x),
+                0,
+                0
+            )
+            scale(0.4);
+
+        opacity: 0;
+    }
+
+    20% {
+        opacity: 0.50;
+    }
+
+    100% {
+        transform:
+            translate3d(
+                var(--end-x),
+                -75vh,
+                0
+            )
+            scale(1.1)
+            rotate(var(--rotate));
+
+        opacity: 0;
+    }
+}
+
+
+/* =========================================================
+   SMALL MOBILE
+========================================================= */
+
+@media (max-width: 380px) {
+
+    .main-title {
+        font-size: 11px;
+    }
+
+
+    .first-screen-content {
+        padding-left: 6px;
+        padding-right: 6px;
+    }
+
+
+    .verse-wrapper {
+        gap: 5px;
+    }
+
+
+    .verse-card {
+        padding:
+            6px 8px;
+    }
+
+
+    .tamil-text {
+        font-size: 14px;
+        line-height: 1.25;
+    }
+
+
+    .english-text {
+        font-size: 11px;
+    }
+
+
+    #prayerTitle {
+        font-size: 12px;
+    }
+
+
+    #prayerDescription {
+        font-size: 10px;
+    }
+
+
+    .prayer-details {
+        font-size: 9px;
+        gap: 3px;
+    }
+
+
+    #amenBtn {
+        font-size: 11px;
+        padding:
+            5px 15px;
+    }
+}
+
+
+/* =========================================================
+   TABLET
+========================================================= */
+
+@media (min-width: 600px) and (max-width: 1100px) {
+
+    .verse-wrapper {
+        max-width: 750px;
+    }
+}
+
+
+/* =========================================================
+   DESKTOP
+========================================================= */
+
+@media (min-width: 1101px) {
+
+    .verse-wrapper {
+        max-width: 900px;
+    }
+}
+
+
+/* =========================================================
+   LANDSCAPE MOBILE
+========================================================= */
+
+@media
+    (max-height: 500px)
+    and (orientation: landscape) {
+
+    .top-logo {
+        width: 40px;
+        height: 40px;
+    }
+
+
+    .first-screen-content {
+        padding-top: 45px;
+        padding-bottom: 35px;
+    }
+
+
+    .bible-image {
+        width: 70px;
+        height: 70px;
+        margin-bottom: 8px;
+    }
+
+
+    .screen-hint {
+        margin-top: 15px;
+    }
+
+
+    .second-screen-content {
+        padding-top: 45px;
+        padding-bottom: 35px;
+    }
+
+
+    .verse-wrapper {
+        gap: 4px;
+    }
+
+
+    .verse-card {
+        padding: 5px 10px;
+    }
+
+
+    .tamil-text {
+        font-size: 13px;
+    }
+
+
+    .english-text {
+        font-size: 10px;
+    }
+
+
+    #prayerTitle {
+        font-size: 12px;
+    }
+
+
+    #prayerDescription {
+        font-size: 9px;
+    }
+
+
+    .prayer-details {
+        font-size: 9px;
+    }
+
+
+    #amenBtn {
+        padding:
+            4px 15px;
+
+        font-size: 10px;
+    }
+}
