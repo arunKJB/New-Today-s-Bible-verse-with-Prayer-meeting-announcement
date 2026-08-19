@@ -348,19 +348,18 @@ const dailyVerses = {
 
 
     20: {
-        tamilReference: "யோவான் நற்செய்தி 15:15",
-        tamilVerse: "இனி நான் உங்களைப் பணியாளர் என்று சொல்ல மாட்டேன். ஏனெனில், தம் தலைவர் செய்வது இன்னது என்று பணியாளருக்குத் தெரியாது. உங்களை நான் நண்பர்கள் என்றேன்; ஏனெனில், என் தந்தையிடமிருந்து நான் கேட்டவை அனைத்தையும் உங்களுக்கு அறிவித்தேன்.",
-        englishReference: "John 15:15",
-        englishVerse: "No longer do I give you the name of servants; because a servant is without knowledge of what his master is doing: I give you the name of friends, because I have given you knowledge of all the things which my Father has said to me.",
+        tamilReference: "திருப்பாடல்கள் 37:5",
+        tamilVerse: "உன் வழியை ஆண்டவரிடம் ஒப்படைத்துவிடு;அவரையே நம்பியிரு;அவரே உன் சார்பில் செயலாற்றுவார்.",
+        englishReference: "Psalms 37:5",
+        englishVerse: "Put your life in the hands of the Lord; have faith in him and he will do it..",
         bibleImage: "https://i.pinimg.com/736x/d1/fa/99/d1fa99bc64cf11c8c5fcf12d4d022cef.jpg",
         backgroundImage: "https://i.pinimg.com/1200x/13/ce/2b/13ce2b4caedd52dd299c6cd1be7ce67d.jpg",
 
         prayer: {
             title: "ஆகஸ்டு மாத சிறப்பு குணமளிக்கும் நற்செய்திக் கொண்டாட்டம்",
-            // description: "ஒவ்வொரு அடியிலும் தேவனுடைய வழிநடத்துதலை நாடுவோம்.",
             date: "📅  22.08.2026 Saturday",
             time: "⏰ காலை 9:00 AM",
-            place: "📍  St. John the Baptist Chapel, Koinonia House, Pushpagiri "
+            place: "📍 St. John the Baptist Chapel, Koinonia House, Pushpagiri"
         }
     },
 
