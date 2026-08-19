@@ -488,7 +488,6 @@ document.addEventListener("DOMContentLoaded", () => {
         const icons = [
             "💛",
             "✨",
-            "✝️",
             "🙏",
             "💫",
             "🌟"
@@ -617,8 +616,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         const icons = [
             "💛",
-            "✨",
-            "✝️",
+            "✨",           
             "🙏",
             "💫",
             "🌟"
