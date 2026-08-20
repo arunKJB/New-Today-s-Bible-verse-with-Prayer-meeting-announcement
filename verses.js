@@ -365,56 +365,54 @@ const dailyVerses = {
 
 
     21: {
-        tamilReference: "நீதிமொழிகள் 21:21",
-        tamilVerse: "நீதியையும் கிருபையையும் தேடுகிறவன் ஜீவனையும் நீதியையும் மகிமையையும் அடைவான்.",
-        englishReference: "Proverbs 21:21",
-        englishVerse: "Whoever pursues righteousness and love finds life, prosperity and honor.",
-        bibleImage: "",
-        backgroundImage: "",
+        tamilReference: "திருப்பாடல்கள்  91;4",
+        tamilVerse: "அவர் தம் சிறகுகளால் உம்மை அரவணைப்பார்; அவர்தம் இறக்கைகளின்கீழ் நீர் புகலிடம் காண்பீர்; அவரது உண்மையே கேடயமும் கவசமும் ஆகும்.",
+        englishReference: "Psalms 91:4",
+        englishVerse: "You will be covered by his feathers; under his wings you will be safe: his good faith will be your salvation.",
+        bibleImage: "https://i.pinimg.com/736x/fb/14/5d/fb145d13b2094491787df075fbe0a811.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/52/b5/55/52b55565bc6a02203b8bb9bbbaa4cf4b.jpg",
 
-        prayer: {
-            title: "நீதியின் ஜெபக் கூட்டம்",
-            description: "நீதியையும் கிருபையையும் நாடி ஜெபிப்போம்.",
-            date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
+         prayer: {
+            title: "ஆகஸ்டு மாத சிறப்பு குணமளிக்கும் நற்செய்திக் கொண்டாட்டம்",
+            date: "📅  22.08.2026 Saturday",
+            time: "⏰ காலை 9:00 AM",
+            place: "📍 St. John the Baptist Chapel, Koinonia House, Pushpagiri"
         }
     },
 
 
     22: {
-        tamilReference: "நீதிமொழிகள் 22:6",
-        tamilVerse: "பிள்ளையானவன் நடக்கவேண்டிய வழியில் அவனைப் பழக்குவி.",
-        englishReference: "Proverbs 22:6",
-        englishVerse: "Start children off on the way they should go.",
-        bibleImage: "",
-        backgroundImage: "",
+        tamilReference: "எரேமியா  29:11",
+        tamilVerse: "ஏனெனில் உங்களுக்காக நான் வகுத்திருக்கும் திட்டங்கள் எனக்குத் தெரியும் அன்றோ! அவை வளமான எதிர்காலத்தையும் நம்பிக்கையும் உங்களுக்கு அளிப்பதற்கான நல்வாழ்வின் திட்டங்களே அன்றி, கேடு விளைவிப்பதற்கான திட்டங்கள் அல்ல, என்கிறார் ஆண்டவர்.",
+        englishReference: "Jeremiah 29:11",
+        englishVerse: " For I am conscious of my thoughts about you, says the Lord, thoughts of peace and not of evil, to give you hope at the end.",
+        bibleImage: "https://i.pinimg.com/736x/e5/56/2c/e5562c78c1c9cdbd58710d2787f6d0f2.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/e5/56/2c/e5562c78c1c9cdbd58710d2787f6d0f2.jpg",
 
         prayer: {
-            title: "பிள்ளைகளுக்கான ஜெபம்",
-            description: "நமது பிள்ளைகளின் எதிர்காலத்திற்காக ஜெபிப்போம்.",
+            title: "ஆகஸ்டு மாத சிறப்பு குணமளிக்கும் நற்செய்திக் கொண்டாட்டம்",
             date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
+            time: "⏰ காலை 9:00 AM",
+            place: "📍 St. John the Baptist Chapel, Koinonia House, Pushpagiri"
         }
     },
 
 
     23: {
-        tamilReference: "நீதிமொழிகள் 23:26",
-        tamilVerse: "என் மகனே, உன் இருதயத்தை எனக்குக் கொடு.",
-        englishReference: "Proverbs 23:26",
-        englishVerse: "My son, give me your heart.",
-        bibleImage: "",
-        backgroundImage: "",
+        tamilReference: "எசாயா 41:10",
+        tamilVerse: "அஞ்சாதே, நான் உன்னுடன் இருக்கிறேன்; கலங்காதே, நான் உன் கடவுள், நான் உனக்கு வலிமை அளிப்பேன்; உதவி செய்வேன்; என் நீதியின் வலக்கரத்தால் உன்னைத் தாங்குவேன்.",
+        englishReference: "Isaiah 41:10",
+        englishVerse: "Have no fear, for I am with you; do not be looking about in trouble, for I am your God; I will give you strength, yes, I will be your helper; yes, my true right hand will be your support.",
+        bibleImage: "https://i.pinimg.com/736x/fe/49/75/fe4975e8979eae49cfe31d899d420fd5.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/bc/08/11/bc0811cb91a2f878e21efd36c68258cd.jpg",
 
-        prayer: {
-            title: "இருதயத்தை ஒப்புக்கொடுக்கும் ஜெபம்",
-            description: "முழு இருதயத்தோடும் தேவனைத் தேடுவோம்.",
-            date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
-        }
+        // prayer: {
+        //     title: "இருதயத்தை ஒப்புக்கொடுக்கும் ஜெபம்",
+        //     description: "முழு இருதயத்தோடும் தேவனைத் தேடுவோம்.",
+        //     date: "📅 இன்று",
+        //     time: "⏰ மாலை 7:00 PM",
+        //     place: "📍 Koinonia Prayer Hall"
+        // }
     },
 
 
