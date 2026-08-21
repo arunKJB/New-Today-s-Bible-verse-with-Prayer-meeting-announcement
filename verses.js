@@ -417,110 +417,110 @@ const dailyVerses = {
 
 
     24: {
-        tamilReference: "நீதிமொழிகள் 24:16",
-        tamilVerse: "நீதிமான் ஏழுதரம் விழுந்தாலும் திரும்பவும் எழுந்திருப்பான்.",
-        englishReference: "Proverbs 24:16",
-        englishVerse: "Though the righteous fall seven times, they rise again.",
-        bibleImage: "",
-        backgroundImage: "",
+        tamilReference: "திருப்பாடல்கள் 2:8",
+        tamilVerse: "நீர் விரும்புவதை என்னிடம் கேளும்; பிறநாடுகளை உமக்கு உரிமைச் சொத்தாக்குவேன்; பூவுலகை அதன் கடையெல்லைவரை உமக்கு உடைமையாக்குவேன்.",
+        englishReference: "Psalm 2:8",
+        englishVerse: "Ask of me, and I will make the nations your heritage, and the ends of the earth your possession",
+        bibleImage: "https://i.pinimg.com/736x/ab/df/02/abdf02d4794ce16b4fcf5aad0c928a7d.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/f2/b7/60/f2b760cefbac4cd6eb5f2d240d3c6d5c.jpg",
 
-        prayer: {
-            title: "மீண்டும் எழுவதற்கான ஜெபம்",
-            description: "சோர்ந்து போனவர்களுக்காகவும் புதிய பலத்திற்காகவும் ஜெபிப்போம்.",
-            date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
-        }
+        // prayer: {
+        //     title: "மீண்டும் எழுவதற்கான ஜெபம்",
+        //     description: "சோர்ந்து போனவர்களுக்காகவும் புதிய பலத்திற்காகவும் ஜெபிப்போம்.",
+        //     date: "📅 இன்று",
+        //     time: "⏰ மாலை 7:00 PM",
+        //     place: "📍 Koinonia Prayer Hall"
+        // }
     },
 
 
     25: {
-        tamilReference: "நீதிமொழிகள் 25:11",
-        tamilVerse: "ஏற்ற காலத்தில் சொல்லப்பட்ட வார்த்தை வெள்ளித்தட்டுகளில் வைக்கப்பட்ட பொற்பழங்களுக்கு ஒப்பானது.",
-        englishReference: "Proverbs 25:11",
-        englishVerse: "A word fitly spoken is like apples of gold in settings of silver.",
-        bibleImage: "",
-        backgroundImage: "",
+        tamilReference: "இணைச்சட்டம் 4:31",
+        tamilVerse: "உங்கள் கடவுளாகிய ஆண்டவர் இரக்கம் மிகு இறைவன். அவர் உங்களைக் கைவிடமாட்டார்.",
+        englishReference: "Deuteronomy 4:31",
+        englishVerse: "The Lord your God is a merciful God, he will neither abandon you nor destroy you.",
+        bibleImage: "https://i.pinimg.com/1200x/c0/b4/c4/c0b4c4ff4ad6db7af620a33feb51ebd1.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/26/c4/15/26c415a4d83c24fce0df143e064a3041.jpg",
 
         prayer: {
-            title: "வார்த்தைக்கான ஜெபம்",
-            description: "நமது வார்த்தைகள் மற்றவர்களுக்கு ஆசீர்வாதமாக இருக்க ஜெபிப்போம்.",
-            date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
+            title: "நற்செய்தியின் குரல்",
+            description: "சிறப்பு திருப்பலி மற்றும் ஜெப வழிபாடு நடைபெறும்.",
+            date: "📅 நாளை 26-08-2026",
+            time: "⏰ மாலை 6:30 PM",
+            place: "📍 St. John the Baptist Chapel, Koinonia House, Pushpagiri"
         }
     },
 
 
     26: {
-        tamilReference: "நீதிமொழிகள் 26:20",
-        tamilVerse: "விறகு இல்லாவிட்டால் அக்கினி அவியும்.",
-        englishReference: "Proverbs 26:20",
-        englishVerse: "Without wood a fire goes out.",
-        bibleImage: "",
-        backgroundImage: "",
+        tamilReference: "தொடக்கநூல் 21:22",
+        tamilVerse: "நீர் செய்கிற யாவற்றிலும் கடவுள் உம்முடனே இருக்கிறார்.",
+        englishReference: "Genesis 21:22",
+        englishVerse: "God is with you in every you do.",
+        bibleImage: "https://i.pinimg.com/736x/f5/63/a4/f563a453cdd8aca1d51af0ba29d1ee50.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/7d/94/b2/7d94b22269fc177544ee793d40d10cef.jpg",
 
         prayer: {
-            title: "ஆவிக்குரிய வளர்ச்சிக்கான ஜெபம்",
-            description: "தேவனோடு நமது உறவு வளர ஜெபிப்போம்.",
+            title: "நற்செய்தியின் குரல்",
+            description: "சிறப்பு திருப்பலி மற்றும் ஜெப வழிபாடு நடைபெறும்.",
             date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
+            time: "⏰ மாலை 6:30 PM",
+            place: "📍 St. John the Baptist Chapel, Koinonia House, Pushpagiri"
         }
     },
 
 
     27: {
-        tamilReference: "நீதிமொழிகள் 27:17",
-        tamilVerse: "இரும்பு இரும்பைக் கூர்மையாக்கும்; அப்படியே மனுஷன் தன் சிநேகிதனுடைய முகத்தைக் கூர்மையாக்குகிறான்.",
-        englishReference: "Proverbs 27:17",
-        englishVerse: "As iron sharpens iron, so one person sharpens another.",
-        bibleImage: "",
-        backgroundImage: "",
+        tamilReference: "2 கொரிந்தியர் 9:8",
+        tamilVerse: "கடவுள் உங்களை எல்லா நலன்களாலும் நிரப்ப வல்லவர். எந்தச் சூழ்நிலையிலும் எப்போதும் தேவையானதெல்லாம் உங்களுக்குத் தருவார்; அனைத்து நற்செயல்களையும் செய்வதற்குத் தேவையானதெல்லாம் உங்களுக்கு மிகுதியாகவே தருவார்.",
+        englishReference: "2 Corinthians 9:8",
+        englishVerse: "And God is able to make all grace abound to you, so that having all sufficiency in all things at all times, you may abound in every good work.",
+        bibleImage: "https://i.pinimg.com/1200x/78/9b/95/789b952957f5d01a0aeb1013443c3ab5.jpg",
+        backgroundImage: "https://i.pinimg.com/1200x/78/9b/95/789b952957f5d01a0aeb1013443c3ab5.jpg",
 
-        prayer: {
-            title: "ஐக்கிய ஜெபக் கூட்டம்",
-            description: "ஒருவருக்கொருவர் ஜெபித்து உற்சாகப்படுத்துவோம்.",
-            date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
-        }
+        // prayer: {
+        //     title: "ஐக்கிய ஜெபக் கூட்டம்",
+        //     description: "ஒருவருக்கொருவர் ஜெபித்து உற்சாகப்படுத்துவோம்.",
+        //     date: "📅 இன்று",
+        //     time: "⏰ மாலை 7:00 PM",
+        //     place: "📍 Koinonia Prayer Hall"
+        // }
     },
 
 
     28: {
-        tamilReference: "நீதிமொழிகள் 28:13",
-        tamilVerse: "தன் மீறுதல்களை மறைக்கிறவன் வாழ்வடையான்; அவைகளை அறிக்கையிட்டு விட்டுவிடுகிறவனோ இரக்கம் பெறுவான்.",
-        englishReference: "Proverbs 28:13",
-        englishVerse: "Whoever conceals their sins does not prosper, but the one who confesses and renounces them finds mercy.",
-        bibleImage: "",
-        backgroundImage: "",
+        tamilReference: "எரேமியா 31:3",
+        tamilVerse: "உனக்கு நான் முடிவில்லாத அன்பு காட்டியுள்ளேன்; எனவே பேரன்பால் உன்னை ஈர்த்துள்ளேன்.",
+        englishReference: "Jeremiah 31:3",
+        englishVerse: "I have loved you with an everlasting love; therefore I have continued my faithfulness to you.",
+        bibleImage: "https://i.pinimg.com/736x/fa/cf/05/facf055569cb829f29679130bd4db1d0.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/3f/1b/56/3f1b56233cc76ad9a873ed0f1b917243.jpg",
 
-        prayer: {
-            title: "மனந்திரும்புதலின் ஜெபம்",
-            description: "தேவனுடைய கிருபையையும் இரக்கத்தையும் நாடுவோம்.",
-            date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
-        }
+        // prayer: {
+        //     title: "மனந்திரும்புதலின் ஜெபம்",
+        //     description: "தேவனுடைய கிருபையையும் இரக்கத்தையும் நாடுவோம்.",
+        //     date: "📅 இன்று",
+        //     time: "⏰ மாலை 7:00 PM",
+        //     place: "📍 Koinonia Prayer Hall"
+        // }
     },
 
 
     29: {
-        tamilReference: "நீதிமொழிகள் 29:25",
-        tamilVerse: "மனுஷனைப் பற்றிய பயம் கண்ணியை வருவிக்கும்; கர்த்தரில் நம்பிக்கையாயிருக்கிறவனோ உயர்ந்த அடைக்கலத்தில் இருப்பான்.",
-        englishReference: "Proverbs 29:25",
-        englishVerse: "Fear of man will prove to be a snare, but whoever trusts in the LORD is kept safe.",
-        bibleImage: "",
-        backgroundImage: "",
+        tamilReference: "எசாயா 54:7",
+        tamilVerse: "நொடிப்பொழுதே நான் உன்னைக் கைவிட்டேன்; ஆயினும் பேரிரக்கத்தால் உன்னை மீண்டும் ஏற்றுக்கொள்வேன்.",
+        englishReference: "Isaiah 54:7",
+        englishVerse: "For a brief moment I abandoned you, but with great compassion I will take you back.",
+        bibleImage: "https://i.pinimg.com/736x/4e/21/d7/4e21d76f4baf22b45061788856bbbf4c.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/f6/f3/b2/f6f3b2e6e5bdbe6e4f5b0da85dcfd205.jpg",
 
-        prayer: {
-            title: "பயத்தை வெல்லும் ஜெபம்",
-            description: "எல்லா பயங்களையும் தேவனிடம் ஒப்புக்கொடுத்து ஜெபிப்போம்.",
-            date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
-        }
+        // prayer: {
+        //     title: "பயத்தை வெல்லும் ஜெபம்",
+        //     description: "எல்லா பயங்களையும் தேவனிடம் ஒப்புக்கொடுத்து ஜெபிப்போம்.",
+        //     date: "📅 இன்று",
+        //     time: "⏰ மாலை 7:00 PM",
+        //     place: "📍 Koinonia Prayer Hall"
+        // }
     },
 
 
@@ -532,13 +532,13 @@ const dailyVerses = {
         bibleImage: "",
         backgroundImage: "",
 
-        prayer: {
-            title: "தேவ வார்த்தைக்கான ஜெபம்",
-            description: "தேவனுடைய வார்த்தையை நம் வாழ்க்கையில் நிலைநிறுத்துவோம்.",
-            date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
-        }
+        // prayer: {
+        //     title: "தேவ வார்த்தைக்கான ஜெபம்",
+        //     description: "தேவனுடைய வார்த்தையை நம் வாழ்க்கையில் நிலைநிறுத்துவோம்.",
+        //     date: "📅 இன்று",
+        //     time: "⏰ மாலை 7:00 PM",
+        //     place: "📍 Koinonia Prayer Hall"
+        // }
     },
 
 
@@ -550,13 +550,13 @@ const dailyVerses = {
         bibleImage: "",
         backgroundImage: "",
 
-        prayer: {
-            title: "நன்றியின் ஜெபக் கூட்டம்",
-            description: "இந்த மாதம் முழுவதும் தேவன் செய்த நன்மைகளுக்காக நன்றி செலுத்துவோம்.",
-            date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
-        }
+        // prayer: {
+        //     title: "நன்றியின் ஜெபக் கூட்டம்",
+        //     description: "இந்த மாதம் முழுவதும் தேவன் செய்த நன்மைகளுக்காக நன்றி செலுத்துவோம்.",
+        //     date: "📅 இன்று",
+        //     time: "⏰ மாலை 7:00 PM",
+        //     place: "📍 Koinonia Prayer Hall"
+        // }
     }
 
 };
