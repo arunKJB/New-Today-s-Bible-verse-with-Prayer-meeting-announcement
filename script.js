@@ -490,7 +490,8 @@ document.addEventListener("DOMContentLoaded", () => {
             "✨",
             "🙏",
             "💫",
-            "🌟"
+            "🌟",
+            "🩵"
         ];
 
 
@@ -573,7 +574,7 @@ document.addEventListener("DOMContentLoaded", () => {
             ----------------------------------------- */
 
             icon.style.animationDelay =
-                `${Math.random() * 0.45}s`;
+                `${Math.random() * 0.55}s`;
 
 
             bottomFlashContainer.appendChild(
