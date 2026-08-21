@@ -387,7 +387,7 @@ const dailyVerses = {
         englishReference: "Jeremiah 29:11",
         englishVerse: " For I am conscious of my thoughts about you, says the Lord, thoughts of peace and not of evil, to give you hope at the end.",
         bibleImage: "https://i.pinimg.com/736x/e5/56/2c/e5562c78c1c9cdbd58710d2787f6d0f2.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/e5/56/2c/e5562c78c1c9cdbd58710d2787f6d0f2.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/c0/56/3f/c0563f5ba36524d8f5876b38cfab2b65.jpg",
 
         prayer: {
             title: "ஆகஸ்டு மாத சிறப்பு குணமளிக்கும் நற்செய்திக் கொண்டாட்டம்",
