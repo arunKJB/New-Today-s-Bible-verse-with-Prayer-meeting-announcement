@@ -386,7 +386,7 @@ const dailyVerses = {
         tamilVerse: "ஏனெனில் உங்களுக்காக நான் வகுத்திருக்கும் திட்டங்கள் எனக்குத் தெரியும் அன்றோ! அவை வளமான எதிர்காலத்தையும் நம்பிக்கையும் உங்களுக்கு அளிப்பதற்கான நல்வாழ்வின் திட்டங்களே அன்றி, கேடு விளைவிப்பதற்கான திட்டங்கள் அல்ல, என்கிறார் ஆண்டவர்.",
         englishReference: "Jeremiah 29:11",
         englishVerse: " For I am conscious of my thoughts about you, says the Lord, thoughts of peace and not of evil, to give you hope at the end.",
-        bibleImage: "https://i.pinimg.com/736x/e5/56/2c/e5562c78c1c9cdbd58710d2787f6d0f2.jpg",
+        bibleImage: "https://i.pinimg.com/736x/4d/80/dd/4d80dd3bade3293ad06b92c41fb3e37b.jpg",
         backgroundImage: "https://i.pinimg.com/736x/c0/56/3f/c0563f5ba36524d8f5876b38cfab2b65.jpg",
 
         prayer: {
