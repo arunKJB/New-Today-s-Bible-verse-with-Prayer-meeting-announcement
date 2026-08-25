@@ -972,19 +972,54 @@ const amenBtn = document.getElementById("amenBtn");
 
 
 // =====================================
+// GET TODAY'S DATE
+// =====================================
+
+// Format example:
+// 2026-08-26
+
+function getTodayDate() {
+
+    const today = new Date();
+
+    return today.getFullYear()
+        + "-"
+        + String(today.getMonth() + 1).padStart(2, "0")
+        + "-"
+        + String(today.getDate()).padStart(2, "0");
+
+}
+
+
+// =====================================
+// CREATE DAILY LOCALSTORAGE KEY
+// =====================================
+
+const todayDate = getTodayDate();
+
+const amenStorageKey =
+    `amenClicked_${todayDate}`;
+
+
+// =====================================
 // AMEN BUTTON
 // =====================================
 
 if (amenBtn) {
 
-    // Check whether this browser already said Amen
-    const alreadyClicked = localStorage.getItem("amenClicked");
+
+    // =====================================
+    // CHECK IF USER ALREADY CLICKED TODAY
+    // =====================================
+
+    const alreadyClickedToday =
+        localStorage.getItem(amenStorageKey);
 
 
-    // If already clicked before
-    if (alreadyClicked === "true") {
+    if (alreadyClickedToday === "true") {
 
-        amenBtn.innerHTML = "💛 ஆமென்";
+        amenBtn.innerHTML =
+            "💛 ஆமென்";
 
     }
 
@@ -993,106 +1028,116 @@ if (amenBtn) {
     // BUTTON CLICK
     // =====================================
 
-    amenBtn.addEventListener("click", async function () {
-
-        try {
-
-            // =====================================
-            // 1. COUNT EVERY BUTTON CLICK
-            // =====================================
-
-            const { error: clickError } = await supabaseClient.rpc(
-                "increment_amen_clicks"
-            );
+    amenBtn.addEventListener(
+        "click",
+        async function () {
 
 
-            if (clickError) {
+            try {
 
-                console.error(
-                    "Total click count error:",
-                    clickError
+
+                // =====================================
+                // 1. EVERY CLICK
+                // =====================================
+
+                const { error: clickError } =
+                    await supabaseClient.rpc(
+                        "increment_amen_clicks"
+                    );
+
+
+                if (clickError) {
+
+                    console.error(
+                        "Click count error:",
+                        clickError
+                    );
+
+                    return;
+
+                }
+
+
+                // =====================================
+                // 2. CHECK IF ALREADY AMEN TODAY
+                // =====================================
+
+                const alreadyClicked =
+                    localStorage.getItem(
+                        amenStorageKey
+                    );
+
+
+                // =====================================
+                // ALREADY CLICKED TODAY
+                // =====================================
+
+                if (alreadyClicked === "true") {
+
+                    console.log(
+                        "Already said Amen today 💛"
+                    );
+
+                    return;
+
+                }
+
+
+                // =====================================
+                // FIRST AMEN TODAY
+                // =====================================
+
+                const { error: amenError } =
+                    await supabaseClient.rpc(
+                        "increment_amen_count"
+                    );
+
+
+                if (amenError) {
+
+                    console.error(
+                        "Amen count error:",
+                        amenError
+                    );
+
+                    return;
+
+                }
+
+
+                // =====================================
+                // SAVE DAILY AMEN
+                // =====================================
+
+                localStorage.setItem(
+                    amenStorageKey,
+                    "true"
                 );
 
-            }
 
+                // =====================================
+                // CHANGE BUTTON TEXT
+                // =====================================
 
-            // =====================================
-            // 2. CHECK FIRST-TIME AMEN
-            // =====================================
+                amenBtn.innerHTML =
+                    "💛 ஆமென்";
 
-            const alreadyClicked = localStorage.getItem(
-                "amenClicked"
-            );
-
-
-            // If already clicked, stop here
-            // total_clicks was already counted above
-            if (alreadyClicked === "true") {
 
                 console.log(
-                    "Already said Amen - click recorded only"
+                    "Amen counted successfully 💛"
                 );
 
-                return;
 
-            }
-
-
-            // =====================================
-            // 3. FIRST-TIME AMEN
-            // =====================================
-
-            amenBtn.disabled = true;
-
-
-            const { error: amenError } = await supabaseClient.rpc(
-                "increment_amen_count"
-            );
-
-
-            if (amenError) {
+            } catch (error) {
 
                 console.error(
-                    "Amen count error:",
-                    amenError
+                    "Unexpected error:",
+                    error
                 );
-
-                amenBtn.disabled = false;
-
-                return;
 
             }
 
-
-            // =====================================
-            // 4. SAVE FIRST AMEN
-            // =====================================
-
-            localStorage.setItem(
-                "amenClicked",
-                "true"
-            );
-
-
-            amenBtn.innerHTML = "💛 ஆமென்";
-
-            amenBtn.disabled = true;
-
-
-            console.log(
-                "First Amen successfully counted 💛"
-            );
-
-
-        } catch (error) {
-
-            console.error(
-                "Unexpected error:",
-                error
-            );
-
         }
-
-    });
+    );
 
 }
