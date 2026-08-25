@@ -984,7 +984,7 @@ if (amenBtn) {
     // If already clicked before
     if (alreadyClicked === "true") {
 
-        amenBtn.innerHTML = "💛 ஆமென் ✓";
+        amenBtn.innerHTML = "💛 ஆமென்";
 
     }
 
@@ -1074,7 +1074,7 @@ if (amenBtn) {
             );
 
 
-            amenBtn.innerHTML = "💛 ஆமென் ✓";
+            amenBtn.innerHTML = "💛 ஆமென்";
 
             amenBtn.disabled = true;
 
