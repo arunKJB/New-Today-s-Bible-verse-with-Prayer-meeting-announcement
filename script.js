@@ -949,3 +949,124 @@ document.addEventListener("DOMContentLoaded", () => {
     );
 
 });
+
+// =====================================
+// SUPABASE CONFIGURATION
+// =====================================
+
+const SUPABASE_URL = "https://lcvrsfezfedzlgomepbk.supabase.co";
+
+const SUPABASE_KEY = "sb_publishable_XOsXBtCAJd_kEEKAfdeJ2g_Y3EZriWW";
+
+const supabaseClient = window.supabase.createClient(
+    SUPABASE_URL,
+    SUPABASE_KEY
+);
+
+
+// =====================================
+// GET AMEN BUTTON
+// =====================================
+
+const amenBtn = document.getElementById("amenBtn");
+
+
+// =====================================
+// AMEN BUTTON CLICK
+// =====================================
+
+if (amenBtn) {
+
+    // Check if this browser already clicked before
+    const alreadyClicked = localStorage.getItem("amenClicked");
+
+    // Optional: show that the user already said Amen
+    if (alreadyClicked === "true") {
+        amenBtn.innerHTML = "💛 ஆமென்";
+    }
+
+
+    amenBtn.addEventListener("click", async function () {
+
+        // Check again when user clicks
+        const alreadyClicked = localStorage.getItem("amenClicked");
+
+
+        // =====================================
+        // USER ALREADY CLICKED
+        // =====================================
+
+        if (alreadyClicked === "true") {
+
+            console.log("You already said Amen 💛");
+
+            // Do not increase Supabase count
+            return;
+
+        }
+
+
+        // =====================================
+        // FIRST CLICK
+        // =====================================
+
+        // Disable button while sending request
+        amenBtn.disabled = true;
+
+
+        try {
+
+            // Increase Amen count in Supabase
+            const { error } = await supabaseClient.rpc(
+                "increment_amen_count"
+            );
+
+
+            // If Supabase returns an error
+            if (error) {
+
+                console.error("Amen count error:", error);
+
+                // Enable button again so user can retry
+                amenBtn.disabled = false;
+
+                return;
+
+            }
+
+
+            // =====================================
+            // SUCCESS
+            // =====================================
+
+            // Save this browser as already clicked
+            localStorage.setItem("amenClicked", "true");
+
+
+            // Change button text
+            amenBtn.innerHTML = "💛 ஆமென்";
+
+            // Keep button disabled
+            amenBtn.disabled = true;
+
+
+            console.log(
+                "Amen successfully saved to Supabase 💛"
+            );
+
+
+        } catch (error) {
+
+            console.error(
+                "Unexpected Amen error:",
+                error
+            );
+
+            // Enable button if something goes wrong
+            amenBtn.disabled = false;
+
+        }
+
+    });
+
+}
