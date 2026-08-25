@@ -972,62 +972,91 @@ const amenBtn = document.getElementById("amenBtn");
 
 
 // =====================================
-// AMEN BUTTON CLICK
+// AMEN BUTTON
 // =====================================
 
 if (amenBtn) {
 
-    // Check if this browser already clicked before
+    // Check whether this browser already said Amen
     const alreadyClicked = localStorage.getItem("amenClicked");
 
-    // Optional: show that the user already said Amen
+
+    // If already clicked before
     if (alreadyClicked === "true") {
-        amenBtn.innerHTML = "💛 ஆமென்";
+
+        amenBtn.innerHTML = "💛 ஆமென் ✓";
+
     }
 
 
+    // =====================================
+    // BUTTON CLICK
+    // =====================================
+
     amenBtn.addEventListener("click", async function () {
-
-        // Check again when user clicks
-        const alreadyClicked = localStorage.getItem("amenClicked");
-
-
-        // =====================================
-        // USER ALREADY CLICKED
-        // =====================================
-
-        if (alreadyClicked === "true") {
-
-            console.log("You already said Amen 💛");
-
-            // Do not increase Supabase count
-            return;
-
-        }
-
-
-        // =====================================
-        // FIRST CLICK
-        // =====================================
-
-        // Disable button while sending request
-        amenBtn.disabled = true;
-
 
         try {
 
-            // Increase Amen count in Supabase
-            const { error } = await supabaseClient.rpc(
+            // =====================================
+            // 1. COUNT EVERY BUTTON CLICK
+            // =====================================
+
+            const { error: clickError } = await supabaseClient.rpc(
+                "increment_amen_clicks"
+            );
+
+
+            if (clickError) {
+
+                console.error(
+                    "Total click count error:",
+                    clickError
+                );
+
+            }
+
+
+            // =====================================
+            // 2. CHECK FIRST-TIME AMEN
+            // =====================================
+
+            const alreadyClicked = localStorage.getItem(
+                "amenClicked"
+            );
+
+
+            // If already clicked, stop here
+            // total_clicks was already counted above
+            if (alreadyClicked === "true") {
+
+                console.log(
+                    "Already said Amen - click recorded only"
+                );
+
+                return;
+
+            }
+
+
+            // =====================================
+            // 3. FIRST-TIME AMEN
+            // =====================================
+
+            amenBtn.disabled = true;
+
+
+            const { error: amenError } = await supabaseClient.rpc(
                 "increment_amen_count"
             );
 
 
-            // If Supabase returns an error
-            if (error) {
+            if (amenError) {
 
-                console.error("Amen count error:", error);
+                console.error(
+                    "Amen count error:",
+                    amenError
+                );
 
-                // Enable button again so user can retry
                 amenBtn.disabled = false;
 
                 return;
@@ -1036,34 +1065,31 @@ if (amenBtn) {
 
 
             // =====================================
-            // SUCCESS
+            // 4. SAVE FIRST AMEN
             // =====================================
 
-            // Save this browser as already clicked
-            localStorage.setItem("amenClicked", "true");
+            localStorage.setItem(
+                "amenClicked",
+                "true"
+            );
 
 
-            // Change button text
-            amenBtn.innerHTML = "💛 ஆமென்";
+            amenBtn.innerHTML = "💛 ஆமென் ✓";
 
-            // Keep button disabled
             amenBtn.disabled = true;
 
 
             console.log(
-                "Amen successfully saved to Supabase 💛"
+                "First Amen successfully counted 💛"
             );
 
 
         } catch (error) {
 
             console.error(
-                "Unexpected Amen error:",
+                "Unexpected error:",
                 error
             );
-
-            // Enable button if something goes wrong
-            amenBtn.disabled = false;
 
         }
 
