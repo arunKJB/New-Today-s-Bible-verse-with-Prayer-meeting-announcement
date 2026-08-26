@@ -526,11 +526,11 @@ const dailyVerses = {
 
     30: {
         tamilReference: "நீதிமொழிகள் 30:5",
-        tamilVerse: "தேவனுடைய வார்த்தைகள் யாவும் புடமிடப்பட்டவைகள்; அவரை நம்புகிறவர்களுக்கு அவர் கேடகமாயிருக்கிறார்.",
+        tamilVerse: "கடவுளின் ஒவ்வொரு வாக்கும் பரிசோதிக் கப்பட்டு நம்பத்தக்கதாய் விளங்குகிறது; தம்மை அடைக்கலமாகக் கொண்டவர்களுக்கு அவர் கேடயமாயிருக்கிறார்.",
         englishReference: "Proverbs 30:5",
-        englishVerse: "Every word of God is flawless; he is a shield to those who take refuge in him.",
-        bibleImage: "",
-        backgroundImage: "",
+        englishVerse: "Every word of God is tested: he is a breastplate to those who put their faith in him.",
+        bibleImage: "https://i.pinimg.com/1200x/1b/d5/79/1bd5790768325bbdd64e7dc36b6d4306.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/af/a2/3d/afa23db91f8a38962e3a17c64f04459a.jpg",
 
         // prayer: {
         //     title: "தேவ வார்த்தைக்கான ஜெபம்",
@@ -543,12 +543,12 @@ const dailyVerses = {
 
 
     31: {
-        tamilReference: "நீதிமொழிகள் 31:25",
-        tamilVerse: "பலமும் கனமும் அவளுக்கு ஆடையாக இருக்கிறது; வரப்போகிற நாளைக்காக அவள் சந்தோஷப்படுகிறாள்.",
-        englishReference: "Proverbs 31:25",
-        englishVerse: "She is clothed with strength and dignity; she can laugh at the days to come.",
-        bibleImage: "",
-        backgroundImage: "",
+        tamilReference: "யோவான் நற்செய்தி 16;33",
+        tamilVerse: "உலகில் உங்களுக்குத் துன்பம் உண்டு, எனினும் துணிவுடன் இருங்கள். நான் உலகின்மீது வெற்றி கொண்டுவிட்டேன்.",
+        englishReference: "John 16:33",
+        englishVerse: "In the world you have trouble: but take heart! I have overcome the world.",
+        bibleImage: "https://i.pinimg.com/736x/b1/1a/17/b11a17ced3d595effa3c51f55311a2c9.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/e7/3d/ea/e73dea883b220b362fbcb7eb85becf8c.jpg",
 
         // prayer: {
         //     title: "நன்றியின் ஜெபக் கூட்டம்",
