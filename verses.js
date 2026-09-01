@@ -6,12 +6,12 @@
 const dailyVerses = {
 
     1: {
-        tamilReference: "நீதிமொழிகள் 1:7",
-        tamilVerse: "கர்த்தருக்குப் பயப்படுதலே அறிவின் ஆரம்பம்.",
-        englishReference: "Proverbs 1:7",
-        englishVerse: "The fear of the LORD is the beginning of knowledge.",
-        bibleImage: "",
-        backgroundImage: "",
+        tamilReference: "செப்பனியா 3:17",
+        tamilVerse: "உன் கடவுளாகிய ஆண்டவர் உன் நடுவில் இருக்கின்றார்; அவர் மாவீரர்; மீட்பு அளிப்பவர்; உன்பொருட்டு அவர் மகிழ்ந்து களிகூருவார்; தம் அன்பினால் உனக்குப் புத்துயிர் அளிப்பார்; உன்னைக் குறித்து மகிழ்ந்து ஆடிப்பாடுவார்.",
+        englishReference: "Zephaniah 3:17",
+        englishVerse: " And I will send trouble on men so that they will go about like the blind, because they have done evil against the Lord: and their blood will be drained out like dust, and their strength like waste.",
+        bibleImage: "https://i.pinimg.com/736x/99/a8/15/99a8156114deb7b9cd1b12cbf713fd11.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/99/a8/15/99a8156114deb7b9cd1b12cbf713fd11.jpg",
 
         prayer: {
             title: "இன்றைய ஜெபக் கூட்டம்",
