@@ -1141,3 +1141,113 @@ if (amenBtn) {
     );
 
 }
+
+
+// =====================================================
+// FIRST SCREEN DAILY COUNT
+// =====================================================
+
+// Get the existing first screen
+const startScreen = document.getElementById("start-screen");
+
+
+// =====================================================
+// GET TODAY'S DATE - INDIA TIME
+// =====================================================
+
+function getTodayIndiaDate() {
+
+    return new Intl.DateTimeFormat("en-CA", {
+        timeZone: "Asia/Kolkata",
+        year: "numeric",
+        month: "2-digit",
+        day: "2-digit"
+    }).format(new Date());
+
+}
+
+
+// =====================================================
+// FIRST SCREEN CLICK TRACKING
+// =====================================================
+
+if (startScreen) {
+
+    startScreen.addEventListener("click", async function () {
+
+        // Get today's date
+        const today = getTodayIndiaDate();
+
+
+        // Create a unique key for today's first-screen visit
+        const storageKey =
+            `firstScreenClicked_${today}`;
+
+
+        // Check whether this browser already clicked today
+        const alreadyCounted =
+            localStorage.getItem(storageKey);
+
+
+        // If already counted today, do nothing
+        if (alreadyCounted === "true") {
+
+            console.log(
+                "First screen already counted today."
+            );
+
+            return;
+        }
+
+
+        // =================================================
+        // SEND COUNT TO SUPABASE
+        // =================================================
+
+        try {
+
+            const { data, error } =
+                await supabaseClient.rpc(
+                    "increment_first_screen_count"
+                );
+
+
+            // Check for Supabase error
+            if (error) {
+
+                console.error(
+                    "First screen count error:",
+                    error
+                );
+
+                return;
+            }
+
+
+            // =================================================
+            // SAVE TODAY'S CLICK IN THIS BROWSER
+            // =================================================
+
+            localStorage.setItem(
+                storageKey,
+                "true"
+            );
+
+
+            console.log(
+                "First screen counted successfully."
+            );
+
+
+        } catch (error) {
+
+            console.error(
+                "Unexpected error:",
+                error
+            );
+
+        }
+
+    });
+
+}
