@@ -24,10 +24,10 @@ const dailyVerses = {
 
 
     2: {
-        tamilReference: "நீதிமொழிகள் 2:6",
-        tamilVerse: "ஞானத்தைக் கர்த்தரே கொடுக்கிறார்; அறிவும் புத்தியும் அவர் வாயிலிருந்து வரும்.",
-        englishReference: "Proverbs 2:6",
-        englishVerse: "For the LORD gives wisdom; from his mouth come knowledge and understanding.",
+        tamilReference: "",
+        tamilVerse: "",
+        englishReference: "",
+        englishVerse: "",
         bibleImage: "",
         backgroundImage: "",
 
@@ -42,10 +42,10 @@ const dailyVerses = {
 
 
     3: {
-        tamilReference: "நீதிமொழிகள் 3:5",
-        tamilVerse: "உன் முழு இருதயத்தோடும் கர்த்தரில் நம்பிக்கையாயிருந்து, உன் சுயபுத்தியின்மேல் சாயாதே.",
-        englishReference: "Proverbs 3:5",
-        englishVerse: "Trust in the LORD with all your heart and lean not on your own understanding.",
+        tamilReference: "",
+        tamilVerse: "",
+        englishReference: "",
+        englishVerse: "",
         bibleImage: "",
         backgroundImage: "",
 
@@ -60,10 +60,10 @@ const dailyVerses = {
 
 
     4: {
-        tamilReference: "நீதிமொழிகள் 4:23",
-        tamilVerse: "எல்லாக் காவலோடும் உன் இருதயத்தைக் காத்துக்கொள்; அதிலிருந்து ஜீவ ஊற்று புறப்படும்.",
-        englishReference: "Proverbs 4:23",
-        englishVerse: "Above all else, guard your heart, for everything you do flows from it.",
+        tamilReference: "",
+        tamilVerse: "",
+        englishReference: "",
+        englishVerse: "",
         bibleImage: "",
         backgroundImage: "",
 
@@ -78,10 +78,10 @@ const dailyVerses = {
 
 
     5: {
-        tamilReference: "நீதிமொழிகள் 5:21",
-        tamilVerse: "மனுஷனுடைய வழிகள் கர்த்தருடைய கண்களுக்கு முன்பாக இருக்கின்றன.",
-        englishReference: "Proverbs 5:21",
-        englishVerse: "For your ways are in full view of the LORD, and he examines all your paths.",
+        tamilReference: "",
+        tamilVerse: "",
+        englishReference: "",
+        englishVerse: "",
         bibleImage: "",
         backgroundImage: "",
 
@@ -96,8 +96,8 @@ const dailyVerses = {
 
 
     6: {
-        tamilReference: "நீதிமொழிகள் 6:23",
-        tamilVerse: "கற்பனை விளக்கும், வேதம் வெளிச்சமும், கடிந்துகொள்ளுதலின் சிட்சை ஜீவனுக்குரிய வழியும் ஆகும்.",
+        tamilReference: "",
+        tamilVerse: "",
         englishReference: "Proverbs 6:23",
         englishVerse: "For this command is a lamp, this teaching is a light.",
         bibleImage: "",
@@ -114,10 +114,10 @@ const dailyVerses = {
 
 
     7: {
-        tamilReference: "நீதிமொழிகள் 7:2",
-        tamilVerse: "என் கற்பனைகளைக் கைக்கொண்டு பிழைத்திரு; என் போதனையை உன் கண்மணியைப்போலக் காத்துக்கொள்.",
-        englishReference: "Proverbs 7:2",
-        englishVerse: "Keep my commands and you will live; guard my teachings as the apple of your eye.",
+        tamilReference: "",
+        tamilVerse: "",
+        englishReference: "",
+        englishVerse: "",
         bibleImage: "",
         backgroundImage: "",
 
@@ -132,10 +132,10 @@ const dailyVerses = {
 
 
     8: {
-        tamilReference: "நீதிமொழிகள் 8:17",
-        tamilVerse: "என்னை நேசிக்கிறவர்களை நான் நேசிக்கிறேன்; அதிகாலையில் என்னைத் தேடுகிறவர்கள் என்னைக் கண்டடைவார்கள்.",
-        englishReference: "Proverbs 8:17",
-        englishVerse: "I love those who love me, and those who seek me find me.",
+        tamilReference: "",
+        tamilVerse: "",
+        englishReference: "",
+        englishVerse: "",
         bibleImage: "",
         backgroundImage: "",
 
@@ -150,10 +150,10 @@ const dailyVerses = {
 
 
     9: {
-        tamilReference: "நீதிமொழிகள் 9:10",
-        tamilVerse: "கர்த்தருக்குப் பயப்படுதலே ஞானத்தின் ஆரம்பம்.",
-        englishReference: "Proverbs 9:10",
-        englishVerse: "The fear of the LORD is the beginning of wisdom.",
+        tamilReference: "",
+        tamilVerse: "",
+        englishReference: "",
+        englishVerse: "",
         bibleImage: "",
         backgroundImage: "",
 
@@ -168,10 +168,10 @@ const dailyVerses = {
 
 
     10: {
-        tamilReference: "நீதிமொழிகள் 10:12",
-        tamilVerse: "பகை சண்டைகளை எழுப்பும்; அன்போ எல்லா மீறுதல்களையும் மூடும்.",
-        englishReference: "Proverbs 10:12",
-        englishVerse: "Hatred stirs up conflict, but love covers over all wrongs.",
+        tamilReference: "",
+        tamilVerse: "",
+        englishReference: "",
+        englishVerse: "",
         bibleImage: "",
         backgroundImage: "",
 
@@ -186,10 +186,10 @@ const dailyVerses = {
 
 
     11: {
-        tamilReference: "நீதிமொழிகள் 11:25",
-        tamilVerse: "உதாரகுணமுள்ளவன் செழிப்பான்; தண்ணீர் பாய்ச்சுகிறவனுக்குத் தண்ணீர் பாய்ச்சப்படும்.",
-        englishReference: "Proverbs 11:25",
-        englishVerse: "A generous person will prosper; whoever refreshes others will be refreshed.",
+        tamilReference: "",
+        tamilVerse: "",
+        englishReference: "",
+        englishVerse: "",
         bibleImage: "",
         backgroundImage: "",
 
@@ -204,10 +204,10 @@ const dailyVerses = {
 
 
     12: {
-        tamilReference: "நீதிமொழிகள் 12:25",
-        tamilVerse: "மனுஷனுடைய இருதயத்தில் கவலை இருந்தால் அது அவனைத் தாழ்த்தும்; நல்ல வார்த்தையோ அதை மகிழ்ச்சியாக்கும்.",
-        englishReference: "Proverbs 12:25",
-        englishVerse: "Anxiety weighs down the heart, but a kind word cheers it up.",
+        tamilReference: "",
+        tamilVerse: "",
+        englishReference: "",
+        englishVerse: "",
         bibleImage: "",
         backgroundImage: "",
 
@@ -222,10 +222,10 @@ const dailyVerses = {
 
 
     13: {
-        tamilReference: "நீதிமொழிகள் 13:12",
-        tamilVerse: "நீண்ட நம்பிக்கை இருதயத்தை இளைக்கப்பண்ணும்; விரும்பினது வரும்போதோ அது ஜீவவிருட்சம்.",
-        englishReference: "Proverbs 13:12",
-        englishVerse: "Hope deferred makes the heart sick, but a longing fulfilled is a tree of life.",
+        tamilReference: "",
+        tamilVerse: "",
+        englishReference: "",
+        englishVerse: "",
         bibleImage: "",
         backgroundImage: "",
 
@@ -240,16 +240,16 @@ const dailyVerses = {
 
 
     14: {
-        tamilReference: "நீதிமொழிகள் 14:26",
-        tamilVerse: "கர்த்தருக்குப் பயப்படுதலில் பலத்த நம்பிக்கை உண்டு.",
-        englishReference: "Proverbs 14:26",
-        englishVerse: "Whoever fears the LORD has a secure fortress.",
+        tamilReference: "",
+        tamilVerse: "",
+        englishReference: "",
+        englishVerse: "",
         bibleImage: "",
         backgroundImage: "",
 
         prayer: {
-            title: "நம்பிக்கையின் ஜெப நேரம்",
-            description: "கர்த்தரே நமது அடைக்கலம் என்று நம்பி ஜெபிப்போம்.",
+            title: "",
+            description: "",
             date: "📅 இன்று",
             time: "⏰ மாலை 7:00 PM",
             place: "📍 Koinonia Prayer Hall"
@@ -258,10 +258,10 @@ const dailyVerses = {
 
 
     15: {
-        tamilReference: "நீதிமொழிகள் 15:13",
-        tamilVerse: "மகிழ்ச்சியான இருதயம் முகத்தை மலரப்பண்ணும்.",
-        englishReference: "Proverbs 15:13",
-        englishVerse: "A happy heart makes the face cheerful.",
+        tamilReference: "",
+        tamilVerse: "",
+        englishReference: "",
+        englishVerse: "",
         bibleImage: "",
         backgroundImage: "",
 
@@ -276,10 +276,10 @@ const dailyVerses = {
 
 
     16: {
-        tamilReference: "நீதிமொழிகள் 16:3",
-        tamilVerse: "உன் செயல்களை கர்த்தருக்கு ஒப்புவி; அப்பொழுது உன் யோசனைகள் நிறைவேறும்.",
-        englishReference: "Proverbs 16:3",
-        englishVerse: "Commit to the LORD whatever you do, and he will establish your plans.",
+        tamilReference: "",
+        tamilVerse: "",
+        englishReference: "",
+        englishVerse: "",
         bibleImage: "",
         backgroundImage: "",
 
@@ -294,10 +294,10 @@ const dailyVerses = {
 
 
     17: {
-        tamilReference: "நீதிமொழிகள் 17:17",
-        tamilVerse: "சிநேகிதன் எக்காலத்திலும் சிநேகிப்பான்.",
-        englishReference: "Proverbs 17:17",
-        englishVerse: "A friend loves at all times.",
+        tamilReference: "",
+        tamilVerse: "",
+        englishReference: "",
+        englishVerse: "",
         bibleImage: "",
         backgroundImage: "",
 
@@ -312,10 +312,10 @@ const dailyVerses = {
 
 
     18: {
-        tamilReference: "நீதிமொழிகள் 18:10",
-        tamilVerse: "கர்த்தருடைய நாமம் பலத்த துருகம்; நீதிமான் அதற்குள் ஓடிச் சுகமாயிருப்பான்.",
-        englishReference: "Proverbs 18:10",
-        englishVerse: "The name of the LORD is a fortified tower; the righteous run to it and are safe.",
+        tamilReference: "",
+        tamilVerse: "",
+        englishReference: "",
+        englishVerse: "",
         bibleImage: "",
         backgroundImage: "",
 
@@ -330,10 +330,10 @@ const dailyVerses = {
 
 
     19: {
-        tamilReference: "நீதிமொழிகள் 19:21",
-        tamilVerse: "மனுஷனுடைய இருதயத்தில் அநேக யோசனைகள் உண்டு; கர்த்தருடைய ஆலோசனையோ நிலைநிற்கும்.",
-        englishReference: "Proverbs 19:21",
-        englishVerse: "Many are the plans in a person's heart, but it is the LORD's purpose that prevails.",
+        tamilReference: "",
+        tamilVerse: "",
+        englishReference: "",
+        englishVerse: "",
         bibleImage: "",
         backgroundImage: "",
 
