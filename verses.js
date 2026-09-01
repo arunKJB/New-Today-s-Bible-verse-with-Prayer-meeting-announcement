@@ -78,11 +78,11 @@ const dailyVerses = {
 
 
     5: {
-        tamilReference: "",
-        tamilVerse: "",
-        englishReference: "",
-        englishVerse: "",
-        bibleImage: "",
+        tamilReference: "இணைச் சட்டம் 31:6",
+        tamilVerse: "உன் கடவுளாகிய ஆண்டவரே உனக்குமுன் செல்பவர்! அவர் உன்னை விட்டு விலக மாட்டார்; உன்னைக் கைவிடவும் மாட்டார்.",
+        englishReference: "Deuteronomy 31:6",
+        englishVerse: "The Lord your God is the one who goes before you. He will never leave you or forsake you.",
+        bibleImage: "https://i.pinimg.com/736x/c6/22/ac/c622acbb0682d7597129fbb2b3b0eb4b.jpg",
         backgroundImage: "",
 
         // prayer: {
