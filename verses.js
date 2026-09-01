@@ -13,67 +13,67 @@ const dailyVerses = {
         bibleImage: "https://i.pinimg.com/736x/99/a8/15/99a8156114deb7b9cd1b12cbf713fd11.jpg",
         backgroundImage: "https://i.pinimg.com/736x/99/a8/15/99a8156114deb7b9cd1b12cbf713fd11.jpg",
 
-        prayer: {
-            title: "இன்றைய ஜெபக் கூட்டம்",
-            description: "வாருங்கள்! ஒன்றாக கூடி ஜெபித்து தேவனுடைய ஆசீர்வாதத்தைப் பெறுவோம்.",
-            date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
-        }
+        // prayer: {
+        //     title: "இன்றைய ஜெபக் கூட்டம்",
+        //     description: "வாருங்கள்! ஒன்றாக கூடி ஜெபித்து தேவனுடைய ஆசீர்வாதத்தைப் பெறுவோம்.",
+        //     date: "📅 இன்று",
+        //     time: "⏰ மாலை 7:00 PM",
+        //     place: "📍 Koinonia Prayer Hall"
+        // }
     },
 
 
     2: {
-        tamilReference: "",
-        tamilVerse: "",
-        englishReference: "",
-        englishVerse: "",
-        bibleImage: "",
-        backgroundImage: "",
+        tamilReference: "2 கொரிந்தியர் 12:9",
+        tamilVerse: "என் அருள் உனக்குப் போதும்; வலுவின்மையில்தான் வல்லமை நிறைவாய் வெளிப்படும்.",
+        englishReference: "2Corinthians 12:9",
+        englishVerse: "My grace is sufficient for you, for mypower is manifested fully in weakness.",
+        bibleImage: "https://i.pinimg.com/736x/5e/46/c0/5e46c0e4974c7bf0dcfb2ec3c0e938b5.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/5a/18/45/5a18459675952a0524d5d34f169e12c4.jpg",
 
         prayer: {
-            title: "இன்றைய ஜெபக் கூட்டம்",
-            description: "தேவனுடைய சந்நிதியில் ஒன்றாக கூடி ஜெபிப்போம்.",
-            date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
+            title: "நற்செய்தியின் குரல்",
+            description: "சிறப்பு திருப்பலி மற்றும் ஜெப வழிபாடு நடைபெறும்.",
+            date: "📅 நாளை 03-09-2026",
+            time: "⏰ மாலை 6:30 PM",
+            place: "📍 St. John the Baptist Chapel, Koinonia House, Pushpagiri"
         }
     },
 
 
     3: {
-        tamilReference: "",
-        tamilVerse: "",
-        englishReference: "",
-        englishVerse: "",
-        bibleImage: "",
-        backgroundImage: "",
+        tamilReference: "1 பேதுரு 5:7",
+        tamilVerse: "உங்கள் கவலைகளையெல்லாம் அவரிடம் விட்டு விடுங்கள். ஏனென்றால், அவர் உங்கள் மேல் கவலை கொண்டுள்ளார்.",
+        englishReference: "1Peter 5:7",
+        englishVerse: "Place your worries on him since he takes care of you.",
+        bibleImage: "https://i.pinimg.com/1200x/61/20/cf/6120cf8910c6272824fba4d91c81157d.jpg",
+        backgroundImage: "https://i.pinimg.com/1200x/61/20/cf/6120cf8910c6272824fba4d91c81157d.jpg",
 
-        prayer: {
-            title: "சிறப்பு ஜெபக் கூட்டம்",
-            description: "உங்கள் குடும்பத்திற்காகவும், தேவையான காரியங்களுக்காகவும் ஒன்றாக ஜெபிப்போம்.",
-            date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
+       prayer: {
+            title: "நற்செய்தியின் குரல்",
+            description: "சிறப்பு திருப்பலி மற்றும் ஜெப வழிபாடு நடைபெறும்.",
+            date: "📅 இன்று 03-09-2026",
+            time: "⏰ மாலை 6:30 PM",
+            place: "📍 St. John the Baptist Chapel, Koinonia House, Pushpagiri"
         }
     },
 
 
     4: {
-        tamilReference: "",
-        tamilVerse: "",
-        englishReference: "",
-        englishVerse: "",
-        bibleImage: "",
-        backgroundImage: "",
+        tamilReference: "எரேமியா1:5",
+        tamilVerse: "தாய் வயிற்றில் உன்னை நான் உருவாக்கு முன்பே அறிந்திருந்தேன்; நீ பிறக்குமுன்பே உன்னைத் திருநிலைப்படுத்தினேன். ",
+        englishReference: "Jeremiah 1:5",
+        englishVerse: "I chose you before I gave you life,and before you were born I selected you.",
+        bibleImage: "https://i.pinimg.com/1200x/90/e0/3c/90e03cee9569cd37b1db94ace16d2788.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/58/36/4c/58364cff3cbad7ef48773317a60380a5.jpg",
 
-        prayer: {
-            title: "குடும்ப ஜெபக் கூட்டம்",
-            description: "குடும்பத்துடன் தேவனைத் தேடி ஜெபிப்போம்.",
-            date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
-        }
+        // prayer: {
+        //     title: "குடும்ப ஜெபக் கூட்டம்",
+        //     description: "குடும்பத்துடன் தேவனைத் தேடி ஜெபிப்போம்.",
+        //     date: "📅 இன்று",
+        //     time: "⏰ மாலை 7:00 PM",
+        //     place: "📍 Koinonia Prayer Hall"
+        // }
     },
 
 
@@ -85,13 +85,13 @@ const dailyVerses = {
         bibleImage: "",
         backgroundImage: "",
 
-        prayer: {
-            title: "மாலை ஜெபக் கூட்டம்",
-            description: "இன்றைய நாளை ஜெபத்துடன் முடிப்போம்.",
-            date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
-        }
+        // prayer: {
+        //     title: "மாலை ஜெபக் கூட்டம்",
+        //     description: "இன்றைய நாளை ஜெபத்துடன் முடிப்போம்.",
+        //     date: "📅 இன்று",
+        //     time: "⏰ மாலை 7:00 PM",
+        //     place: "📍 Koinonia Prayer Hall"
+        // }
     },
 
 
@@ -103,13 +103,13 @@ const dailyVerses = {
         bibleImage: "",
         backgroundImage: "",
 
-        prayer: {
-            title: "வாராந்திர ஜெபக் கூட்டம்",
-            description: "தேவனுடைய வார்த்தையையும் ஜெபத்தையும் நாடுவோம்.",
-            date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
-        }
+        // prayer: {
+        //     title: "வாராந்திர ஜெபக் கூட்டம்",
+        //     description: "தேவனுடைய வார்த்தையையும் ஜெபத்தையும் நாடுவோம்.",
+        //     date: "📅 இன்று",
+        //     time: "⏰ மாலை 7:00 PM",
+        //     place: "📍 Koinonia Prayer Hall"
+        // }
     },
 
 
@@ -121,13 +121,13 @@ const dailyVerses = {
         bibleImage: "",
         backgroundImage: "",
 
-        prayer: {
-            title: "இன்றைய ஜெப நேரம்",
-            description: "கர்த்தருடைய வார்த்தையில் நிலைத்திருந்து ஜெபிப்போம்.",
-            date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
-        }
+        // prayer: {
+        //     title: "இன்றைய ஜெப நேரம்",
+        //     description: "கர்த்தருடைய வார்த்தையில் நிலைத்திருந்து ஜெபிப்போம்.",
+        //     date: "📅 இன்று",
+        //     time: "⏰ மாலை 7:00 PM",
+        //     place: "📍 Koinonia Prayer Hall"
+        // }
     },
 
 
@@ -139,13 +139,13 @@ const dailyVerses = {
         bibleImage: "",
         backgroundImage: "",
 
-        prayer: {
-            title: "அதிகாலை ஜெபக் கூட்டம்",
-            description: "கர்த்தரைத் தேடி அவருடைய சந்நிதியில் ஜெபிப்போம்.",
-            date: "📅 இன்று",
-            time: "⏰ காலை 6:00 AM",
-            place: "📍 Koinonia Prayer Hall"
-        }
+        // prayer: {
+        //     title: "அதிகாலை ஜெபக் கூட்டம்",
+        //     description: "கர்த்தரைத் தேடி அவருடைய சந்நிதியில் ஜெபிப்போம்.",
+        //     date: "📅 இன்று",
+        //     time: "⏰ காலை 6:00 AM",
+        //     place: "📍 Koinonia Prayer Hall"
+        // }
     },
 
 
@@ -157,13 +157,13 @@ const dailyVerses = {
         bibleImage: "",
         backgroundImage: "",
 
-        prayer: {
-            title: "ஞானத்திற்கான ஜெபம்",
-            description: "தேவனிடத்தில் ஞானத்தையும் வழிநடத்துதலையும் கேட்போம்.",
-            date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
-        }
+        // prayer: {
+        //     title: "ஞானத்திற்கான ஜெபம்",
+        //     description: "தேவனிடத்தில் ஞானத்தையும் வழிநடத்துதலையும் கேட்போம்.",
+        //     date: "📅 இன்று",
+        //     time: "⏰ மாலை 7:00 PM",
+        //     place: "📍 Koinonia Prayer Hall"
+        // }
     },
 
 
@@ -175,13 +175,13 @@ const dailyVerses = {
         bibleImage: "",
         backgroundImage: "",
 
-        prayer: {
-            title: "அன்பின் ஜெபக் கூட்டம்",
-            description: "குடும்பங்களுக்காகவும் உறவுகளுக்காகவும் ஜெபிப்போம்.",
-            date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
-        }
+        // prayer: {
+        //     title: "அன்பின் ஜெபக் கூட்டம்",
+        //     description: "குடும்பங்களுக்காகவும் உறவுகளுக்காகவும் ஜெபிப்போம்.",
+        //     date: "📅 இன்று",
+        //     time: "⏰ மாலை 7:00 PM",
+        //     place: "📍 Koinonia Prayer Hall"
+        // }
     },
 
 
@@ -193,13 +193,13 @@ const dailyVerses = {
         bibleImage: "",
         backgroundImage: "",
 
-        prayer: {
-            title: "ஆசீர்வாத ஜெபக் கூட்டம்",
-            description: "மற்றவர்களுக்காக ஜெபித்து அவர்களை ஆசீர்வதிப்போம்.",
-            date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
-        }
+        // prayer: {
+        //     title: "ஆசீர்வாத ஜெபக் கூட்டம்",
+        //     description: "மற்றவர்களுக்காக ஜெபித்து அவர்களை ஆசீர்வதிப்போம்.",
+        //     date: "📅 இன்று",
+        //     time: "⏰ மாலை 7:00 PM",
+        //     place: "📍 Koinonia Prayer Hall"
+        // }
     },
 
 
@@ -211,13 +211,13 @@ const dailyVerses = {
         bibleImage: "",
         backgroundImage: "",
 
-        prayer: {
-            title: "ஆறுதலின் ஜெபக் கூட்டம்",
-            description: "கவலைப்படுகிறவர்களுக்காகவும் தேவையுள்ளவர்களுக்காகவும் ஜெபிப்போம்.",
-            date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
-        }
+        // prayer: {
+        //     title: "ஆறுதலின் ஜெபக் கூட்டம்",
+        //     description: "கவலைப்படுகிறவர்களுக்காகவும் தேவையுள்ளவர்களுக்காகவும் ஜெபிப்போம்.",
+        //     date: "📅 இன்று",
+        //     time: "⏰ மாலை 7:00 PM",
+        //     place: "📍 Koinonia Prayer Hall"
+        // }
     },
 
 
@@ -229,13 +229,13 @@ const dailyVerses = {
         bibleImage: "",
         backgroundImage: "",
 
-        prayer: {
-            title: "நம்பிக்கையின் ஜெபக் கூட்டம்",
-            description: "உங்கள் நம்பிக்கைகள் நிறைவேற தேவனை நம்பி ஜெபிப்போம்.",
-            date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
-        }
+        // prayer: {
+        //     title: "நம்பிக்கையின் ஜெபக் கூட்டம்",
+        //     description: "உங்கள் நம்பிக்கைகள் நிறைவேற தேவனை நம்பி ஜெபிப்போம்.",
+        //     date: "📅 இன்று",
+        //     time: "⏰ மாலை 7:00 PM",
+        //     place: "📍 Koinonia Prayer Hall"
+        // }
     },
 
 
@@ -247,13 +247,13 @@ const dailyVerses = {
         bibleImage: "",
         backgroundImage: "",
 
-        prayer: {
-            title: "",
-            description: "",
-            date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
-        }
+        // prayer: {
+        //     title: "",
+        //     description: "",
+        //     date: "📅 இன்று",
+        //     time: "⏰ மாலை 7:00 PM",
+        //     place: "📍 Koinonia Prayer Hall"
+        // }
     },
 
 
@@ -265,13 +265,13 @@ const dailyVerses = {
         bibleImage: "",
         backgroundImage: "",
 
-        prayer: {
-            title: "மகிழ்ச்சியின் ஜெபக் கூட்டம்",
-            description: "தேவன் கொடுத்த நன்மைகளுக்காக நன்றி செலுத்துவோம்.",
-            date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
-        }
+        // prayer: {
+        //     title: "மகிழ்ச்சியின் ஜெபக் கூட்டம்",
+        //     description: "தேவன் கொடுத்த நன்மைகளுக்காக நன்றி செலுத்துவோம்.",
+        //     date: "📅 இன்று",
+        //     time: "⏰ மாலை 7:00 PM",
+        //     place: "📍 Koinonia Prayer Hall"
+        // }
     },
 
 
@@ -283,13 +283,13 @@ const dailyVerses = {
         bibleImage: "",
         backgroundImage: "",
 
-        prayer: {
-            title: "ஒப்புக்கொடுக்கும் ஜெபம்",
-            description: "நமது திட்டங்களையும் எதிர்காலத்தையும் தேவனிடம் ஒப்புக்கொடுப்போம்.",
-            date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
-        }
+        // prayer: {
+        //     title: "ஒப்புக்கொடுக்கும் ஜெபம்",
+        //     description: "நமது திட்டங்களையும் எதிர்காலத்தையும் தேவனிடம் ஒப்புக்கொடுப்போம்.",
+        //     date: "📅 இன்று",
+        //     time: "⏰ மாலை 7:00 PM",
+        //     place: "📍 Koinonia Prayer Hall"
+        // }
     },
 
 
@@ -301,13 +301,13 @@ const dailyVerses = {
         bibleImage: "",
         backgroundImage: "",
 
-        prayer: {
-            title: "உறவுகளுக்கான ஜெபம்",
-            description: "குடும்பம் மற்றும் நண்பர்களுக்காக ஒன்றாக ஜெபிப்போம்.",
-            date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
-        }
+        // prayer: {
+        //     title: "உறவுகளுக்கான ஜெபம்",
+        //     description: "குடும்பம் மற்றும் நண்பர்களுக்காக ஒன்றாக ஜெபிப்போம்.",
+        //     date: "📅 இன்று",
+        //     time: "⏰ மாலை 7:00 PM",
+        //     place: "📍 Koinonia Prayer Hall"
+        // }
     },
 
 
@@ -319,13 +319,13 @@ const dailyVerses = {
         bibleImage: "",
         backgroundImage: "",
 
-        prayer: {
-            title: "பாதுகாப்பிற்கான ஜெபம்",
-            description: "தேவனுடைய பாதுகாப்பிற்காக ஜெபிப்போம்.",
-            date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
-        }
+        // prayer: {
+        //     title: "பாதுகாப்பிற்கான ஜெபம்",
+        //     description: "தேவனுடைய பாதுகாப்பிற்காக ஜெபிப்போம்.",
+        //     date: "📅 இன்று",
+        //     time: "⏰ மாலை 7:00 PM",
+        //     place: "📍 Koinonia Prayer Hall"
+        // }
     },
 
 
@@ -337,13 +337,13 @@ const dailyVerses = {
         bibleImage: "",
         backgroundImage: "",
 
-        prayer: {
-            title: "தேவ சித்தத்திற்கான ஜெபம்",
-            description: "தேவனுடைய சித்தம் நம் வாழ்க்கையில் நிறைவேற ஜெபிப்போம்.",
-            date: "📅 இன்று",
-            time: "⏰ மாலை 7:00 PM",
-            place: "📍 Koinonia Prayer Hall"
-        }
+        // prayer: {
+        //     title: "தேவ சித்தத்திற்கான ஜெபம்",
+        //     description: "தேவனுடைய சித்தம் நம் வாழ்க்கையில் நிறைவேற ஜெபிப்போம்.",
+        //     date: "📅 இன்று",
+        //     time: "⏰ மாலை 7:00 PM",
+        //     place: "📍 Koinonia Prayer Hall"
+        // }
     },
 
 
