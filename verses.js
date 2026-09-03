@@ -83,7 +83,7 @@ const dailyVerses = {
         englishReference: "Deuteronomy 31:6",
         englishVerse: "The Lord your God is the one who goes before you. He will never leave you or forsake you.",
         bibleImage: "https://i.pinimg.com/736x/c6/22/ac/c622acbb0682d7597129fbb2b3b0eb4b.jpg",
-        backgroundImage: "",
+        backgroundImage: "https://i.pinimg.com/736x/a0/fe/0f/a0fe0fa72597a977371ee535fd0e6525.jpg",
 
         // prayer: {
         //     title: "மாலை ஜெபக் கூட்டம்",
@@ -96,12 +96,12 @@ const dailyVerses = {
 
 
     6: {
-        tamilReference: "",
-        tamilVerse: "",
-        englishReference: "Proverbs 6:23",
-        englishVerse: "For this command is a lamp, this teaching is a light.",
-        bibleImage: "",
-        backgroundImage: "",
+        tamilReference: "1 சாமுவேல் 25:6",
+        tamilVerse: "உமக்கும், உம் குடும்பத்துக்கும், உமக்கு உள்ள அனைத்துக்கும் நலம் உண்டவதாக!",
+        englishReference: "1 Samuel 25:6",
+        englishVerse: "With his best wishes for you,your family,and all that is yours.",
+        bibleImage: "https://i.pinimg.com/1200x/94/36/e7/9436e75f60c8032f6265a9c4f89625d0.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/b2/bb/91/b2bb919ed10b451dd881dd38a91fa205.jpg",
 
         // prayer: {
         //     title: "வாராந்திர ஜெபக் கூட்டம்",
@@ -114,12 +114,12 @@ const dailyVerses = {
 
 
     7: {
-        tamilReference: "",
-        tamilVerse: "",
-        englishReference: "",
-        englishVerse: "",
-        bibleImage: "",
-        backgroundImage: "",
+        tamilReference: "இணைச் சட்டம் 28:11",
+        tamilVerse: "உனக்குக் கொடுப்பதாக, உன் மூதாதையருக்கு ஆண்டவர் ஆணையிட்டுக் கூறிய நாட்டில், உன் கருவின் கனி உன் கால் நடைகளின் உன் நிலத்தின் பயன்கள் ஆகியவற்றில் நலன்களால் நீ நிறைவு பெறும்படி ஆண்டவர் அருள்வார்.",
+        englishReference: "Deuteronomy 28:11",
+        englishVerse: "And the LORD will make you abound in prosperity, in the fruit of your womb and in the fruit of your livestock and in the fruit of your ground, within the land that the LORD swore to your fathers to give you.",
+        bibleImage: "https://i.pinimg.com/736x/e4/5c/09/e45c09c2cacec9a4062809e6217c4d79.jpg",
+        backgroundImage: "https://i.pinimg.com/1200x/93/65/f5/9365f5151d29c0ce60fced6bfea3e869.jpg",
 
         // prayer: {
         //     title: "இன்றைய ஜெப நேரம்",
@@ -132,12 +132,12 @@ const dailyVerses = {
 
 
     8: {
-        tamilReference: "",
-        tamilVerse: "",
-        englishReference: "",
-        englishVerse: "",
-        bibleImage: "",
-        backgroundImage: "",
+        tamilReference: "நீதிமொழிகள் 19:23",
+        tamilVerse: "ஆண்டவருக்கு அஞ்சி நடந்தால் ஆயுள் நீடிக்கும்; அவ்வாறு நடப்பவருக்கு மனநிறைவு கிட்டும்; தீங்கும் அவரை அணுகாது. ",
+        englishReference: "Proverbs 19:23",
+        englishVerse: "The fear of the LORD leads to life, and whoever has it rests satisfied; he will not be visited by harm.",
+        bibleImage: "https://i.pinimg.com/1200x/c3/be/ed/c3beed0f75be387b9e425c540a4d3e50.jpg",
+        backgroundImage: "https://i.pinimg.com/1200x/c3/be/ed/c3beed0f75be387b9e425c540a4d3e50.jpg",
 
         // prayer: {
         //     title: "அதிகாலை ஜெபக் கூட்டம்",
