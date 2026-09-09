@@ -204,12 +204,12 @@ const dailyVerses = {
 
 
     12: {
-        tamilReference: "",
-        tamilVerse: "",
-        englishReference: "",
-        englishVerse: "",
-        bibleImage: "",
-        backgroundImage: "",
+        tamilReference: "திருப்பாடல்கள் 20:5",
+        tamilVerse: "உமது வெற்றியைக் குறித்து மகிழ்ச்சியில் ஆர்ப்பரிப்போமாக! நம் கடவுளின் பெயரால் வெற்றிக்கொடி நாட்டுவோமாக! உம் விண்ணப்பங்களையெல்லாம் ஆண்டவர் நிறைவேற்றுவாராக!",
+        englishReference: "Psalm 20:5",
+        englishVerse: "May we shout for joy over your salvation, and in the name of our God set up our banners! May the LORD fulfill all your petitions!",
+        bibleImage: "https://i.pinimg.com/736x/43/32/c2/4332c237e63a8b2c3600fc75a1e1c8a2.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/43/32/c2/4332c237e63a8b2c3600fc75a1e1c8a2.jpg",
 
         // prayer: {
         //     title: "ஆறுதலின் ஜெபக் கூட்டம்",
@@ -222,12 +222,12 @@ const dailyVerses = {
 
 
     13: {
-        tamilReference: "",
-        tamilVerse: "",
-        englishReference: "",
-        englishVerse: "",
-        bibleImage: "",
-        backgroundImage: "",
+        tamilReference: "செப்பனியா 3:15",
+        tamilVerse: "ஆண்டவர் உன் தண்டனைத் தீர்ப்பைத் தள்ளிவிட்டார்; உன் பகைவர்களை அப்புறப்படுத்தினார்; இஸ்ரயேலின் அரசராகிய ஆண்டவர் உன் நடுவில் இருக்கின்றார்; நீ இனி எந்தத் தீங்கிற்கும் அஞ்சமாட்டாய்.",
+        englishReference: "Zepaniah 3:15",
+        englishVerse: "The LORD has taken away the judgments against you; he has cleared away your enemies. The King of Israel, the LORD, is in your midst; you shall never again fear evil.",
+        bibleImage: "https://i.pinimg.com/736x/e5/5b/ec/e55beca77698f6a78d042d91bd19e176.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/61/7a/cd/617acdae245f118f2eff4bcb217393e7.jpg",
 
         // prayer: {
         //     title: "நம்பிக்கையின் ஜெபக் கூட்டம்",
@@ -240,12 +240,12 @@ const dailyVerses = {
 
 
     14: {
-        tamilReference: "",
-        tamilVerse: "",
-        englishReference: "",
-        englishVerse: "",
-        bibleImage: "",
-        backgroundImage: "",
+        tamilReference: "அபக்கூக்கு 2:3",
+        tamilVerse: "குறித்த காலத்தில் நிறைவேறுவதற்காகக் காட்சி இன்னும் காத்திருக்கின்றது; முடிவை நோக்கி விரைந்து செல்கின்றது. ஒருக்காலும் பொய்க்காது. அது காலந்தாழ்த்தி வருவதாகத் தோன்றினால், எதிர்பார்த்துக் காத்திரு; அது நிறைவேறியே தீரும்; காலம் தாழ்த்தாது.",
+        englishReference: "Habakkuk 2:3",
+        englishVerse: "For still the vision awaits its appointed time; it hastens to the end—it will not lie. If it seems slow, wait for it; it will surely come; it will not delay.",
+        bibleImage: "https://i.pinimg.com/736x/c7/f1/3c/c7f13c0fb6a442efc00504bf3cf69835.jpg",
+        backgroundImage: "https://i.pinimg.com/1200x/a3/0f/5f/a30f5f0c19fa8e350e4e0f182d7200a6.jpg",
 
         // prayer: {
         //     title: "",
