@@ -150,12 +150,12 @@ const dailyVerses = {
 
 
     9: {
-        tamilReference: "",
-        tamilVerse: "",
-        englishReference: "",
-        englishVerse: "",
-        bibleImage: "",
-        backgroundImage: "",
+        tamilReference: "நீதிமொழிகள் 3:26",
+        tamilVerse: "ஆண்டவர் உனக்குப் பக்கத்துணையாய் இருப்பார்; உன் கால் கண்ணியில் சிக்காதபடி உன்னைக் காப்பார்.",
+        englishReference: "Proverbs 3:26",
+        englishVerse: "For the LORD shall be thy confidence, and shall keep thy foot from being taken. ",
+        bibleImage: "https://i.pinimg.com/1200x/99/b2/1a/99b21a0d869129de4fc6217034474e08.jpg",
+        backgroundImage: "https://i.pinimg.com/1200x/ca/f8/c9/caf8c9fba06c95719e7b5381c73a083f.jpg",
 
         // prayer: {
         //     title: "ஞானத்திற்கான ஜெபம்",
