@@ -168,12 +168,12 @@ const dailyVerses = {
 
 
     10: {
-        tamilReference: "",
-        tamilVerse: "",
-        englishReference: "",
-        englishVerse: "",
-        bibleImage: "",
-        backgroundImage: "",
+        tamilReference: "எரேமியா 1:19",
+        tamilVerse: "அவர்கள் உனக்கு எதிராகப் போராடுவார்கள். எனினும் உன்மேல் வெற்றி கொள்ள அவர்களால் இயலாது. ஏனெனில் உன்னை விடுவிக்க நான் உன்னோடு இருக்கிறேன், என்கிறார் ஆண்டவர்.",
+        englishReference: "Jeremiah 1:19",
+        englishVerse: "They will fight against you, but they shall not prevail against you, for I am with you, declares the LORD, to deliver you.",
+        bibleImage: "https://i.pinimg.com/736x/bc/75/d0/bc75d02a7b1e6651e6a739c1c557f8f7.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/7e/d9/9d/7ed99df9a82c133f5d61fe6d5cf825fa.jpg",
 
         // prayer: {
         //     title: "அன்பின் ஜெபக் கூட்டம்",
@@ -186,12 +186,12 @@ const dailyVerses = {
 
 
     11: {
-        tamilReference: "",
-        tamilVerse: "",
-        englishReference: "",
-        englishVerse: "",
-        bibleImage: "",
-        backgroundImage: "",
+        tamilReference: "திருப்பாடல்கள் 138:7",
+        tamilVerse: "நான் துன்பத்தின் நடுவில் நடந்தாலும், என் உயிரைக் காக்கின்றீர்; என் எதிரிகளின் சினத்துக்கு எதிராக உமது கையை நீட்டுகின்றீர்; உமது வலக்கையால் என்னைக் காப்பாற்றுகின்றீர். ",
+        englishReference: "Psalm 138:7",
+        englishVerse: "Though I walk in the midst of trouble, you preserve my life; you stretch out your hand against the wrath of my enemies, and your right hand delivers me.",
+        bibleImage: "https://i.pinimg.com/1200x/c0/b4/c4/c0b4c4ff4ad6db7af620a33feb51ebd1.jpg",
+        backgroundImage: "https://i.pinimg.com/1200x/57/10/5b/57105b7c72584e01d846efdd169d0955.jpg",
 
         // prayer: {
         //     title: "ஆசீர்வாத ஜெபக் கூட்டம்",
