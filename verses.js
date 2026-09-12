@@ -222,12 +222,12 @@ const dailyVerses = {
 
 
     13: {
-        tamilReference: "செப்பனியா 3:15",
-        tamilVerse: "ஆண்டவர் உன் தண்டனைத் தீர்ப்பைத் தள்ளிவிட்டார்; உன் பகைவர்களை அப்புறப்படுத்தினார்; இஸ்ரயேலின் அரசராகிய ஆண்டவர் உன் நடுவில் இருக்கின்றார்; நீ இனி எந்தத் தீங்கிற்கும் அஞ்சமாட்டாய்.",
-        englishReference: "Zepaniah 3:15",
-        englishVerse: "The LORD has taken away the judgments against you; he has cleared away your enemies. The King of Israel, the LORD, is in your midst; you shall never again fear evil.",
-        bibleImage: "https://i.pinimg.com/736x/e5/5b/ec/e55beca77698f6a78d042d91bd19e176.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/61/7a/cd/617acdae245f118f2eff4bcb217393e7.jpg",
+       tamilReference: "எரேமியா  29:11",
+        tamilVerse: "ஏனெனில் உங்களுக்காக நான் வகுத்திருக்கும் திட்டங்கள் எனக்குத் தெரியும் அன்றோ! அவை வளமான எதிர்காலத்தையும் நம்பிக்கையும் உங்களுக்கு அளிப்பதற்கான நல்வாழ்வின் திட்டங்களே அன்றி, கேடு விளைவிப்பதற்கான திட்டங்கள் அல்ல, என்கிறார் ஆண்டவர்.",
+        englishReference: "Jeremiah 29:11",
+        englishVerse: " For I am conscious of my thoughts about you, says the Lord, thoughts of peace and not of evil, to give you hope at the end.",
+        bibleImage: "https://i.pinimg.com/736x/4d/80/dd/4d80dd3bade3293ad06b92c41fb3e37b.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/c0/56/3f/c0563f5ba36524d8f5876b38cfab2b65.jpg",
 
         // prayer: {
         //     title: "நம்பிக்கையின் ஜெபக் கூட்டம்",
@@ -258,12 +258,12 @@ const dailyVerses = {
 
 
     15: {
-        tamilReference: "",
-        tamilVerse: "",
-        englishReference: "",
-        englishVerse: "",
-        bibleImage: "",
-        backgroundImage: "",
+        tamilReference: "விடுதலைப் பயணம் 14:13",
+        tamilVerse: "அஞ்சாதீர்கள்! நிலைகுலையாதீர்கள்! இன்று ஆண்டவர்தாமே உங்களுக்காக ஆற்றும் விடுதலைச் செயலைப் பாருங்கள். இன்று நீங்கள் காணும் எகிப்தியரை இனிமேல் என்றுமே காணப்போவதில்லை. ",
+        englishReference: "Exodus 14:13",
+        englishVerse: "Do not be afraid. Stand firm and you will see the deliverance the LORD will bring you today. The Egyptians you see today you will never see again.",
+        bibleImage: "https://i.pinimg.com/1200x/99/e6/bf/99e6bf9a90cab75fec1ecb061651956e.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/cc/d3/60/ccd360e621e6b3ac1f782a56e6daab93.jpg",
 
         // prayer: {
         //     title: "மகிழ்ச்சியின் ஜெபக் கூட்டம்",
@@ -276,12 +276,12 @@ const dailyVerses = {
 
 
     16: {
-        tamilReference: "",
-        tamilVerse: "",
-        englishReference: "",
-        englishVerse: "",
-        bibleImage: "",
-        backgroundImage: "",
+        tamilReference: "செப்பனியா 3:15",
+        tamilVerse: "ஆண்டவர் உன் தண்டனைத் தீர்ப்பைத் தள்ளிவிட்டார்; உன் பகைவர்களை அப்புறப்படுத்தினார்; இஸ்ரயேலின் அரசராகிய ஆண்டவர் உன் நடுவில் இருக்கின்றார்; நீ இனி எந்தத் தீங்கிற்கும் அஞ்சமாட்டாய்.",
+        englishReference: "Zepaniah 3:15",
+        englishVerse: "The LORD has taken away the judgments against you; he has cleared away your enemies. The King of Israel, the LORD, is in your midst; you shall never again fear evil.",
+        bibleImage: "https://i.pinimg.com/736x/e5/5b/ec/e55beca77698f6a78d042d91bd19e176.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/61/7a/cd/617acdae245f118f2eff4bcb217393e7.jpg",
 
         // prayer: {
         //     title: "ஒப்புக்கொடுக்கும் ஜெபம்",
