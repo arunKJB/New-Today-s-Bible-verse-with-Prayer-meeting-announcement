@@ -294,12 +294,12 @@ const dailyVerses = {
 
 
     17: {
-        tamilReference: "",
-        tamilVerse: "",
-        englishReference: "",
-        englishVerse: "",
-        bibleImage: "",
-        backgroundImage: "",
+        tamilReference: "எரேமியா 29:11",
+        tamilVerse: "ஏனெனில் உங்களுக்காக நான் வகுத்திருக்கும் திட்டங்கள் எனக்குத் தெரியும் அன்றோ! அவை வளமான எதிர்காலத்தையும் நம்பிக்கையும் உங்களுக்கு அளிப்பதற்கான நல்வாழ்வின் திட்டங்களே அன்றி, கேடு விளைவிப்பதற்கான திட்டங்கள் அல்ல, என்கிறார் ஆண்டவர்.",
+        englishReference: "Jeremiah 29:11",
+        englishVerse: "For I am conscious of my thoughts about you, says the Lord, thoughts of peace and not of evil, to give you hope at the end.",
+        bibleImage: "https://i.pinimg.com/1200x/7a/00/5f/7a005f6de9126456c1e9a936e432fd7c.jpg",
+        backgroundImage: "https://i.pinimg.com/1200x/be/40/6c/be406c5a7f9c3edc9d0604fe49050e2e.jpg",
 
         // prayer: {
         //     title: "உறவுகளுக்கான ஜெபம்",
@@ -312,12 +312,12 @@ const dailyVerses = {
 
 
     18: {
-        tamilReference: "",
-        tamilVerse: "",
-        englishReference: "",
-        englishVerse: "",
-        bibleImage: "",
-        backgroundImage: "",
+        tamilReference: "எசாயா 41:10",
+        tamilVerse: "அஞ்சாதே, நான் உன்னுடன் இருக்கிறேன்;கலங்காதே, நான் உன் கடவுள்,நான் உனக்கு வலிமை அளிப்பேன்; உதவி செய்வேன்; என் நீதியின் வலக்கரத்தால் உன்னைத் தாங்குவேன்.",
+        englishReference: "Isaiah 41:10",
+        englishVerse: "Have no fear, for I am with you; do not be looking about in trouble, for I am your God; I will give you strength, yes, I will be your helper; yes, my true right hand will be your support.",
+        bibleImage: "https://i.pinimg.com/1200x/c7/f8/ee/c7f8eed27a372f52fdf90cd663ed4106.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/a5/23/14/a5231460dd3f1b627525a950aa878b8f.jpg",
 
         // prayer: {
         //     title: "பாதுகாப்பிற்கான ஜெபம்",
@@ -330,12 +330,12 @@ const dailyVerses = {
 
 
     19: {
-        tamilReference: "",
-        tamilVerse: "",
-        englishReference: "",
-        englishVerse: "",
-        bibleImage: "",
-        backgroundImage: "",
+        tamilReference: "திருப்பாடல்கள் 46:1",
+        tamilVerse: "கடவுள் நமக்கு அடைக்கலமும் ஆற்றலுமாய் உள்ளார்; இடுக்கணுற்ற வேளைகளில் நமக்கு உற்ற துணையும் அவரே.",
+        englishReference: "Psalms 46:1",
+        englishVerse: "God is our harbour and our strength, a very present help in trouble.",
+        bibleImage: "https://i.pinimg.com/736x/e5/29/2c/e5292c09432a1f78695be9557a89484a.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/fe/b2/c2/feb2c2c97ae7d83d55b93d0cf5756e8a.jpg",
 
         // prayer: {
         //     title: "தேவ சித்தத்திற்கான ஜெபம்",
@@ -348,53 +348,56 @@ const dailyVerses = {
 
 
     20: {
-        tamilReference: "திருப்பாடல்கள் 37:5",
-        tamilVerse: "உன் வழியை ஆண்டவரிடம் ஒப்படைத்துவிடு;அவரையே நம்பியிரு;அவரே உன் சார்பில் செயலாற்றுவார்.",
-        englishReference: "Psalms 37:5",
-        englishVerse: "Put your life in the hands of the Lord; have faith in him and he will do it..",
-        bibleImage: "https://i.pinimg.com/736x/d1/fa/99/d1fa99bc64cf11c8c5fcf12d4d022cef.jpg",
-        backgroundImage: "https://i.pinimg.com/1200x/13/ce/2b/13ce2b4caedd52dd299c6cd1be7ce67d.jpg",
+        tamilReference: "பிலிப்பியர் 4:13",
+        tamilVerse: "எனக்கு வலுவூட்டுகிறவரின் துணைகொண்டு எதையும் செய்ய எனக்கு ஆற்றல் உண்டு.",
+        englishReference: "Philippians 4:13",
+        englishVerse: "I am able to do all things through him who gives me strength.",
+        bibleImage: "https://i.pinimg.com/1200x/11/3f/f3/113ff3b12154be6ca4d7c170704009a8.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/f0/4a/22/f04a22787f0d84a94584c6a22c2c9794.jpg",
 
-        prayer: {
-            title: "ஆகஸ்டு மாத சிறப்பு குணமளிக்கும் நற்செய்திக் கொண்டாட்டம்",
-            date: "📅  22.08.2026 Saturday",
-            time: "⏰ காலை 9:00 AM",
-            place: "📍 St. John the Baptist Chapel, Koinonia House, Pushpagiri"
-        }
+        // prayer: {
+        //     title: "ஆகஸ்டு மாத சிறப்பு குணமளிக்கும் நற்செய்திக் கொண்டாட்டம்",
+        //     date: "📅  22.08.2026 Saturday",
+        //     time: "⏰ காலை 9:00 AM",
+        //     place: "📍 St. John the Baptist Chapel, Koinonia House, Pushpagiri"
+        // }
     },
 
 
     21: {
-        tamilReference: "திருப்பாடல்கள்  91;4",
-        tamilVerse: "அவர் தம் சிறகுகளால் உம்மை அரவணைப்பார்; அவர்தம் இறக்கைகளின்கீழ் நீர் புகலிடம் காண்பீர்; அவரது உண்மையே கேடயமும் கவசமும் ஆகும்.",
-        englishReference: "Psalms 91:4",
-        englishVerse: "You will be covered by his feathers; under his wings you will be safe: his good faith will be your salvation.",
-        bibleImage: "https://i.pinimg.com/736x/fb/14/5d/fb145d13b2094491787df075fbe0a811.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/52/b5/55/52b55565bc6a02203b8bb9bbbaa4cf4b.jpg",
+        tamilReference: "திருப்பாடல்கள் 27:1",
+        tamilVerse: "ஆண்டவரே என் ஒளி; அவரே என் மீட்பு; யாருக்கு நான் அஞ்சவேண்டும்? ஆண்டவரே என் உயிருக்கு அடைக்கலம்; யாருக்கு நான் அஞ்சி நடுங்க வேண்டும்?",
+        englishReference: "Psalms 27:1",
+        englishVerse: "The Lord is my light and my salvation; who is then a cause of fear to me? the Lord is the strength of my life; who is a danger to me?",
+        bibleImage: "https://i.pinimg.com/736x/93/04/bb/9304bb9e129ec24bed9b3bcb28f54bfa.jpg",
+        backgroundImage: "https://i.pinimg.com/1200x/61/20/cf/6120cf8910c6272824fba4d91c81157d.jpg",
 
-         prayer: {
-            title: "ஆகஸ்டு மாத சிறப்பு குணமளிக்கும் நற்செய்திக் கொண்டாட்டம்",
-            date: "📅  22.08.2026 Saturday",
-            time: "⏰ காலை 9:00 AM",
-            place: "📍 St. John the Baptist Chapel, Koinonia House, Pushpagiri"
-        }
+        //  prayer: {
+        //     title: "ஆகஸ்டு மாத சிறப்பு குணமளிக்கும் நற்செய்திக் கொண்டாட்டம்",
+        //     date: "📅  22.08.2026 Saturday",
+        //     time: "⏰ காலை 9:00 AM",
+        //     place: "📍 St. John the Baptist Chapel, Koinonia House, Pushpagiri"
+        // }
     },
 
-
+            // ///////////////////////////////////////////////////////////////////////////////////// 
+                        // NEED TO ENTER THE VERSES 22 TO 31 ///////////////////////////////////
+            // /////////////////////////////////////////////////////////////////////////////////////
+   
     22: {
-        tamilReference: "எரேமியா  29:11",
-        tamilVerse: "ஏனெனில் உங்களுக்காக நான் வகுத்திருக்கும் திட்டங்கள் எனக்குத் தெரியும் அன்றோ! அவை வளமான எதிர்காலத்தையும் நம்பிக்கையும் உங்களுக்கு அளிப்பதற்கான நல்வாழ்வின் திட்டங்களே அன்றி, கேடு விளைவிப்பதற்கான திட்டங்கள் அல்ல, என்கிறார் ஆண்டவர்.",
+        tamilReference: "",
+        tamilVerse: "",
         englishReference: "Jeremiah 29:11",
         englishVerse: " For I am conscious of my thoughts about you, says the Lord, thoughts of peace and not of evil, to give you hope at the end.",
         bibleImage: "https://i.pinimg.com/736x/4d/80/dd/4d80dd3bade3293ad06b92c41fb3e37b.jpg",
         backgroundImage: "https://i.pinimg.com/736x/c0/56/3f/c0563f5ba36524d8f5876b38cfab2b65.jpg",
 
-        prayer: {
-            title: "ஆகஸ்டு மாத சிறப்பு குணமளிக்கும் நற்செய்திக் கொண்டாட்டம்",
-            date: "📅 இன்று",
-            time: "⏰ காலை 9:00 AM",
-            place: "📍 St. John the Baptist Chapel, Koinonia House, Pushpagiri"
-        }
+        // prayer: {
+        //     title: "ஆகஸ்டு மாத சிறப்பு குணமளிக்கும் நற்செய்திக் கொண்டாட்டம்",
+        //     date: "📅 இன்று",
+        //     time: "⏰ காலை 9:00 AM",
+        //     place: "📍 St. John the Baptist Chapel, Koinonia House, Pushpagiri"
+        // }
     },
 
 
@@ -442,13 +445,13 @@ const dailyVerses = {
         bibleImage: "https://i.pinimg.com/1200x/c0/b4/c4/c0b4c4ff4ad6db7af620a33feb51ebd1.jpg",
         backgroundImage: "https://i.pinimg.com/736x/26/c4/15/26c415a4d83c24fce0df143e064a3041.jpg",
 
-        prayer: {
-            title: "நற்செய்தியின் குரல்",
-            description: "சிறப்பு திருப்பலி மற்றும் ஜெப வழிபாடு நடைபெறும்.",
-            date: "📅 நாளை 26-08-2026",
-            time: "⏰ மாலை 6:30 PM",
-            place: "📍 St. John the Baptist Chapel, Koinonia House, Pushpagiri"
-        }
+        // prayer: {
+        //     title: "நற்செய்தியின் குரல்",
+        //     description: "சிறப்பு திருப்பலி மற்றும் ஜெப வழிபாடு நடைபெறும்.",
+        //     date: "📅 நாளை 26-08-2026",
+        //     time: "⏰ மாலை 6:30 PM",
+        //     place: "📍 St. John the Baptist Chapel, Koinonia House, Pushpagiri"
+        // }
     },
 
 
@@ -460,13 +463,13 @@ const dailyVerses = {
         bibleImage: "https://i.pinimg.com/736x/f5/63/a4/f563a453cdd8aca1d51af0ba29d1ee50.jpg",
         backgroundImage: "https://i.pinimg.com/736x/7d/94/b2/7d94b22269fc177544ee793d40d10cef.jpg",
 
-        prayer: {
-            title: "நற்செய்தியின் குரல்",
-            description: "சிறப்பு திருப்பலி மற்றும் ஜெப வழிபாடு நடைபெறும்.",
-            date: "📅 இன்று",
-            time: "⏰ மாலை 6:30 PM",
-            place: "📍 St. John the Baptist Chapel, Koinonia House, Pushpagiri"
-        }
+        // prayer: {
+        //     title: "நற்செய்தியின் குரல்",
+        //     description: "சிறப்பு திருப்பலி மற்றும் ஜெப வழிபாடு நடைபெறும்.",
+        //     date: "📅 இன்று",
+        //     time: "⏰ மாலை 6:30 PM",
+        //     place: "📍 St. John the Baptist Chapel, Koinonia House, Pushpagiri"
+        // }
     },
 
 
