@@ -385,12 +385,12 @@ const dailyVerses = {
             // /////////////////////////////////////////////////////////////////////////////////////
    
     22: {
-        tamilReference: "",
-        tamilVerse: "",
-        englishReference: "Jeremiah 29:11",
-        englishVerse: " For I am conscious of my thoughts about you, says the Lord, thoughts of peace and not of evil, to give you hope at the end.",
-        bibleImage: "https://i.pinimg.com/736x/4d/80/dd/4d80dd3bade3293ad06b92c41fb3e37b.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/c0/56/3f/c0563f5ba36524d8f5876b38cfab2b65.jpg",
+        tamilReference: "திருப்பாடல்கள் 118:24",
+        tamilVerse: "ஆண்டவர் தோற்றுவித்த வெற்றியின் நாள் இதுவே; இன்று அக்களிப்போம்; அகமகிழ்வோம்.",
+        englishReference: "Psalms 118:24",
+        englishVerse: "This is the day which the Lord has made; we will be full of joy and delight in it.",
+        bibleImage: "https://i.pinimg.com/736x/ab/28/ff/ab28ff2aeaa097e964478081324d8c7c.jpg",
+        backgroundImage: "https://i.pinimg.com/1200x/60/90/16/609016ed5bd84cc02d26e3c99ebb4a81.jpg",
 
         // prayer: {
         //     title: "ஆகஸ்டு மாத சிறப்பு குணமளிக்கும் நற்செய்திக் கொண்டாட்டம்",
