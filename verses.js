@@ -402,12 +402,12 @@ const dailyVerses = {
 
 
     23: {
-        tamilReference: "எசாயா 41:10",
-        tamilVerse: "அஞ்சாதே, நான் உன்னுடன் இருக்கிறேன்; கலங்காதே, நான் உன் கடவுள், நான் உனக்கு வலிமை அளிப்பேன்; உதவி செய்வேன்; என் நீதியின் வலக்கரத்தால் உன்னைத் தாங்குவேன்.",
-        englishReference: "Isaiah 41:10",
-        englishVerse: "Have no fear, for I am with you; do not be looking about in trouble, for I am your God; I will give you strength, yes, I will be your helper; yes, my true right hand will be your support.",
-        bibleImage: "https://i.pinimg.com/736x/fe/49/75/fe4975e8979eae49cfe31d899d420fd5.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/bc/08/11/bc0811cb91a2f878e21efd36c68258cd.jpg",
+        tamilReference: "உரோமையர் 15:13",
+        tamilVerse: "எதிர்நோக்கைத் தரும் கடவுள், நம்பிக்கையால் உண்டாகும் பெருமகிழ்ச்சியாலும், அமைதியாலும் உங்களை நிரப்புவாராக! அவ்வாறு தூய ஆவியின் வல்லமையால் நீங்கள் இன்னும் மிகுதியான எதிர்நோக்குடன் வாழ அருள்புரிவாராக.",
+        englishReference: "Romans 15:13",
+        englishVerse: "Now may the God of hope make you full of joy and peace through faith, so that all hope may be yours in the power of the Holy Spirit.",
+        bibleImage: "https://i.pinimg.com/736x/17/49/bf/1749bff9345eca6f7dc981b0cbc7c1ed.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/17/49/bf/1749bff9345eca6f7dc981b0cbc7c1ed.jpg",
 
         // prayer: {
         //     title: "இருதயத்தை ஒப்புக்கொடுக்கும் ஜெபம்",
