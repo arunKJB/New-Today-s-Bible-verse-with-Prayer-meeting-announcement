@@ -420,12 +420,12 @@ const dailyVerses = {
 
 
     24: {
-        tamilReference: "திருப்பாடல்கள் 2:8",
-        tamilVerse: "நீர் விரும்புவதை என்னிடம் கேளும்; பிறநாடுகளை உமக்கு உரிமைச் சொத்தாக்குவேன்; பூவுலகை அதன் கடையெல்லைவரை உமக்கு உடைமையாக்குவேன்.",
-        englishReference: "Psalm 2:8",
-        englishVerse: "Ask of me, and I will make the nations your heritage, and the ends of the earth your possession",
-        bibleImage: "https://i.pinimg.com/736x/ab/df/02/abdf02d4794ce16b4fcf5aad0c928a7d.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/f2/b7/60/f2b760cefbac4cd6eb5f2d240d3c6d5c.jpg",
+        tamilReference: "திருப்பாடல்கள் 138:8",
+        tamilVerse: "நீர் வாக்களித்த அனைத்தையும் எனக்கெனச் செய்து முடிப்பீர்; ஆண்டவரே! என்றும் உள்ளது உமது பேரன்பு; உம் கைவினைப் பொருளைக் கைவிடாதேயும்.",
+        englishReference: "Psalm 138:8",
+        englishVerse: "The Lord will make all things complete for me: O Lord, your mercy is eternal; do not give up the works of your hands.",
+        bibleImage: "https://i.pinimg.com/736x/a1/2c/41/a12c411fb84d38fe60eecfe3805efb06.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/0b/e1/ab/0be1ab81f0c5a4a75239c9f320ae0497.jpg",
 
         // prayer: {
         //     title: "மீண்டும் எழுவதற்கான ஜெபம்",
@@ -438,12 +438,12 @@ const dailyVerses = {
 
 
     25: {
-        tamilReference: "இணைச்சட்டம் 4:31",
-        tamilVerse: "உங்கள் கடவுளாகிய ஆண்டவர் இரக்கம் மிகு இறைவன். அவர் உங்களைக் கைவிடமாட்டார்.",
-        englishReference: "Deuteronomy 4:31",
-        englishVerse: "The Lord your God is a merciful God, he will neither abandon you nor destroy you.",
-        bibleImage: "https://i.pinimg.com/1200x/c0/b4/c4/c0b4c4ff4ad6db7af620a33feb51ebd1.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/26/c4/15/26c415a4d83c24fce0df143e064a3041.jpg",
+        tamilReference: "நாகூம் 1:7",
+        tamilVerse: "ஆண்டவர் நல்லவர்; துன்பநாளில் அவர் காவலரண் ஆவார்; அவரிடம் அடைக்கலம் புகுந்தோரை அவர் அறிவார்.",
+        englishReference: "Nahum 1:7",
+        englishVerse: "The Lord is good, a strong place in the day of trouble; and he has knowledge of those who take him for their safe cover.",
+        bibleImage: "https://i.pinimg.com/736x/fc/0c/99/fc0c99c5a56d1a7b7044aed0f45deb70.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/39/31/1f/39311f32a7e186ee859f6d746de7b58c.jpg",
 
         // prayer: {
         //     title: "நற்செய்தியின் குரல்",
@@ -456,12 +456,12 @@ const dailyVerses = {
 
 
     26: {
-        tamilReference: "தொடக்கநூல் 21:22",
-        tamilVerse: "நீர் செய்கிற யாவற்றிலும் கடவுள் உம்முடனே இருக்கிறார்.",
-        englishReference: "Genesis 21:22",
-        englishVerse: "God is with you in every you do.",
-        bibleImage: "https://i.pinimg.com/736x/f5/63/a4/f563a453cdd8aca1d51af0ba29d1ee50.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/7d/94/b2/7d94b22269fc177544ee793d40d10cef.jpg",
+        tamilReference: "திருப்பாடல்கள்  18:2",
+        tamilVerse: "ஆண்டவர் என் கற்பாறை என் கோட்டை; என் மீட்பர்; என் இறைவன்; நான் புகலிடம் தேடும் மலை அவரே; என் கேடயம், எனக்கு மீட்பளிக்கும் வல்லமை, என் அரண்.",
+        englishReference: "Psalms 18:2",
+        englishVerse: "The Lord is my Rock, my walled town, and my Saviour; my God, my Rock, in him will I put my faith; my breastplate, and the horn of my salvation, and my high tower.",
+        bibleImage: "https://i.pinimg.com/736x/59/07/c7/5907c78c7ffee6e00d2f87c0bfe0927c.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/e4/ae/64/e4ae6439952ea2d543cac77c2936156e.jpg",
 
         // prayer: {
         //     title: "நற்செய்தியின் குரல்",
@@ -474,12 +474,12 @@ const dailyVerses = {
 
 
     27: {
-        tamilReference: "2 கொரிந்தியர் 9:8",
-        tamilVerse: "கடவுள் உங்களை எல்லா நலன்களாலும் நிரப்ப வல்லவர். எந்தச் சூழ்நிலையிலும் எப்போதும் தேவையானதெல்லாம் உங்களுக்குத் தருவார்; அனைத்து நற்செயல்களையும் செய்வதற்குத் தேவையானதெல்லாம் உங்களுக்கு மிகுதியாகவே தருவார்.",
-        englishReference: "2 Corinthians 9:8",
-        englishVerse: "And God is able to make all grace abound to you, so that having all sufficiency in all things at all times, you may abound in every good work.",
-        bibleImage: "https://i.pinimg.com/1200x/78/9b/95/789b952957f5d01a0aeb1013443c3ab5.jpg",
-        backgroundImage: "https://i.pinimg.com/1200x/78/9b/95/789b952957f5d01a0aeb1013443c3ab5.jpg",
+        tamilReference: "மீக்கா 7:8",
+        tamilVerse: "என் பகைவனே, என்னைக் குறித்துக் களிப்படையாதே; ஏனெனில், நான் வீழ்ச்சியுற்றாலும் எழுச்சிபெறுவேன். நான் இருளில் குடியிருந்தாலும் ஆண்டவர் எனக்கு ஒளியாய் இருப்பார்",
+        englishReference: "Micah 7:8",
+        englishVerse: "Do not be glad because of my sorrow, O my hater: after my fall I will be lifted up; when I am seated in the dark, the Lord will be a light to me.",
+        bibleImage: "https://i.pinimg.com/1200x/bd/c2/39/bdc239a514c2f2534b0fb0b1963ade7e.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/d3/61/ca/d361ca98fc2c2c8e0190a1eb42e27c65.jpg",
 
         // prayer: {
         //     title: "ஐக்கிய ஜெபக் கூட்டம்",
@@ -492,12 +492,12 @@ const dailyVerses = {
 
 
     28: {
-        tamilReference: "எரேமியா 31:3",
-        tamilVerse: "உனக்கு நான் முடிவில்லாத அன்பு காட்டியுள்ளேன்; எனவே பேரன்பால் உன்னை ஈர்த்துள்ளேன்.",
-        englishReference: "Jeremiah 31:3",
-        englishVerse: "I have loved you with an everlasting love; therefore I have continued my faithfulness to you.",
-        bibleImage: "https://i.pinimg.com/736x/fa/cf/05/facf055569cb829f29679130bd4db1d0.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/3f/1b/56/3f1b56233cc76ad9a873ed0f1b917243.jpg",
+        tamilReference: "திருப்பாடல்கள் 73:26",
+        tamilVerse: "எனது உடலும் உள்ளமும் நைந்து போயின; கடவுளே என் உள்ளத்திற்கு அரணும் என்றென்றும் எனக்குரிய பங்கும் ஆவார்.",
+        englishReference: "Psalms 73:26",
+        englishVerse: "My flesh and my heart are wasting away: but God is the Rock of my heart and my eternal heritage.",
+        bibleImage: "https://i.pinimg.com/736x/08/4c/e9/084ce9ee12916a461122be82b468c557.jpg",
+        backgroundImage: "My flesh and my heart are wasting away: but God is the Rock of my heart and my eternal heritage",
 
         // prayer: {
         //     title: "மனந்திரும்புதலின் ஜெபம்",
@@ -510,12 +510,12 @@ const dailyVerses = {
 
 
     29: {
-        tamilReference: "எசாயா 54:7",
-        tamilVerse: "நொடிப்பொழுதே நான் உன்னைக் கைவிட்டேன்; ஆயினும் பேரிரக்கத்தால் உன்னை மீண்டும் ஏற்றுக்கொள்வேன்.",
-        englishReference: "Isaiah 54:7",
-        englishVerse: "For a brief moment I abandoned you, but with great compassion I will take you back.",
-        bibleImage: "https://i.pinimg.com/736x/4e/21/d7/4e21d76f4baf22b45061788856bbbf4c.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/f6/f3/b2/f6f3b2e6e5bdbe6e4f5b0da85dcfd205.jpg",
+        tamilReference: "திருப்பாடல்கள் 130:7",
+        tamilVerse: "இஸ்ரயேலே! ஆண்டவரையே நம்பியிரு; பேரன்பு ஆண்டவரிடமே உள்ளது; மிகுதியான மீட்பு அவரிடமே உண்டு.",
+        englishReference: "Psalms 130:7",
+        englishVerse: "O Israel, have hope in the Lord; for with the Lord is mercy and full salvation.",
+        bibleImage: "https://i.pinimg.com/1200x/c3/b7/d0/c3b7d0f1ba5045ff000bf50dcef8e579.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/d8/cd/35/d8cd35b5d5f63d606183d531b9a46801.jpg",
 
         // prayer: {
         //     title: "பயத்தை வெல்லும் ஜெபம்",
@@ -528,12 +528,12 @@ const dailyVerses = {
 
 
     30: {
-        tamilReference: "நீதிமொழிகள் 30:5",
-        tamilVerse: "கடவுளின் ஒவ்வொரு வாக்கும் பரிசோதிக் கப்பட்டு நம்பத்தக்கதாய் விளங்குகிறது; தம்மை அடைக்கலமாகக் கொண்டவர்களுக்கு அவர் கேடயமாயிருக்கிறார்.",
-        englishReference: "Proverbs 30:5",
-        englishVerse: "Every word of God is tested: he is a breastplate to those who put their faith in him.",
-        bibleImage: "https://i.pinimg.com/1200x/1b/d5/79/1bd5790768325bbdd64e7dc36b6d4306.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/af/a2/3d/afa23db91f8a38962e3a17c64f04459a.jpg",
+        tamilReference: "திருப்பாடல்கள் 138:3",
+        tamilVerse: "நான் மன்றாடிய நாளில் எனக்குச் செவிசாய்த்தீர்; என் மனத்திற்கு வலிமை அளித்தீர்.",
+        englishReference: "Psalms 138:3",
+        englishVerse: "When my cry came to your ears you gave me an answer, and made me great with strength in my soul.",
+        bibleImage: "https://i.pinimg.com/1200x/4b/0b/ed/4b0beda90e2764dfa2746b81b8ed5386.jpg",
+        backgroundImage: "https://i.pinimg.com/1200x/3e/ac/18/3eac18b10cd6e24f5a76e5356c4ef94e.jpg",
 
         // prayer: {
         //     title: "தேவ வார்த்தைக்கான ஜெபம்",
@@ -542,24 +542,24 @@ const dailyVerses = {
         //     time: "⏰ மாலை 7:00 PM",
         //     place: "📍 Koinonia Prayer Hall"
         // }
-    },
-
-
-    31: {
-        tamilReference: "யோவான் நற்செய்தி 16;33",
-        tamilVerse: "உலகில் உங்களுக்குத் துன்பம் உண்டு, எனினும் துணிவுடன் இருங்கள். நான் உலகின்மீது வெற்றி கொண்டுவிட்டேன்.",
-        englishReference: "John 16:33",
-        englishVerse: "In the world you have trouble: but take heart! I have overcome the world.",
-        bibleImage: "https://i.pinimg.com/736x/b1/1a/17/b11a17ced3d595effa3c51f55311a2c9.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/e7/3d/ea/e73dea883b220b362fbcb7eb85becf8c.jpg",
-
-        // prayer: {
-        //     title: "நன்றியின் ஜெபக் கூட்டம்",
-        //     description: "இந்த மாதம் முழுவதும் தேவன் செய்த நன்மைகளுக்காக நன்றி செலுத்துவோம்.",
-        //     date: "📅 இன்று",
-        //     time: "⏰ மாலை 7:00 PM",
-        //     place: "📍 Koinonia Prayer Hall"
-        // }
     }
+
+
+    // 31: {
+    //     tamilReference: "யோவான் நற்செய்தி 16;33",
+    //     tamilVerse: "உலகில் உங்களுக்குத் துன்பம் உண்டு, எனினும் துணிவுடன் இருங்கள். நான் உலகின்மீது வெற்றி கொண்டுவிட்டேன்.",
+    //     englishReference: "John 16:33",
+    //     englishVerse: "In the world you have trouble: but take heart! I have overcome the world.",
+    //     bibleImage: "https://i.pinimg.com/736x/b1/1a/17/b11a17ced3d595effa3c51f55311a2c9.jpg",
+    //     backgroundImage: "https://i.pinimg.com/736x/e7/3d/ea/e73dea883b220b362fbcb7eb85becf8c.jpg",
+
+    //     // prayer: {
+    //     //     title: "நன்றியின் ஜெபக் கூட்டம்",
+    //     //     description: "இந்த மாதம் முழுவதும் தேவன் செய்த நன்மைகளுக்காக நன்றி செலுத்துவோம்.",
+    //     //     date: "📅 இன்று",
+    //     //     time: "⏰ மாலை 7:00 PM",
+    //     //     place: "📍 Koinonia Prayer Hall"
+    //     // }
+    // }
 
 };
