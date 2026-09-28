@@ -346,7 +346,7 @@ const dailyVerses = {
         englishReference: "Psalms 73:26",
         englishVerse: "My flesh and my heart are wasting away: but God is the Rock of my heart and my eternal heritage.",
         bibleImage: "https://i.pinimg.com/736x/08/4c/e9/084ce9ee12916a461122be82b468c557.jpg",
-        backgroundImage: "My flesh and my heart are wasting away: but God is the Rock of my heart and my eternal heritage",
+        backgroundImage: "https://i.pinimg.com/736x/d3/61/ca/d361ca98fc2c2c8e0190a1eb42e27c65.jpg",
 
       
     },
