@@ -35,12 +35,12 @@ const dailyVerses = {
 
 
     3: {
-        tamilReference: "1 பேதுரு 5:7",
-        tamilVerse: "உங்கள் கவலைகளையெல்லாம் அவரிடம் விட்டு விடுங்கள். ஏனென்றால், அவர் உங்கள் மேல் கவலை கொண்டுள்ளார்.",
-        englishReference: "1Peter 5:7",
-        englishVerse: "Place your worries on him since he takes care of you.",
-        bibleImage: "https://i.pinimg.com/1200x/61/20/cf/6120cf8910c6272824fba4d91c81157d.jpg",
-        backgroundImage: "https://i.pinimg.com/1200x/61/20/cf/6120cf8910c6272824fba4d91c81157d.jpg",
+        tamilReference: "திருப்பாடல்கள் 55:22",
+        tamilVerse: "ஆண்டவர் மேல் உன் கவலையைப் போட்டுவிடு; அவர் உனக்கு ஆதரவளிப்பார்; அவர் நேர்மையாளரை ஒருபோதும் வீழ்ச்சியுற விடமாட்டார்",
+        englishReference: "Psalms 55:22",
+        englishVerse: "Put your cares on the Lord, and he will be your support; he will not let the upright man be moved.",
+        bibleImage: "https://i.pinimg.com/1200x/0e/08/54/0e0854eb366bbf0e67849933efe9d307.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/17/5d/5a/175d5a3728079fdc0ae7338e28948ca9.jpg",
 
        // prayer: {
        //      title: "நற்செய்தியின் குரல்",
@@ -53,42 +53,44 @@ const dailyVerses = {
 
 
     4: {
-        tamilReference: "எரேமியா1:5",
-        tamilVerse: "தாய் வயிற்றில் உன்னை நான் உருவாக்கு முன்பே அறிந்திருந்தேன்; நீ பிறக்குமுன்பே உன்னைத் திருநிலைப்படுத்தினேன். ",
-        englishReference: "Jeremiah 1:5",
-        englishVerse: "I chose you before I gave you life,and before you were born I selected you.",
-        bibleImage: "https://i.pinimg.com/1200x/90/e0/3c/90e03cee9569cd37b1db94ace16d2788.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/58/36/4c/58364cff3cbad7ef48773317a60380a5.jpg",
+        tamilReference: "திருப்பாடல்கள் 32:7",
+        tamilVerse: "நீரே எனக்குப் புகலிடம்; இன்னலினின்று என்னை நீர் பாதுகாக்கின்றீர்; உம் மீட்பினால் எழும் ஆரவாரம் என்னைச் சூழ்ந்தொலிக்கச் செய்கின்றீர்.",
+        englishReference: "Psalms 32:7",
+        englishVerse: "You are my safe and secret place; you will keep me from trouble; you will put songs of salvation on the lips of those who are round me.",
+        bibleImage: "https://i.pinimg.com/1200x/ed/37/16/ed3716209726ecb28c4cd83421a5a610.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/77/d0/ed/77d0ed57d9755f02d23c2e6398a2bd9d.jpg",
 
        
     },
 
 
     5: {
-        tamilReference: "இணைச் சட்டம் 31:6",
-        tamilVerse: "உன் கடவுளாகிய ஆண்டவரே உனக்குமுன் செல்பவர்! அவர் உன்னை விட்டு விலக மாட்டார்; உன்னைக் கைவிடவும் மாட்டார்.",
-        englishReference: "Deuteronomy 31:6",
-        englishVerse: "The Lord your God is the one who goes before you. He will never leave you or forsake you.",
-        bibleImage: "https://i.pinimg.com/736x/c6/22/ac/c622acbb0682d7597129fbb2b3b0eb4b.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/a0/fe/0f/a0fe0fa72597a977371ee535fd0e6525.jpg",
+        tamilReference: "திருப்பாடல்கள் 91:4",
+        tamilVerse: "அவர் தம் சிறகுகளால் உம்மை அரவணைப்பார்; அவர்தம் இறக்கைகளின்கீழ் நீர் புகலிடம் காண்பீர்; அவரது உண்மையே கேடயமும் கவசமும் ஆகும்.",
+        englishReference: "Psalms 91:4",
+        englishVerse: "You will be covered by his feathers; under his wings you will be safe: his good faith will be your salvation.",
+        bibleImage: "https://i.pinimg.com/1200x/92/d8/f6/92d8f6b25be17cfc22d6ed13ea14a591.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/45/35/7b/45357b7025e3e26c7db1331e737ed267.jpg",
 
       
     },
 
 
     6: {
-        tamilReference: "1 சாமுவேல் 25:6",
-        tamilVerse: "உமக்கும், உம் குடும்பத்துக்கும், உமக்கு உள்ள அனைத்துக்கும் நலம் உண்டவதாக!",
-        englishReference: "1 Samuel 25:6",
-        englishVerse: "With his best wishes for you,your family,and all that is yours.",
+        tamilReference: "திருப்பாடல்கள் 34:4",
+        tamilVerse: "துணைவேண்டி நான் ஆண்டவரை மன்றாடினேன்; அவர் எனக்கு மறுமொழி பகர்ந்தார்; எல்லா வகையான அச்சத்தினின்றும் அவர் என்னை விடுவித்தார்.",
+        englishReference: "Psalms 34:4",
+        englishVerse: "I was searching for the Lord, and he gave ear to my voice, and made me free from all my fears.",
         bibleImage: "https://i.pinimg.com/1200x/94/36/e7/9436e75f60c8032f6265a9c4f89625d0.jpg",
         backgroundImage: "https://i.pinimg.com/736x/b2/bb/91/b2bb919ed10b451dd881dd38a91fa205.jpg",
-
       
     },
 
-
-    7: {
+               //////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+   //////////////////////////// NEED TO ADD THE VERSES FOR 7 TO 31 OCT \\\\\\\\\\\\\\\\\\\\\\\\
+   /////////////////////////// \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\////////////////////////
+   
+   7: {
         tamilReference: "இணைச் சட்டம் 28:11",
         tamilVerse: "உனக்குக் கொடுப்பதாக, உன் மூதாதையருக்கு ஆண்டவர் ஆணையிட்டுக் கூறிய நாட்டில், உன் கருவின் கனி உன் கால் நடைகளின் உன் நிலத்தின் பயன்கள் ஆகியவற்றில் நலன்களால் நீ நிறைவு பெறும்படி ஆண்டவர் அருள்வார்.",
         englishReference: "Deuteronomy 28:11",
