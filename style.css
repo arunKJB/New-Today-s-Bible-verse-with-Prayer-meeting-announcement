@@ -656,7 +656,7 @@ body {
    PRAYER CARD
 ========================================================= */
 
-.prayer-card {
+/* .prayer-card {
     width: 100%;
 
     padding:
@@ -666,12 +666,13 @@ body {
     border-radius:
         clamp(10px, 2vw, 18px);
 
-    background:
-        linear-gradient(
-            135deg,
-            rgba(255, 190, 60, 0.90),
-            rgba(130, 65, 10, 0.88)
-        );
+   background:
+    linear-gradient(
+        135deg,
+        #4c1d95 0%,
+        #6d28d9 45%,
+        #8b5cf6 100%
+    );
 
     border:
         1px solid
@@ -684,8 +685,92 @@ body {
     text-align: center;
 
     color: #fff;
+
+   color: #ffffff;
+font-weight: 700;
+text-shadow: 0 2px 4px rgba(0, 0, 0, 0.35);
+} */
+
+.prayer-card {
+    width: 100%;
+
+    padding:
+        clamp(10px, 1.5vh, 16px)
+        clamp(12px, 2.5vw, 25px);
+
+    border-radius:
+        clamp(10px, 2vw, 18px);
+
+    /* Elegant violet gradient */
+    background:
+        linear-gradient(
+            135deg,
+            #4c1d95 0%,
+            #6d28d9 45%,
+            #8b5cf6 100%
+        );
+
+    border:
+        1px solid
+        rgba(255, 255, 255, 0.45);
+
+    box-shadow:
+        0 8px 25px
+        rgba(45, 15, 90, 0.45);
+
+    text-align: center;
+
+    color: #ffffff;
+
+    /* Makes all text inside the card stronger */
+    font-weight: 700;
+
+    /* Improves readability */
+    text-shadow:
+        0 2px 4px
+        rgba(0, 0, 0, 0.35);
 }
 
+/* Prayer card headings */
+.prayer-card h1,
+.prayer-card h2,
+.prayer-card h3,
+.prayer-card h4 {
+    color: #ffffff;
+    font-weight: 800;
+
+    text-shadow:
+        0 2px 5px
+        rgba(0, 0, 0, 0.40);
+}
+
+
+/* Prayer card paragraph / verse text */
+.prayer-card p {
+    color: #ffffff;
+    font-weight: 700;
+    line-height: 1.6;
+
+    text-shadow:
+        0 2px 4px
+        rgba(0, 0, 0, 0.35);
+}
+
+
+/* Optional highlighted verse text */
+.prayer-card .verse-text {
+    color: #ffffff;
+    font-weight: 800;
+    line-height: 1.65;
+}
+
+
+/* Optional reference / Bible verse number */
+.prayer-card .verse-reference {
+    color: #f3e8ff;
+    font-weight: 800;
+    letter-spacing: 0.3px;
+}
 
 /* =========================================================
    PRAYER TITLE
