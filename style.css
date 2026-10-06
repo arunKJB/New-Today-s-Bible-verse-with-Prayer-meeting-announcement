@@ -702,12 +702,12 @@ text-shadow: 0 2px 4px rgba(0, 0, 0, 0.35);
         clamp(10px, 2vw, 18px);
 
     /* Elegant violet gradient */
-    background:
+   background:
     linear-gradient(
         135deg,
-        #312e81 0%,
-        #4338ca 50%,
-        #7c3aed 100%
+        #4c1d95 0%,
+        #6d28d9 45%,
+        #8b5cf6 100%
     );
 
     border:
