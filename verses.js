@@ -86,57 +86,70 @@ const dailyVerses = {
       
     },
 
-               //////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-   //////////////////////////// NEED TO ADD THE VERSES FOR 7 TO 31 OCT \\\\\\\\\\\\\\\\\\\\\\\\
-   /////////////////////////// \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\////////////////////////
+              
    
    7: {
-        tamilReference: "இணைச் சட்டம் 28:11",
-        tamilVerse: "உனக்குக் கொடுப்பதாக, உன் மூதாதையருக்கு ஆண்டவர் ஆணையிட்டுக் கூறிய நாட்டில், உன் கருவின் கனி உன் கால் நடைகளின் உன் நிலத்தின் பயன்கள் ஆகியவற்றில் நலன்களால் நீ நிறைவு பெறும்படி ஆண்டவர் அருள்வார்.",
-        englishReference: "Deuteronomy 28:11",
-        englishVerse: "And the LORD will make you abound in prosperity, in the fruit of your womb and in the fruit of your livestock and in the fruit of your ground, within the land that the LORD swore to your fathers to give you.",
-        bibleImage: "https://i.pinimg.com/736x/e4/5c/09/e45c09c2cacec9a4062809e6217c4d79.jpg",
-        backgroundImage: "https://i.pinimg.com/1200x/93/65/f5/9365f5151d29c0ce60fced6bfea3e869.jpg",
+        tamilReference: "நீதிமொழிகள் 3:6",
+        tamilVerse: "நீ எதைச் செய்தாலும் ஆண்டவரை மனத்தில் வைத்துச் செய்; அப்பொழுது அவர் உன் பாதைகளைச் செம்மையாக்குவார்.",
+        englishReference: "Proverbs 3:6",
+        englishVerse: "In all your ways give ear to Him, and He will make straight your footsteps.",
+        bibleImage: "https://i.pinimg.com/736x/27/85/96/278596a7e6e7901af7097d38b2444f0a.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/9f/13/08/9f1308b9839433d334302adefb151e9a.jpg",
 
-      
+        prayer: {
+            title: "நற்செய்தியின் குரல்",
+            description: "சிறப்பு திருப்பலி மற்றும் ஜெப வழிபாடு நடைபெறும்.",
+            date: "📅 நாளை 08-10-2026",
+            time: "⏰ மாலை 6:30 PM",
+            place: "📍 St. John the Baptist Chapel, Koinonia House, Pushpagiri"
+        }
     },
 
-
     8: {
-        tamilReference: "நீதிமொழிகள் 19:23",
-        tamilVerse: "ஆண்டவருக்கு அஞ்சி நடந்தால் ஆயுள் நீடிக்கும்; அவ்வாறு நடப்பவருக்கு மனநிறைவு கிட்டும்; தீங்கும் அவரை அணுகாது. ",
-        englishReference: "Proverbs 19:23",
-        englishVerse: "The fear of the LORD leads to life, and whoever has it rests satisfied; he will not be visited by harm.",
+        tamilReference: "சபை உரையாளர் 3:11",
+        tamilVerse: "கடவுள் ஒவ்வொன்றையும் அதனதன் காலத்தில் செம்மையாகச் செய்கிறார்; காலத்தைப் பற்றிய உணர்வை மனிதருக்குத் தந்திருக்கிறார். ஆயினும், கடவுள் தொடக்க முதல் இறுதிவரை செய்துவருவதைக் கண்டறிய மனிதரால் இயலாது.",
+        englishReference: "Ecclesiastes 3:11",
+        englishVerse: " He has made everything right in its time; but he has made their hearts without knowledge, so that man is unable to see the works of God, from the first to the last.",
         bibleImage: "https://i.pinimg.com/1200x/c3/be/ed/c3beed0f75be387b9e425c540a4d3e50.jpg",
         backgroundImage: "https://i.pinimg.com/1200x/c3/be/ed/c3beed0f75be387b9e425c540a4d3e50.jpg",
 
+       prayer: {
+            title: "நற்செய்தியின் குரல்",
+            description: "சிறப்பு திருப்பலி மற்றும் ஜெப வழிபாடு நடைபெறும்.",
+            date: "📅 இன்று 08-10-2026",
+            time: "⏰ மாலை 6:30 PM",
+            place: "📍 St. John the Baptist Chapel, Koinonia House, Pushpagiri"
+        }
      
     },
 
 
     9: {
-        tamilReference: "நீதிமொழிகள் 3:26",
-        tamilVerse: "ஆண்டவர் உனக்குப் பக்கத்துணையாய் இருப்பார்; உன் கால் கண்ணியில் சிக்காதபடி உன்னைக் காப்பார்.",
-        englishReference: "Proverbs 3:26",
-        englishVerse: "For the LORD shall be thy confidence, and shall keep thy foot from being taken. ",
-        bibleImage: "https://i.pinimg.com/1200x/99/b2/1a/99b21a0d869129de4fc6217034474e08.jpg",
-        backgroundImage: "https://i.pinimg.com/1200x/ca/f8/c9/caf8c9fba06c95719e7b5381c73a083f.jpg",
+        tamilReference: "எசாயா 26:3",
+        tamilVerse: "அவர்கள் மனஉறுதி கொண்டவர்கள்; உம்மீது நம்பிக்கை உடையவர்கள்; அவர்களை அமைதியால் நீர் உறுதிப்படுத்துகின்றீர்.",
+        englishReference: "Isaiah 26:3",
+        englishVerse: "The man whose heart is unmoved you will keep in peace, because his hope is in you.",
+        bibleImage: "https://i.pinimg.com/1200x/ed/e5/ec/ede5ec2c1e06c9ad271019b85cf0dd47.jpg",
+        backgroundImage: "https://i.pinimg.com/1200x/02/c9/62/02c962853889fb865b859f7c2df84d23.jpg",
 
       
     },
 
 
     10: {
-        tamilReference: "எரேமியா 1:19",
-        tamilVerse: "அவர்கள் உனக்கு எதிராகப் போராடுவார்கள். எனினும் உன்மேல் வெற்றி கொள்ள அவர்களால் இயலாது. ஏனெனில் உன்னை விடுவிக்க நான் உன்னோடு இருக்கிறேன், என்கிறார் ஆண்டவர்.",
-        englishReference: "Jeremiah 1:19",
-        englishVerse: "They will fight against you, but they shall not prevail against you, for I am with you, declares the LORD, to deliver you.",
-        bibleImage: "https://i.pinimg.com/736x/bc/75/d0/bc75d02a7b1e6651e6a739c1c557f8f7.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/7e/d9/9d/7ed99df9a82c133f5d61fe6d5cf825fa.jpg",
+        tamilReference: "எசாயா 41:13",
+        tamilVerse: "ஏனெனில் நானே உன் கடவுளாகிய ஆண்டவர்; உன் வலக்கையைப் பற்றிப் பிடித்து, “அஞ்சாதே, உனக்குத் துணையாய் இருப்பேன்” என்று உன்னிடம் சொல்பவரும் நானே.",
+        englishReference: "Isaiah 41:13",
+        englishVerse: "For I, the Lord your God, have taken your right hand in mine, saying to you, Have no fear; I will be your helper.",
+        bibleImage: "https://i.pinimg.com/736x/4e/21/d7/4e21d76f4baf22b45061788856bbbf4c.jpg",
+        backgroundImage: "https://i.pinimg.com/1200x/7d/f9/24/7df924f0423d9c5a597c9d6661350e22.jpg",
 
       
     },
 
+    //////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+   //////////////////////////// NEED TO ADD THE VERSES FOR 11 TO 31 OCT \\\\\\\\\\\\\\\\\\\\\\\\
+   /////////////////////////// \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\////////////////////////
 
     11: {
         tamilReference: "திருப்பாடல்கள் 138:7",
