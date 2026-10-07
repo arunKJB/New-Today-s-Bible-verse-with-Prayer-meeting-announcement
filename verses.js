@@ -137,27 +137,25 @@ const dailyVerses = {
 
 
     10: {
-        tamilReference: "எசாயா 41:13",
-        tamilVerse: "ஏனெனில் நானே உன் கடவுளாகிய ஆண்டவர்; உன் வலக்கையைப் பற்றிப் பிடித்து, “அஞ்சாதே, உனக்குத் துணையாய் இருப்பேன்” என்று உன்னிடம் சொல்பவரும் நானே.",
-        englishReference: "Isaiah 41:13",
-        englishVerse: "For I, the Lord your God, have taken your right hand in mine, saying to you, Have no fear; I will be your helper.",
-        bibleImage: "https://i.pinimg.com/736x/4e/21/d7/4e21d76f4baf22b45061788856bbbf4c.jpg",
-        backgroundImage: "https://i.pinimg.com/1200x/7d/f9/24/7df924f0423d9c5a597c9d6661350e22.jpg",
+        tamilReference: "செப்பனியா 3:17",
+        tamilVerse: "உன் கடவுளாகிய ஆண்டவர் உன் நடுவில் இருக்கின்றார்; அவர் மாவீரர்; மீட்பு அளிப்பவர்; உன்பொருட்டு அவர் மகிழ்ந்து களிகூருவார்; தம் அன்பினால் உனக்குப் புத்துயிர் அளிப்பார்; உன்னைக் குறித்து மகிழ்ந்து ஆடிப்பாடுவார்.",
+        englishReference: "Zephaniah 3:17",
+        englishVerse: " And I will send trouble on men so that they will go about like the blind, because they have done evil against the Lord: and their blood will be drained out like dust, and their strength like waste.",
+        bibleImage: "https://i.pinimg.com/736x/99/a8/15/99a8156114deb7b9cd1b12cbf713fd11.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/99/a8/15/99a8156114deb7b9cd1b12cbf713fd11.jpg",
 
       
     },
 
-    //////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-   //////////////////////////// NEED TO ADD THE VERSES FOR 11 TO 31 OCT \\\\\\\\\\\\\\\\\\\\\\\\
-   /////////////////////////// \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\////////////////////////
+    
 
     11: {
-        tamilReference: "திருப்பாடல்கள் 138:7",
-        tamilVerse: "நான் துன்பத்தின் நடுவில் நடந்தாலும், என் உயிரைக் காக்கின்றீர்; என் எதிரிகளின் சினத்துக்கு எதிராக உமது கையை நீட்டுகின்றீர்; உமது வலக்கையால் என்னைக் காப்பாற்றுகின்றீர். ",
-        englishReference: "Psalm 138:7",
-        englishVerse: "Though I walk in the midst of trouble, you preserve my life; you stretch out your hand against the wrath of my enemies, and your right hand delivers me.",
-        bibleImage: "https://i.pinimg.com/1200x/c0/b4/c4/c0b4c4ff4ad6db7af620a33feb51ebd1.jpg",
-        backgroundImage: "https://i.pinimg.com/1200x/57/10/5b/57105b7c72584e01d846efdd169d0955.jpg",
+        tamilReference: "தஎசாயா 43:19",
+        tamilVerse: "இதோ புதுச்செயல் ஒன்றை நான் செய்கிறேன்; இப்பொழுதே அது தோன்றிவிட்டது; நீ அதைக் கூர்ந்து கவனிக்கவில்லையா? பாலைநிலத்தில் நான் பாதை ஒன்று அமைப்பேன்; பாழ்வெளியில் நீரோடைகளைத் தோன்றச் செய்வேன்.",
+        englishReference: "Isaiah 43:19",
+        englishVerse: "See, I am doing a new thing; now it is starting; will you not take note of it? I will even make a way in the waste land, and rivers in the dry country.",
+        bibleImage: "https://i.pinimg.com/736x/27/85/96/278596a7e6e7901af7097d38b2444f0a.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/1e/19/96/1e1996f58a760f62770bd1c96d803d17.jpg",
 
        
     },
@@ -176,24 +174,24 @@ const dailyVerses = {
 
 
     13: {
-       tamilReference: "எரேமியா  29:11",
-        tamilVerse: "ஏனெனில் உங்களுக்காக நான் வகுத்திருக்கும் திட்டங்கள் எனக்குத் தெரியும் அன்றோ! அவை வளமான எதிர்காலத்தையும் நம்பிக்கையும் உங்களுக்கு அளிப்பதற்கான நல்வாழ்வின் திட்டங்களே அன்றி, கேடு விளைவிப்பதற்கான திட்டங்கள் அல்ல, என்கிறார் ஆண்டவர்.",
-        englishReference: "Jeremiah 29:11",
-        englishVerse: " For I am conscious of my thoughts about you, says the Lord, thoughts of peace and not of evil, to give you hope at the end.",
-        bibleImage: "https://i.pinimg.com/736x/4d/80/dd/4d80dd3bade3293ad06b92c41fb3e37b.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/c0/56/3f/c0563f5ba36524d8f5876b38cfab2b65.jpg",
+       tamilReference: "எசேக்கியல் 36:26",
+        tamilVerse: "நான் உங்களுக்குப் புதிய இதயத்தை அருள்வேன். புதிய ஆவியை உங்களுக்குள் புகுத்துவேன். உங்கள் உடலிலிருந்து கல்லாலான இதயத்தை எடுத்துவிட்டு, சதையாலான இதயத்தைப் பொருத்துவேன்.",
+        englishReference: "Ezekiel 36:26",
+        englishVerse: "And I will give you a new heart and put a new spirit in you: I will take away the heart of stone from your flesh, and give you a heart of flesh.",
+        bibleImage: "https://i.pinimg.com/1200x/44/9c/db/449cdb8e19e12228e9f743cd1f38f575.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/3b/39/57/3b395776017302a954a0cacde6eb78e4.jpg",
 
       
     },
 
 
     14: {
-        tamilReference: "அபக்கூக்கு 2:3",
-        tamilVerse: "குறித்த காலத்தில் நிறைவேறுவதற்காகக் காட்சி இன்னும் காத்திருக்கின்றது; முடிவை நோக்கி விரைந்து செல்கின்றது. ஒருக்காலும் பொய்க்காது. அது காலந்தாழ்த்தி வருவதாகத் தோன்றினால், எதிர்பார்த்துக் காத்திரு; அது நிறைவேறியே தீரும்; காலம் தாழ்த்தாது.",
-        englishReference: "Habakkuk 2:3",
-        englishVerse: "For still the vision awaits its appointed time; it hastens to the end—it will not lie. If it seems slow, wait for it; it will surely come; it will not delay.",
-        bibleImage: "https://i.pinimg.com/736x/c7/f1/3c/c7f13c0fb6a442efc00504bf3cf69835.jpg",
-        backgroundImage: "https://i.pinimg.com/1200x/a3/0f/5f/a30f5f0c19fa8e350e4e0f182d7200a6.jpg",
+        tamilReference: "எசாயா 41:13",
+        tamilVerse: "ஏனெனில் நானே உன் கடவுளாகிய ஆண்டவர்; உன் வலக்கையைப் பற்றிப் பிடித்து, “அஞ்சாதே, உனக்குத் துணையாய் இருப்பேன்” என்று உன்னிடம் சொல்பவரும் நானே.",
+        englishReference: "Isaiah 41:13",
+        englishVerse: "For I, the Lord your God, have taken your right hand in mine, saying to you, Have no fear; I will be your helper.",
+        bibleImage: "https://i.pinimg.com/736x/4e/21/d7/4e21d76f4baf22b45061788856bbbf4c.jpg",
+        backgroundImage: "https://i.pinimg.com/1200x/7d/f9/24/7df924f0423d9c5a597c9d6661350e22.jpg",
 
        
     },
@@ -201,7 +199,7 @@ const dailyVerses = {
 
     15: {
         tamilReference: "விடுதலைப் பயணம் 14:13",
-        tamilVerse: "அஞ்சாதீர்கள்! நிலைகுலையாதீர்கள்! இன்று ஆண்டவர்தாமே உங்களுக்காக ஆற்றும் விடுதலைச் செயலைப் பாருங்கள். இன்று நீங்கள் காணும் எகிப்தியரை இனிமேல் என்றுமே காணப்போவதில்லை. ",
+        tamilVerse: "மீண்டும் அவர் என்னிடம், “செருபாபேலுக்கு ஆண்டவர் அருளியவாக்கு இதுவே: உனது ஆற்றலாலும் அல்ல, வலிமையாலும் அல்ல; ஆனால் எனது ஆவியாலே ஆகும்,” என்கிறார் படைகளின் ஆண்டவர்.",
         englishReference: "Exodus 14:13",
         englishVerse: "Do not be afraid. Stand firm and you will see the deliverance the LORD will bring you today. The Egyptians you see today you will never see again.",
         bibleImage: "https://i.pinimg.com/1200x/99/e6/bf/99e6bf9a90cab75fec1ecb061651956e.jpg",
@@ -224,12 +222,12 @@ const dailyVerses = {
 
 
     17: {
-        tamilReference: "எரேமியா 29:11",
-        tamilVerse: "ஏனெனில் உங்களுக்காக நான் வகுத்திருக்கும் திட்டங்கள் எனக்குத் தெரியும் அன்றோ! அவை வளமான எதிர்காலத்தையும் நம்பிக்கையும் உங்களுக்கு அளிப்பதற்கான நல்வாழ்வின் திட்டங்களே அன்றி, கேடு விளைவிப்பதற்கான திட்டங்கள் அல்ல, என்கிறார் ஆண்டவர்.",
-        englishReference: "Jeremiah 29:11",
-        englishVerse: "For I am conscious of my thoughts about you, says the Lord, thoughts of peace and not of evil, to give you hope at the end.",
-        bibleImage: "https://i.pinimg.com/1200x/7a/00/5f/7a005f6de9126456c1e9a936e432fd7c.jpg",
-        backgroundImage: "https://i.pinimg.com/1200x/be/40/6c/be406c5a7f9c3edc9d0604fe49050e2e.jpg",
+        tamilReference: "மத்தேயு நற்செய்தி 19:26",
+        tamilVerse: "இயேசு அவர்களைக் கூர்ந்து நோக்கி, “மனிதரால் இது இயலாது. ஆனால், கடவுளால் எல்லாம் இயலும்” என்றார்.",
+        englishReference: "Matthew 19:26",
+        englishVerse: "And Jesus, looking at them, said, With men this is not possible; but with God all things are possible.",
+        bibleImage: "https://i.pinimg.com/736x/70/11/95/701195bb481962b7b0b98b723484f9d5.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/3e/66/8a/3e668a00ca5c1c80e42af6d1431b7b91.jpg",
 
        
     },
@@ -248,16 +246,19 @@ const dailyVerses = {
 
 
     19: {
-        tamilReference: "திருப்பாடல்கள் 46:1",
-        tamilVerse: "கடவுள் நமக்கு அடைக்கலமும் ஆற்றலுமாய் உள்ளார்; இடுக்கணுற்ற வேளைகளில் நமக்கு உற்ற துணையும் அவரே.",
-        englishReference: "Psalms 46:1",
-        englishVerse: "God is our harbour and our strength, a very present help in trouble.",
-        bibleImage: "https://i.pinimg.com/736x/e5/29/2c/e5292c09432a1f78695be9557a89484a.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/fe/b2/c2/feb2c2c97ae7d83d55b93d0cf5756e8a.jpg",
+        tamilReference: "மாற்கு நற்செய்தி 9:23",
+        tamilVerse: "இயேசு அவரை நோக்கி, “இயலுமானாலா? நம்புகிறவருக்கு எல்லாம் நிகழும்” என்றார்.",
+        englishReference: "Mark 9:23",
+        englishVerse: "And Jesus said to him, If you are able! All things are possible to him who has faith.",
+        bibleImage: "https://i.pinimg.com/1200x/98/a6/24/98a6244b17a7b0c1b6e26ba355cf46b1.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/62/1b/9f/621b9fbd7f74256dd0fed72e92b9eed5.jpg",
 
        
     },
 
+   ////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+   //////////////////////////// NEED TO ADD THE VERSES FOR 20 TO 31 OCT - 11 DAYS PENDING \\\\\\\\\\\\\\\\\\\\\\\\\\
+   /////////////////////////// \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\////////////////////////
 
     20: {
         tamilReference: "பிலிப்பியர் 4:13",
