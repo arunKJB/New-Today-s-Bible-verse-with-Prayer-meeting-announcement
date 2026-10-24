@@ -256,9 +256,7 @@ const dailyVerses = {
        
     },
 
-   ////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-   //////////////////////////// NEED TO ADD THE VERSES FOR 20 TO 31 OCT - 11 DAYS PENDING \\\\\\\\\\\\\\\\\\\\\\\\\\
-   /////////////////////////// \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\////////////////////////
+  
 
     20: {
         tamilReference: "பிலிப்பியர் 4:13",
@@ -321,28 +319,28 @@ const dailyVerses = {
 
 
     25: {
-        tamilReference: "நாகூம் 1:7",
-        tamilVerse: "ஆண்டவர் நல்லவர்; துன்பநாளில் அவர் காவலரண் ஆவார்; அவரிடம் அடைக்கலம் புகுந்தோரை அவர் அறிவார்.",
-        englishReference: "Nahum 1:7",
-        englishVerse: "The Lord is good, a strong place in the day of trouble; and he has knowledge of those who take him for their safe cover.",
-        bibleImage: "https://i.pinimg.com/736x/fc/0c/99/fc0c99c5a56d1a7b7044aed0f45deb70.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/39/31/1f/39311f32a7e186ee859f6d746de7b58c.jpg",
-
-      
+        tamilReference: "திருப்பாடல்கள் 9:10",
+        tamilVerse: "உமது பெயரை அறிந்தோர் உம்மில் நம்பிக்கை கொள்வர்; ஆண்டவரே, உம்மை நாடி வருவோரை நீர் கைவிடுவதில்லை.",
+        englishReference: "Psalms 9:10",
+        englishVerse: "And those who have knowledge of your name will put their faith in you; because you, Lord, have ever given your help to those who were waiting for you.",
+        bibleImage: "https://i.pinimg.com/736x/27/85/96/278596a7e6e7901af7097d38b2444f0a.jpg",
+        backgroundImage: "https://i.pinimg.com/1200x/ed/2d/d0/ed2dd0ff69bb89a5920b00bd586cc6f2.jpg",       
     },
 
 
     26: {
-        tamilReference: "திருப்பாடல்கள்  18:2",
-        tamilVerse: "ஆண்டவர் என் கற்பாறை என் கோட்டை; என் மீட்பர்; என் இறைவன்; நான் புகலிடம் தேடும் மலை அவரே; என் கேடயம், எனக்கு மீட்பளிக்கும் வல்லமை, என் அரண்.",
-        englishReference: "Psalms 18:2",
-        englishVerse: "The Lord is my Rock, my walled town, and my Saviour; my God, my Rock, in him will I put my faith; my breastplate, and the horn of my salvation, and my high tower.",
-        bibleImage: "https://i.pinimg.com/736x/59/07/c7/5907c78c7ffee6e00d2f87c0bfe0927c.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/e4/ae/64/e4ae6439952ea2d543cac77c2936156e.jpg",
-
-      
+        tamilReference: "யோவான் 16:33",
+        tamilVerse: "என் வழியாய் நீங்கள் அமைதி காணும் பொருட்டே நான் இவற்றை உங்களிடம் சொன்னேன். உலகில் உங்களுக்குத் துன்பம் உண்டு, எனினும் துணிவுடன் இருங்கள். நான் உலகின்மீது வெற்றி கொண்டுவிட்டேன்” என்றார்.",
+        englishReference: "John 16:33",
+        englishVerse: " I have said all these things to you so that in me you may have peace. In the world you have trouble: but take heart! I have overcome the world.",
+        bibleImage: "https://i.pinimg.com/736x/89/d2/1e/89d21eff78baa4e515b1b703d9e91790.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/b0/50/9b/b0509b1343847369f2faf00c2a1c4b2e.jpg",     
     },
 
+       ////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+   //////////////////////////// NEED TO ADD THE VERSES FOR 27 TO 31 OCT - PENDING \\\\\\\\\\\\\\\\\\\\\\\\\\
+       ///////////////////////// \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\////////////////////////
+   
 
     27: {
         tamilReference: "மீக்கா 7:8",
