@@ -390,7 +390,7 @@ const dailyVerses = {
         backgroundImage: "https://i.pinimg.com/236x/e4/29/e0/e429e0d114290468315bb6b5dd521d20.jpg",
 
        
-    }
+    },
 
 
     31: {
