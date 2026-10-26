@@ -6,20 +6,23 @@
 const dailyVerses = {
 
     1: {
-        tamilReference: "செப்பனியா 3:17",
-        tamilVerse: "உன் கடவுளாகிய ஆண்டவர் உன் நடுவில் இருக்கின்றார்; அவர் மாவீரர்; மீட்பு அளிப்பவர்; உன்பொருட்டு அவர் மகிழ்ந்து களிகூருவார்; தம் அன்பினால் உனக்குப் புத்துயிர் அளிப்பார்; உன்னைக் குறித்து மகிழ்ந்து ஆடிப்பாடுவார்.",
-        englishReference: "Zephaniah 3:17",
-        englishVerse: " And I will send trouble on men so that they will go about like the blind, because they have done evil against the Lord: and their blood will be drained out like dust, and their strength like waste.",
-        bibleImage: "https://i.pinimg.com/736x/99/a8/15/99a8156114deb7b9cd1b12cbf713fd11.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/99/a8/15/99a8156114deb7b9cd1b12cbf713fd11.jpg",
+        tamilReference: "எசாயா 40:11",
+        tamilVerse: "ஆயனைப்போல் தம் மந்தையை அவர் மேய்ப்பார்; ஆட்டுக்குட்டிகளைத் தம் கையால் ஒன்று சேர்ப்பார்; அவற்றைத் தம் தோளில் தூக்கிச் சுமப்பார்;",
+        englishReference: "Isaiah 40:11",
+        englishVerse: "He will give food to his flock like a keeper of sheep; with his arm he will get it together, and will take up the lambs on his breast, gently guiding those which are with young.",
+        bibleImage: "https://i.pinimg.com/736x/06/55/c5/0655c5d44280e7489d71a47fbc034d59.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/2f/e6/1e/2fe61e77725fba3c6e33326bd619e30e.jpg",
        
     },
 
+        ////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+   ////////////////////////////  NEED TO ADD THE VERSES FOR 2 TO 26 NOV - PENDING \\\\\\\\\\\\\\
+       ///////////////////////// \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\////////////////////
 
     2: {
         tamilReference: "2 கொரிந்தியர் 12:9",
         tamilVerse: "என் அருள் உனக்குப் போதும்; வலுவின்மையில்தான் வல்லமை நிறைவாய் வெளிப்படும்.",
-        englishReference: "2Corinthians 12:9",
+        englishReference: "2 Corinthians 12:9",
         englishVerse: "My grace is sufficient for you, for mypower is manifested fully in weakness.",
         bibleImage: "https://i.pinimg.com/736x/5e/46/c0/5e46c0e4974c7bf0dcfb2ec3c0e938b5.jpg",
         backgroundImage: "https://i.pinimg.com/736x/5a/18/45/5a18459675952a0524d5d34f169e12c4.jpg",
@@ -343,61 +346,61 @@ const dailyVerses = {
    
 
     27: {
-        tamilReference: "மீக்கா 7:8",
-        tamilVerse: "என் பகைவனே, என்னைக் குறித்துக் களிப்படையாதே; ஏனெனில், நான் வீழ்ச்சியுற்றாலும் எழுச்சிபெறுவேன். நான் இருளில் குடியிருந்தாலும் ஆண்டவர் எனக்கு ஒளியாய் இருப்பார்",
-        englishReference: "Micah 7:8",
-        englishVerse: "Do not be glad because of my sorrow, O my hater: after my fall I will be lifted up; when I am seated in the dark, the Lord will be a light to me.",
-        bibleImage: "https://i.pinimg.com/1200x/bd/c2/39/bdc239a514c2f2534b0fb0b1963ade7e.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/d3/61/ca/d361ca98fc2c2c8e0190a1eb42e27c65.jpg",
+        tamilReference: "திருப்பாடல் 91:15",
+        tamilVerse: "அவர்கள் என்னை நோக்கி மன்றாடும்போது, அவர்களுக்குப் பதிலளிப்பேன்; அவர்களது துன்பத்தில் அவர்களோடு இருப்பேன்; அவர்களைத் தப்புவித்து அவர்களைப் பெருமைப்படுத்துவேன்;",
+        englishReference: "Psalms 91:15",
+        englishVerse: "When his cry comes up to me, I will give him an answer: I will be with him in trouble; I will make him free from danger and give him honour.",
+        bibleImage: "https://i.pinimg.com/1200x/be/49/f6/be49f609050f2250aed8e89367fc7c7c.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/b6/37/9d/b6379d8bf6e608550c6fcd0957210f66.jpg",
 
      
     },
 
 
     28: {
-        tamilReference: "திருப்பாடல்கள் 73:26",
-        tamilVerse: "எனது உடலும் உள்ளமும் நைந்து போயின; கடவுளே என் உள்ளத்திற்கு அரணும் என்றென்றும் எனக்குரிய பங்கும் ஆவார்.",
-        englishReference: "Psalms 73:26",
-        englishVerse: "My flesh and my heart are wasting away: but God is the Rock of my heart and my eternal heritage.",
-        bibleImage: "https://i.pinimg.com/736x/08/4c/e9/084ce9ee12916a461122be82b468c557.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/d3/61/ca/d361ca98fc2c2c8e0190a1eb42e27c65.jpg",
+        tamilReference: "திருப்பாடல்கள் 25:5",
+        tamilVerse: "உமது உண்மை நெறியில் என்னை நடத்தி எனக்குக் கற்பித்தருளும்;ஏனெனில், நீரே என் மீட்பராம் கடவுள்; உம்மையே நான் நாள் முழுதும் நம்பியிருக்கின்றேன்;",
+        englishReference: "Psalms 25:5",
+        englishVerse: "Be my guide and teacher in the true way; for you are the God of my salvation; I am waiting for your word all the day.",
+        bibleImage: "https://i.pinimg.com/1200x/9a/70/24/9a702474152ef57f861113b15eef60c1.jpg",
+        backgroundImage: "https://i.pinimg.com/1200x/15/25/72/1525723f9e845611e6c5a7d70bb18dce.jpg",
 
       
     },
 
 
     29: {
-        tamilReference: "திருப்பாடல்கள் 130:7",
-        tamilVerse: "இஸ்ரயேலே! ஆண்டவரையே நம்பியிரு; பேரன்பு ஆண்டவரிடமே உள்ளது; மிகுதியான மீட்பு அவரிடமே உண்டு.",
+        tamilReference: "யோவான் நற்செய்தி 6:47",
+        tamilVerse: "உறுதியாக உங்களுக்குச் சொல்கிறேன்; என்னை நம்புவோர் நிலைவாழ்வைக் கொண்டுள்ளனர்.",
         englishReference: "Psalms 130:7",
-        englishVerse: "O Israel, have hope in the Lord; for with the Lord is mercy and full salvation.",
-        bibleImage: "https://i.pinimg.com/1200x/c3/b7/d0/c3b7d0f1ba5045ff000bf50dcef8e579.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/d8/cd/35/d8cd35b5d5f63d606183d531b9a46801.jpg",
+        englishVerse: "Truly I say to you, He who has faith in me has eternal life.",
+        bibleImage: "https://i.pinimg.com/736x/84/3d/b0/843db03a3bcdb64cea12b61128163a68.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/c3/8b/fb/c38bfb1797875b4ab426d2b08aace302.jpg",
 
       
     },
 
 
     30: {
-        tamilReference: "திருப்பாடல்கள் 138:3",
-        tamilVerse: "நான் மன்றாடிய நாளில் எனக்குச் செவிசாய்த்தீர்; என் மனத்திற்கு வலிமை அளித்தீர்.",
-        englishReference: "Psalms 138:3",
-        englishVerse: "When my cry came to your ears you gave me an answer, and made me great with strength in my soul.",
-        bibleImage: "https://i.pinimg.com/1200x/4b/0b/ed/4b0beda90e2764dfa2746b81b8ed5386.jpg",
-        backgroundImage: "https://i.pinimg.com/1200x/3e/ac/18/3eac18b10cd6e24f5a76e5356c4ef94e.jpg",
+        tamilReference: "யாக்கோபு 4:10",
+        tamilVerse: "ஆண்டவர்முன் உங்களைத் தாழ்த்துங்கள்; அவர் உங்களை உயர்த்துவார்.",
+        englishReference: "James 4:10",
+        englishVerse: " Make yourselves low in the eyes of the Lord and you will be lifted up by him.",
+        bibleImage: "https://i.pinimg.com/736x/74/bb/ad/74bbad48b2c42e4d14e94d2552ba0d8b.jpg",
+        backgroundImage: "https://i.pinimg.com/236x/e4/29/e0/e429e0d114290468315bb6b5dd521d20.jpg",
 
        
     }
 
 
-    // 31: {
-    //     tamilReference: "யோவான் நற்செய்தி 16;33",
-    //     tamilVerse: "உலகில் உங்களுக்குத் துன்பம் உண்டு, எனினும் துணிவுடன் இருங்கள். நான் உலகின்மீது வெற்றி கொண்டுவிட்டேன்.",
-    //     englishReference: "John 16:33",
-    //     englishVerse: "In the world you have trouble: but take heart! I have overcome the world.",
-    //     bibleImage: "https://i.pinimg.com/736x/b1/1a/17/b11a17ced3d595effa3c51f55311a2c9.jpg",
-    //     backgroundImage: "https://i.pinimg.com/736x/e7/3d/ea/e73dea883b220b362fbcb7eb85becf8c.jpg",
+    31: {
+        tamilReference: "2 சாமுவேல் 22:33",
+        tamilVerse: "இறைவன் எனக்கு வலிமைமிகு கோட்டையாய் உள்ளார்; என் வழியை பாதுகாப்பானதாய்ச் செய்தவரும் அவரே.",
+        englishReference: "2 Samuel 22:33",
+        englishVerse: "God puts a strong band about me, guiding me in a straight way.",
+        bibleImage: "https://i.pinimg.com/1200x/d8/2f/9e/d82f9eed2359f81f8b90124ba5584067.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/85/7e/67/857e678c11ce48dcdad9da568624cfa9.jpg",
 
-    // }
+    }
 
 };
