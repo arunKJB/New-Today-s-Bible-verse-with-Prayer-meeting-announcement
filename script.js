@@ -71,6 +71,17 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
     /* =================================================
+       ★ AUDIO ELEMENTS (NEW)
+    ================================================= */
+
+    const bgm =
+        document.getElementById("bgm");
+
+    const musicToggle =
+        document.getElementById("musicToggle");
+
+
+    /* =================================================
        SAFETY CHECK
     ================================================= */
 
@@ -116,6 +127,289 @@ document.addEventListener("DOMContentLoaded", () => {
     const todayVerse =
         dailyVerses[currentDay]
         || dailyVerses[1];
+
+
+    /* =================================================
+       ★ BACKGROUND MUSIC (NEW)
+
+       - Starts when the first screen is tapped
+       - Fades in smoothly and loops
+       - Mute / unmute button
+       - Pauses when the user leaves the page
+       - Optional: add   bgm: "assests/day5.mp3"
+         inside any day in verses.js for a
+         different song on that day
+    ================================================= */
+
+    const BGM_TARGET_VOLUME = 0.5;   // 0.0 to 1.0
+
+    const BGM_FADE_MS = 1500;        // fade-in time
+
+    let musicStarted = false;
+
+    let userMuted = false;
+
+    let fadeTimer = null;
+
+
+    /* ---------------------------------------------
+       Optional song for today's date
+    --------------------------------------------- */
+
+    if (
+        bgm &&
+        todayVerse.bgm
+    ) {
+
+        bgm.src =
+            todayVerse.bgm;
+
+    }
+
+
+    /* ---------------------------------------------
+       Update 🔊 / 🔇 icon
+    --------------------------------------------- */
+
+    function updateMusicIcon() {
+
+        if (!musicToggle) {
+
+            return;
+
+        }
+
+        musicToggle.textContent =
+            userMuted ? "🔇" : "🔊";
+
+        musicToggle.classList.toggle(
+            "muted",
+            userMuted
+        );
+
+    }
+
+
+    /* ---------------------------------------------
+       Fade in
+    --------------------------------------------- */
+
+    function fadeInMusic() {
+
+        if (!bgm) {
+
+            return;
+
+        }
+
+        clearInterval(fadeTimer);
+
+        bgm.volume = 0;
+
+        const steps = 30;
+
+        const stepTime =
+            BGM_FADE_MS / steps;
+
+        let step = 0;
+
+        fadeTimer = setInterval(() => {
+
+            step++;
+
+            bgm.volume = Math.min(
+                BGM_TARGET_VOLUME,
+                (step / steps) * BGM_TARGET_VOLUME
+            );
+
+            if (step >= steps) {
+
+                clearInterval(fadeTimer);
+
+            }
+
+        }, stepTime);
+
+    }
+
+
+    /* ---------------------------------------------
+       Start music
+    --------------------------------------------- */
+
+    function startMusic() {
+
+        if (
+            !bgm ||
+            musicStarted
+        ) {
+
+            return;
+
+        }
+
+        musicStarted = true;
+
+        userMuted = false;
+
+        const playPromise =
+            bgm.play();
+
+        if (playPromise !== undefined) {
+
+            playPromise
+
+                .then(() => {
+
+                    fadeInMusic();
+
+                    if (musicToggle) {
+
+                        musicToggle.style.display =
+                            "flex";
+
+                    }
+
+                    updateMusicIcon();
+
+                })
+
+                .catch((error) => {
+
+                    /* Browser blocked it:
+                       show the button so the user
+                       can start the music manually */
+
+                    console.warn(
+                        "BGM could not start:",
+                        error
+                    );
+
+                    userMuted = true;
+
+                    if (musicToggle) {
+
+                        musicToggle.style.display =
+                            "flex";
+
+                    }
+
+                    updateMusicIcon();
+
+                });
+
+        }
+
+    }
+
+
+    /* ---------------------------------------------
+       Stop music (used when going back)
+    --------------------------------------------- */
+
+    function stopMusic() {
+
+        if (!bgm) {
+
+            return;
+
+        }
+
+        clearInterval(fadeTimer);
+
+        bgm.pause();
+
+        bgm.currentTime = 0;
+
+        musicStarted = false;
+
+        if (musicToggle) {
+
+            musicToggle.style.display =
+                "none";
+
+        }
+
+    }
+
+
+    /* ---------------------------------------------
+       Mute / Unmute button
+    --------------------------------------------- */
+
+    if (
+        musicToggle &&
+        bgm
+    ) {
+
+        musicToggle.addEventListener(
+            "click",
+            (event) => {
+
+                event.stopPropagation();
+
+                userMuted = !userMuted;
+
+                if (userMuted) {
+
+                    bgm.pause();
+
+                } else {
+
+                    bgm.play()
+
+                        .then(fadeInMusic)
+
+                        .catch((error) => {
+
+                            console.warn(
+                                "BGM play failed:",
+                                error
+                            );
+
+                        });
+
+                }
+
+                updateMusicIcon();
+
+            }
+        );
+
+    }
+
+
+    /* ---------------------------------------------
+       Pause when user leaves the page,
+       resume when user comes back
+    --------------------------------------------- */
+
+    document.addEventListener(
+        "visibilitychange",
+        () => {
+
+            if (
+                !bgm ||
+                !musicStarted ||
+                userMuted
+            ) {
+
+                return;
+
+            }
+
+            if (document.hidden) {
+
+                bgm.pause();
+
+            } else {
+
+                bgm.play().catch(() => {});
+
+            }
+
+        }
+    );
 
 
     /* =================================================
@@ -318,6 +612,15 @@ document.addEventListener("DOMContentLoaded", () => {
         --------------------------------------------- */
 
         screenChanging = true;
+
+
+        /* ---------------------------------------------
+           ★ START BACKGROUND MUSIC (NEW)
+           Must be inside the tap so the
+           browser allows the audio
+        --------------------------------------------- */
+
+        startMusic();
 
 
         /* ---------------------------------------------
@@ -879,6 +1182,13 @@ document.addEventListener("DOMContentLoaded", () => {
             );
 
         }
+
+
+        /* ---------------------------------------------
+           ★ STOP BACKGROUND MUSIC (NEW)
+        --------------------------------------------- */
+
+        stopMusic();
 
 
         setTimeout(() => {
