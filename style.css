@@ -1468,3 +1468,36 @@ body {
         font-size: 10px;
     }
 }
+
+#musicToggle {
+    position: fixed;
+    top: calc(12px + env(safe-area-inset-top, 0px));
+    right: 12px;
+    z-index: 9999;
+    width: 46px;
+    height: 46px;
+    border: 2px solid rgba(255, 215, 0, 0.8);
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.55);
+    color: #fff;
+    font-size: 22px;
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    box-shadow: 0 0 12px rgba(255, 215, 0, 0.45);
+    transition: transform 0.2s ease, background 0.2s ease;
+}
+
+#musicToggle:active {
+    transform: scale(0.92);
+}
+
+#musicToggle.muted {
+    opacity: 0.7;
+    border-color: rgba(255, 255, 255, 0.5);
+    box-shadow: none;
+}
