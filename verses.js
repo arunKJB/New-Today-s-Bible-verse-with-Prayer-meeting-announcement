@@ -400,7 +400,7 @@ const dailyVerses = {
     29: {
         tamilReference: "யோவான் நற்செய்தி 6:47",
         tamilVerse: "உறுதியாக உங்களுக்குச் சொல்கிறேன்; என்னை நம்புவோர் நிலைவாழ்வைக் கொண்டுள்ளனர்.",
-        englishReference: "Psalms 130:7",
+        englishReference: "John 6:47",
         englishVerse: "Truly I say to you, He who has faith in me has eternal life.",
         bibleImage: "https://i.pinimg.com/736x/84/3d/b0/843db03a3bcdb64cea12b61128163a68.jpg",
         backgroundImage: "https://i.pinimg.com/736x/c3/8b/fb/c38bfb1797875b4ab426d2b08aace302.jpg",
