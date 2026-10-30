@@ -6,6 +6,19 @@
 const dailyVerses = {
 
     1: {
+        tamilReference: "எசாயா 41:10",
+        tamilVerse: "அஞ்சாதே, நான் உன்னுடன் இருக்கிறேன்;கலங்காதே, நான் உன் கடவுள்,நான் உனக்கு வலிமை அளிப்பேன்; உதவி செய்வேன்; என் நீதியின் வலக்கரத்தால் உன்னைத் தாங்குவேன்.",
+        englishReference: "Isaiah 41:10",
+        englishVerse: "Have no fear, for I am with you; do not be looking about in trouble, for I am your God; I will give you strength, yes, I will be your helper; yes, my true right hand will be your support.",
+        bibleImage: "https://i.pinimg.com/1200x/c7/f8/ee/c7f8eed27a372f52fdf90cd663ed4106.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/a5/23/14/a5231460dd3f1b627525a950aa878b8f.jpg",
+       bgm: "assests/audio/day1to7.mp3",
+       
+    },
+
+        
+
+    2: {
         tamilReference: "எசாயா 40:11",
         tamilVerse: "ஆயனைப்போல் தம் மந்தையை அவர் மேய்ப்பார்; ஆட்டுக்குட்டிகளைத் தம் கையால் ஒன்று சேர்ப்பார்; அவற்றைத் தம் தோளில் தூக்கிச் சுமப்பார்;",
         englishReference: "Isaiah 40:11",
@@ -13,21 +26,6 @@ const dailyVerses = {
         bibleImage: "https://i.pinimg.com/736x/06/55/c5/0655c5d44280e7489d71a47fbc034d59.jpg",
         backgroundImage: "https://i.pinimg.com/736x/2f/e6/1e/2fe61e77725fba3c6e33326bd619e30e.jpg",
         bgm: "assests/audio/day1to7.mp3",
-       
-    },
-
-        ////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-   ////////////////////////////  NEED TO ADD THE VERSES FOR 2 TO 26 NOV - PENDING \\\\\\\\\\\\\\
-       ///////////////////////// \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\////////////////////
-
-    2: {
-        tamilReference: "2 கொரிந்தியர் 12:9",
-        tamilVerse: "என் அருள் உனக்குப் போதும்; வலுவின்மையில்தான் வல்லமை நிறைவாய் வெளிப்படும்.",
-        englishReference: "2 Corinthians 12:9",
-        englishVerse: "My grace is sufficient for you, for mypower is manifested fully in weakness.",
-        bibleImage: "https://i.pinimg.com/736x/5e/46/c0/5e46c0e4974c7bf0dcfb2ec3c0e938b5.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/5a/18/45/5a18459675952a0524d5d34f169e12c4.jpg",
-       bgm: "assests/audio/day1to7.mp3",
 
         // prayer: {
         //     title: "நற்செய்தியின் குரல்",
@@ -40,12 +38,12 @@ const dailyVerses = {
 
 
     3: {
-        tamilReference: "திருப்பாடல்கள் 55:22",
-        tamilVerse: "ஆண்டவர் மேல் உன் கவலையைப் போட்டுவிடு; அவர் உனக்கு ஆதரவளிப்பார்; அவர் நேர்மையாளரை ஒருபோதும் வீழ்ச்சியுற விடமாட்டார்",
-        englishReference: "Psalms 55:22",
-        englishVerse: "Put your cares on the Lord, and he will be your support; he will not let the upright man be moved.",
-        bibleImage: "https://i.pinimg.com/1200x/0e/08/54/0e0854eb366bbf0e67849933efe9d307.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/17/5d/5a/175d5a3728079fdc0ae7338e28948ca9.jpg",
+        tamilReference: "திருப்பாடல்கள் 146:6",
+        tamilVerse: "அவரே விண்ணையும் மண்ணையும் கடலையும் அவற்றிலுள்ள யாவற்றையும் உருவாக்கியவர்; என்றென்றும் நம்பிக்கைக்கு உரியவராய் இருப்பவரும் அவரே!",
+        englishReference: "Psalms 146:6",
+        englishVerse: "Who made heaven and earth, the sea, and all things in them; who keeps faith for ever",
+        bibleImage: "https://i.pinimg.com/736x/b9/33/68/b933685e768a3fcd20fb06a7efa9b4a7.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/f3/29/a1/f329a112d12cc956235ed1f4d23d6b6f.jpg",
        bgm: "assests/audio/day1to7.mp3",
 
        // prayer: {
@@ -59,12 +57,12 @@ const dailyVerses = {
 
 
     4: {
-        tamilReference: "திருப்பாடல்கள் 32:7",
-        tamilVerse: "நீரே எனக்குப் புகலிடம்; இன்னலினின்று என்னை நீர் பாதுகாக்கின்றீர்; உம் மீட்பினால் எழும் ஆரவாரம் என்னைச் சூழ்ந்தொலிக்கச் செய்கின்றீர்.",
-        englishReference: "Psalms 32:7",
-        englishVerse: "You are my safe and secret place; you will keep me from trouble; you will put songs of salvation on the lips of those who are round me.",
-        bibleImage: "https://i.pinimg.com/1200x/ed/37/16/ed3716209726ecb28c4cd83421a5a610.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/77/d0/ed/77d0ed57d9755f02d23c2e6398a2bd9d.jpg",
+        tamilReference: "யோவான் நற்செய்தி 15:16",
+        tamilVerse: "நீங்கள் என்னைத் தேர்ந்து கொள்ளவில்லை; நான்தான் உங்களைத் தேர்ந்து கொண்டேன். நீங்கள் கனி தரவும், நீங்கள் தரும் கனி நிலைத்திருக்கவும் உங்களை ஏற்படுத்தினேன். ஆகவே, நீங்கள் என் பெயரால் தந்தையிடம் கேட்பதையெல்லாம் அவர் உங்களுக்குக் கொடுப்பார்.",
+        englishReference: "John 32:7",
+        englishVerse: "You did not take me for yourselves, but I took you for myself; and I gave you the work of going about and producing fruit which will be for ever; so that whatever request you make to the Father in my name he may give it to you.",
+        bibleImage: "https://i.pinimg.com/736x/30/21/f8/3021f8b59aad552bcdbc747eee0081ee.jpg",
+        backgroundImage: "https://i.pinimg.com/1200x/0a/9c/21/0a9c21b33a48b333caa8e7a009df9bf0.jpg",
        bgm: "assests/audio/day1to7.mp3",
 
        
@@ -72,12 +70,12 @@ const dailyVerses = {
 
 
     5: {
-        tamilReference: "திருப்பாடல்கள் 91:4",
-        tamilVerse: "அவர் தம் சிறகுகளால் உம்மை அரவணைப்பார்; அவர்தம் இறக்கைகளின்கீழ் நீர் புகலிடம் காண்பீர்; அவரது உண்மையே கேடயமும் கவசமும் ஆகும்.",
-        englishReference: "Psalms 91:4",
-        englishVerse: "You will be covered by his feathers; under his wings you will be safe: his good faith will be your salvation.",
-        bibleImage: "https://i.pinimg.com/1200x/92/d8/f6/92d8f6b25be17cfc22d6ed13ea14a591.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/45/35/7b/45357b7025e3e26c7db1331e737ed267.jpg",
+        tamilReference: "2 பேதுரு 1:5-7",
+        tamilVerse: "ஆகையால் நீங்கள் உங்கள் நம்பிக்கையோடு நற்பண்பும், நற்பண்போடு அறிவும், அறிவோடு தன்னடக்கமும், தன்னடக்கத்தோடு மன உறுதியும், மன உறுதியோடு இறைப்பற்றும், இறைப்பற்றோடு சகோதர நேயமும், சகோதர நேயத்தோடு அன்பும் கொண்டு விளங்குமாறு முழு ஆர்வத்தோடு முயற்சி செய்யுங்கள்.",
+        englishReference: "2 Peter 1:5-7",
+        englishVerse: "So,for this very cause, take every care; joining virtue to faith, and knowledge to virtue, And self-control to knowledge, and a quiet mind to self-control, and fear of God to a quiet mind, And love of the brothers to fear of God, and to love of the brothers, love itself.",
+        bibleImage: "https://i.pinimg.com/1200x/8f/c1/78/8fc17844ad4c037b6baddc097b3c7667.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/49/99/b2/4999b29e1a5ec9931679d15ddf1826fa.jpg",
        bgm: "assests/audio/day1to7.mp3",
 
       
@@ -85,17 +83,19 @@ const dailyVerses = {
 
 
     6: {
-        tamilReference: "திருப்பாடல்கள் 34:4",
-        tamilVerse: "துணைவேண்டி நான் ஆண்டவரை மன்றாடினேன்; அவர் எனக்கு மறுமொழி பகர்ந்தார்; எல்லா வகையான அச்சத்தினின்றும் அவர் என்னை விடுவித்தார்.",
-        englishReference: "Psalms 34:4",
-        englishVerse: "I was searching for the Lord, and he gave ear to my voice, and made me free from all my fears.",
-        bibleImage: "https://i.pinimg.com/1200x/94/36/e7/9436e75f60c8032f6265a9c4f89625d0.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/b2/bb/91/b2bb919ed10b451dd881dd38a91fa205.jpg",
+        tamilReference: "திருப்பாடல்கள் 55:22",
+        tamilVerse: "ஆண்டவர் மேல் உன் கவலையைப் போட்டுவிடு; அவர் உனக்கு ஆதரவளிப்பார்; அவர் நேர்மையாளரை ஒருபோதும் வீழ்ச்சியுற விடமாட்டார்.",
+        englishReference: "Psalms 55:22",
+        englishVerse: "Put your cares on the Lord, and he will be your support; he will not let the upright man be moved.",
+        bibleImage: "https://i.pinimg.com/236x/ba/6b/6b/ba6b6b48be8989b46e644c47a2e2942a.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/f2/d3/67/f2d367c28c6abd8b067753cfd22a6fbc.jpg",
        bgm: "assests/audio/day1to7.mp3",
       
     },
 
-              
+              ////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+   ////////////////////////////  NEED TO ADD THE VERSES FOR 7 TO  NOV 30 - PENDING \\\\\\\\\\\\\\
+       ///////////////////////// \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\////////////////////
    
    7: {
         tamilReference: "நீதிமொழிகள் 3:6",
