@@ -149,15 +149,13 @@ const dailyVerses = {
 
 
     10: {
-        tamilReference: "செப்பனியா 3:17",
-        tamilVerse: "உன் கடவுளாகிய ஆண்டவர் உன் நடுவில் இருக்கின்றார்; அவர் மாவீரர்; மீட்பு அளிப்பவர்; உன்பொருட்டு அவர் மகிழ்ந்து களிகூருவார்; தம் அன்பினால் உனக்குப் புத்துயிர் அளிப்பார்; உன்னைக் குறித்து மகிழ்ந்து ஆடிப்பாடுவார்.",
-        englishReference: "Zephaniah 3:17",
-        englishVerse: " And I will send trouble on men so that they will go about like the blind, because they have done evil against the Lord: and their blood will be drained out like dust, and their strength like waste.",
-        bibleImage: "https://i.pinimg.com/736x/99/a8/15/99a8156114deb7b9cd1b12cbf713fd11.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/99/a8/15/99a8156114deb7b9cd1b12cbf713fd11.jpg",
-        bgm: "assests/audio/day8to14.mp3",
-
-      
+        tamilReference: "திருப்பாடல் 68:19",
+        tamilVerse: "ஆண்டவர் போற்றி! போற்றி! நாளும் நம்மை அவர் தாங்கிக் கொள்கின்றார்; இறைவனே நம் மீட்பு.",
+        englishReference: "Psalms 68:19",
+        englishVerse: "Praise be to the Lord, who is our support day by day, even the God of our salvation.",
+        bibleImage: "https://i.pinimg.com/1200x/1a/85/af/1a85afd71f059404b0dce5cebd388c3d.jpg",
+        backgroundImage: "https://i.pinimg.com/1200x/92/6a/f8/926af8168f44fe754c68aee18ae1ca42.jpg",
+        bgm: "assests/audio/day8to14.mp3",      
     },
 
     
