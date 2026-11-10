@@ -158,10 +158,12 @@ const dailyVerses = {
         bgm: "assests/audio/day8to14.mp3",      
     },
 
-    
+    ////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+   ////////////////////////////  NEED TO ADD THE VERSES FOR 11 TO  NOV 30 - PENDING \\\\\\\\\\\\\\
+       ///////////////////////// \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\////////////////////
 
     11: {
-        tamilReference: "தஎசாயா 43:19",
+        tamilReference: "எசாயா 43:19",
         tamilVerse: "இதோ புதுச்செயல் ஒன்றை நான் செய்கிறேன்; இப்பொழுதே அது தோன்றிவிட்டது; நீ அதைக் கூர்ந்து கவனிக்கவில்லையா? பாலைநிலத்தில் நான் பாதை ஒன்று அமைப்பேன்; பாழ்வெளியில் நீரோடைகளைத் தோன்றச் செய்வேன்.",
         englishReference: "Isaiah 43:19",
         englishVerse: "See, I am doing a new thing; now it is starting; will you not take note of it? I will even make a way in the waste land, and rivers in the dry country.",
