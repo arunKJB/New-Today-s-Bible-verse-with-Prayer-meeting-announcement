@@ -98,10 +98,10 @@ const dailyVerses = {
        ///////////////////////// \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\////////////////////
    
    7: {
-        tamilReference: "நீதிமொழிகள் 3:6",
-        tamilVerse: "நீ எதைச் செய்தாலும் ஆண்டவரை மனத்தில் வைத்துச் செய்; அப்பொழுது அவர் உன் பாதைகளைச் செம்மையாக்குவார்.",
-        englishReference: "Proverbs 3:6",
-        englishVerse: "In all your ways give ear to Him, and He will make straight your footsteps.",
+        tamilReference: "திருப்பாடல் 34:7",
+        tamilVerse: "ஆண்டவருக்கு அஞ்சி வாழ்வோரை அவர்தம் தூதர் சூழ்ந்துநின்று காத்திடுவர்.",
+        englishReference: "Psalms 34:7",
+        englishVerse: "The angel of the Lord is ever watching over those who have fear of him, to keep them safe.",
         bibleImage: "https://i.pinimg.com/736x/27/85/96/278596a7e6e7901af7097d38b2444f0a.jpg",
         backgroundImage: "https://i.pinimg.com/736x/9f/13/08/9f1308b9839433d334302adefb151e9a.jpg",
       bgm: "assests/audio/day1to7.mp3",
@@ -176,12 +176,12 @@ const dailyVerses = {
 
 
     12: {
-        tamilReference: "திருப்பாடல்கள் 20:5",
-        tamilVerse: "உமது வெற்றியைக் குறித்து மகிழ்ச்சியில் ஆர்ப்பரிப்போமாக! நம் கடவுளின் பெயரால் வெற்றிக்கொடி நாட்டுவோமாக! உம் விண்ணப்பங்களையெல்லாம் ஆண்டவர் நிறைவேற்றுவாராக!",
-        englishReference: "Psalm 20:5",
-        englishVerse: "May we shout for joy over your salvation, and in the name of our God set up our banners! May the LORD fulfill all your petitions!",
-        bibleImage: "https://i.pinimg.com/736x/43/32/c2/4332c237e63a8b2c3600fc75a1e1c8a2.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/43/32/c2/4332c237e63a8b2c3600fc75a1e1c8a2.jpg",
+        tamilReference: "திருப்பாடல் 34:7",
+        tamilVerse: "ஆண்டவருக்கு அஞ்சி வாழ்வோரை அவர்தம் தூதர் சூழ்ந்துநின்று காத்திடுவர்.",
+        englishReference: "Psalms 34:7",
+        englishVerse: "The angel of the Lord is ever watching over those who have fear of him, to keep them safe.",
+        bibleImage: "https://i.pinimg.com/736x/19/33/3a/19333ae0f49206c32df13b13ed8a5e89.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/81/fa/bc/81fabc038fecd9b67225287fb2f5d18c.jpg",
         bgm: "assests/audio/day8to14.mp3",
 
        
