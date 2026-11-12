@@ -158,9 +158,7 @@ const dailyVerses = {
         bgm: "assests/audio/day8to14.mp3",      
     },
 
-    ////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-   ////////////////////////////  NEED TO ADD THE VERSES FOR 11 TO  NOV 30 - PENDING \\\\\\\\\\\\\\
-       ///////////////////////// \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\////////////////////
+    
 
     11: {
         tamilReference: "எசாயா 43:19",
@@ -189,17 +187,19 @@ const dailyVerses = {
 
 
     13: {
-       tamilReference: "எசேக்கியல் 36:26",
-        tamilVerse: "நான் உங்களுக்குப் புதிய இதயத்தை அருள்வேன். புதிய ஆவியை உங்களுக்குள் புகுத்துவேன். உங்கள் உடலிலிருந்து கல்லாலான இதயத்தை எடுத்துவிட்டு, சதையாலான இதயத்தைப் பொருத்துவேன்.",
-        englishReference: "Ezekiel 36:26",
-        englishVerse: "And I will give you a new heart and put a new spirit in you: I will take away the heart of stone from your flesh, and give you a heart of flesh.",
-        bibleImage: "https://i.pinimg.com/1200x/44/9c/db/449cdb8e19e12228e9f743cd1f38f575.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/3b/39/57/3b395776017302a954a0cacde6eb78e4.jpg",
+       tamilReference: "உரோமையர் 15:5",
+        tamilVerse: "கிறிஸ்து இயேசுவின் முன்மாதிரிக்கேற்ப நீங்கள் ஒரே மனத்தினராய் இருக்குமாறு மன உறுதியையும் ஊக்கத்தையும் தரும் கடவுள் உங்களுக்கு அருள்புரிவாராக.",
+        englishReference: "Romans 15:5",
+        englishVerse: "Now may the God who gives comfort and strength in waiting make you of the same mind with one another in harmony with Christ Jesus",
+        bibleImage: "https://i.pinimg.com/1200x/61/11/d9/6111d909ebb535928d03036eade016bf.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/41/08/04/410804a1ab31f7e969ce1440f87e7d6d.jpg",
         bgm: "assests/audio/day8to14.mp3",
 
-      
     },
-
+   
+      ////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+   ////////////////////////////  NEED TO ADD THE VERSES FOR 14 TO  NOV 30 - PENDING \\\\\\\\\\\\\\
+       ///////////////////////// \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\////////////////////
 
     14: {
         tamilReference: "எசாயா 41:13",
