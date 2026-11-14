@@ -197,9 +197,6 @@ const dailyVerses = {
 
     },
    
-      ////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-   ////////////////////////////  NEED TO ADD THE VERSES FOR 14 TO  NOV 30 - PENDING \\\\\\\\\\\\\\
-       ///////////////////////// \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\////////////////////
 
     14: {
         tamilReference: "எசாயா 41:13",
@@ -215,12 +212,12 @@ const dailyVerses = {
 
 
     15: {
-        tamilReference: "விடுதலைப் பயணம் 14:13",
-        tamilVerse: "மீண்டும் அவர் என்னிடம், “செருபாபேலுக்கு ஆண்டவர் அருளியவாக்கு இதுவே: உனது ஆற்றலாலும் அல்ல, வலிமையாலும் அல்ல; ஆனால் எனது ஆவியாலே ஆகும்,” என்கிறார் படைகளின் ஆண்டவர்.",
-        englishReference: "Exodus 14:13",
-        englishVerse: "Do not be afraid. Stand firm and you will see the deliverance the LORD will bring you today. The Egyptians you see today you will never see again.",
-        bibleImage: "https://i.pinimg.com/1200x/99/e6/bf/99e6bf9a90cab75fec1ecb061651956e.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/cc/d3/60/ccd360e621e6b3ac1f782a56e6daab93.jpg",
+        tamilReference: "எசாயா 41:10",
+        tamilVerse: "அஞ்சாதே, நான் உன்னுடன் இருக்கிறேன்;கலங்காதே, நான் உன் கடவுள்,நான் உனக்கு வலிமை அளிப்பேன்; உதவி செய்வேன்; என் நீதியின் வலக்கரத்தால் உன்னைத் தாங்குவேன்.",
+        englishReference: "Isaiah 41:10",
+        englishVerse: "Have no fear, for I am with you; do not be looking about in trouble, for I am your God; I will give you strength, yes, I will be your helper; yes, my true right hand will be your support.",
+        bibleImage: "https://i.pinimg.com/1200x/c7/f8/ee/c7f8eed27a372f52fdf90cd663ed4106.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/a5/23/14/a5231460dd3f1b627525a950aa878b8f.jpg",
         bgm: "assests/audio/day15to22.mp3",
 
        
@@ -228,12 +225,12 @@ const dailyVerses = {
 
 
     16: {
-        tamilReference: "செப்பனியா 3:15",
-        tamilVerse: "ஆண்டவர் உன் தண்டனைத் தீர்ப்பைத் தள்ளிவிட்டார்; உன் பகைவர்களை அப்புறப்படுத்தினார்; இஸ்ரயேலின் அரசராகிய ஆண்டவர் உன் நடுவில் இருக்கின்றார்; நீ இனி எந்தத் தீங்கிற்கும் அஞ்சமாட்டாய்.",
-        englishReference: "Zepaniah 3:15",
-        englishVerse: "The LORD has taken away the judgments against you; he has cleared away your enemies. The King of Israel, the LORD, is in your midst; you shall never again fear evil.",
-        bibleImage: "https://i.pinimg.com/736x/e5/5b/ec/e55beca77698f6a78d042d91bd19e176.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/61/7a/cd/617acdae245f118f2eff4bcb217393e7.jpg",
+        tamilReference: "திருப்பாடல் 85:12",
+        tamilVerse: "நல்லதையே ஆண்டவர் அருள்வார்; நல்விளைவை நம்நாடு நல்கும்.",
+        englishReference: "Psalms 85:12",
+        englishVerse: "The Lord will give what is good; and our land will give its increase.",
+        bibleImage: "https://i.pinimg.com/1200x/6b/96/25/6b96257619e83b32ba1adfb81a8fdd24.jpg",
+        backgroundImage: "https://i.pinimg.com/1200x/e9/48/f1/e948f156cb5f82fc3fa3052798e8ec3b.jpg",
        bgm: "assests/audio/day15to22.mp3",
 
       
@@ -241,12 +238,12 @@ const dailyVerses = {
 
 
     17: {
-        tamilReference: "மத்தேயு நற்செய்தி 19:26",
-        tamilVerse: "இயேசு அவர்களைக் கூர்ந்து நோக்கி, “மனிதரால் இது இயலாது. ஆனால், கடவுளால் எல்லாம் இயலும்” என்றார்.",
-        englishReference: "Matthew 19:26",
-        englishVerse: "And Jesus, looking at them, said, With men this is not possible; but with God all things are possible.",
-        bibleImage: "https://i.pinimg.com/736x/70/11/95/701195bb481962b7b0b98b723484f9d5.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/3e/66/8a/3e668a00ca5c1c80e42af6d1431b7b91.jpg",
+        tamilReference: "திருப்பாடல் 138:7",
+        tamilVerse: "நான் துன்பத்தின் நடுவில் நடந்தாலும், என் உயிரைக் காக்கின்றீர்; என் எதிரிகளின் சினத்துக்கு எதிராக உமது கையை நீட்டுகின்றீர்; உமது வலக்கையால் என்னைக் காப்பாற்றுகின்றீர்.",
+        englishReference: "Psalms 138:7",
+        englishVerse: "Even when trouble is round me, you will give me life; your hand will be stretched out against the wrath of my haters, and your right hand will be my salvation.",
+        bibleImage: "https://i.pinimg.com/736x/38/a3/e0/38a3e027b2c3d3ee9ce10be844517d09.jpg",
+        backgroundImage: "https://i.pinimg.com/1200x/e8/7a/f1/e87af16e1b9107562debec09abb46f3b.jpg",
        bgm: "assests/audio/day15to22.mp3",
 
        
@@ -254,12 +251,12 @@ const dailyVerses = {
 
 
     18: {
-        tamilReference: "எசாயா 41:10",
-        tamilVerse: "அஞ்சாதே, நான் உன்னுடன் இருக்கிறேன்;கலங்காதே, நான் உன் கடவுள்,நான் உனக்கு வலிமை அளிப்பேன்; உதவி செய்வேன்; என் நீதியின் வலக்கரத்தால் உன்னைத் தாங்குவேன்.",
-        englishReference: "Isaiah 41:10",
-        englishVerse: "Have no fear, for I am with you; do not be looking about in trouble, for I am your God; I will give you strength, yes, I will be your helper; yes, my true right hand will be your support.",
-        bibleImage: "https://i.pinimg.com/1200x/c7/f8/ee/c7f8eed27a372f52fdf90cd663ed4106.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/a5/23/14/a5231460dd3f1b627525a950aa878b8f.jpg",
+        tamilReference: "1 கொரிந்தியர் 15:58",
+        tamilVerse: "என் அன்பார்ந்த சகோதர சகோதரிகளே, உறுதியோடு இருங்கள்; நிலையாய் நில்லுங்கள். ஆண்டவருக்காக நீங்கள் உழைப்பது வீண் போகாது என்பதை அறிந்து ஆண்டவரின் பணியை இன்னும் அதிகமாக எப்போதும் செய்யுங்கள்.",
+        englishReference: "1 Corinthians 15:58",
+        englishVerse: "My dear brothers, be strong in purpose and unmoved, ever giving yourselves to the work of the Lord, because you are certain that your work is not without effect in the Lord.",
+        bibleImage: "https://i.pinimg.com/1200x/cf/2d/5b/cf2d5bbdb76caedf26a279402cd4290a.jpg",
+        backgroundImage: "https://i.pinimg.com/1200x/14/53/43/145343485fa05a54a78c327b04fb0fcd.jpg",
        bgm: "assests/audio/day15to22.mp3",
 
       
@@ -267,12 +264,12 @@ const dailyVerses = {
 
 
     19: {
-        tamilReference: "மாற்கு நற்செய்தி 9:23",
-        tamilVerse: "இயேசு அவரை நோக்கி, “இயலுமானாலா? நம்புகிறவருக்கு எல்லாம் நிகழும்” என்றார்.",
-        englishReference: "Mark 9:23",
-        englishVerse: "And Jesus said to him, If you are able! All things are possible to him who has faith.",
-        bibleImage: "https://i.pinimg.com/1200x/98/a6/24/98a6244b17a7b0c1b6e26ba355cf46b1.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/62/1b/9f/621b9fbd7f74256dd0fed72e92b9eed5.jpg",
+        tamilReference: "எபேசியர் 3:17",
+        tamilVerse: "நம்பிக்கையின் வழியாக, கிறிஸ்து உங்கள் உள்ளங்களில் குடிகொள்வாராக! அன்பே உங்கள் வாழ்வுக்கு ஆணிவேரும் அடித்தளமுமாய் அமைவதாக!",
+        englishReference: "Ephesians 3:17",
+        englishVerse: "So that Christ may have his place in your hearts through faith; and that you, being rooted and based in love,",
+        bibleImage: "https://i.pinimg.com/736x/ba/6b/6b/ba6b6b48be8989b46e644c47a2e2942a.jpg",
+        backgroundImage: "https://i.pinimg.com/1200x/0f/d0/d9/0fd0d9a80bbeeb2876fe186582f21e67.jpg",
        bgm: "assests/audio/day15to22.mp3",
 
        
@@ -281,12 +278,12 @@ const dailyVerses = {
   
 
     20: {
-        tamilReference: "பிலிப்பியர் 4:13",
-        tamilVerse: "எனக்கு வலுவூட்டுகிறவரின் துணைகொண்டு எதையும் செய்ய எனக்கு ஆற்றல் உண்டு.",
-        englishReference: "Philippians 4:13",
-        englishVerse: "I am able to do all things through him who gives me strength.",
-        bibleImage: "https://i.pinimg.com/1200x/11/3f/f3/113ff3b12154be6ca4d7c170704009a8.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/f0/4a/22/f04a22787f0d84a94584c6a22c2c9794.jpg",
+        tamilReference: "திருப்பாடல் 116:5",
+        tamilVerse: "ஆண்டவர் அருளும் நீதியும் கொண்டவர்; நம் கடவுள் இரக்கம் உள்ளவர்.",
+        englishReference: "Psalms 116:5",
+        englishVerse: "The Lord is full of grace and righteousness; truly, He is a God of mercy.",
+        bibleImage: "https://i.pinimg.com/736x/61/fe/80/61fe80e1c118ca904ac42d42813ca55e.jpg",
+        backgroundImage: "https://i.pinimg.com/1200x/f6/cc/05/f6cc05770e3e2bd6a94806fc63a0b671.jpg",
        bgm: "assests/audio/day15to22.mp3",
 
        
@@ -294,12 +291,12 @@ const dailyVerses = {
 
 
     21: {
-        tamilReference: "திருப்பாடல்கள் 27:1",
-        tamilVerse: "ஆண்டவரே என் ஒளி; அவரே என் மீட்பு; யாருக்கு நான் அஞ்சவேண்டும்? ஆண்டவரே என் உயிருக்கு அடைக்கலம்; யாருக்கு நான் அஞ்சி நடுங்க வேண்டும்?",
-        englishReference: "Psalms 27:1",
-        englishVerse: "The Lord is my light and my salvation; who is then a cause of fear to me? the Lord is the strength of my life; who is a danger to me?",
-        bibleImage: "https://i.pinimg.com/736x/93/04/bb/9304bb9e129ec24bed9b3bcb28f54bfa.jpg",
-        backgroundImage: "https://i.pinimg.com/1200x/61/20/cf/6120cf8910c6272824fba4d91c81157d.jpg",
+        tamilReference: "எசாயா 43:4",
+        tamilVerse: "என் பார்வையில் நீ விலையேறப் பெற்றவன்; மதிப்புமிக்கவன்; நான் உன்மேல் அன்பு கூர்கிறேன்,",
+        englishReference: "Isaiah 43:4",
+        englishVerse: "Because of your value in my eyes, you have been honoured, and loved by me",
+        bibleImage: "https://i.pinimg.com/1200x/64/51/bd/6451bdf7ca0de047757ce6f8852d6973.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/b9/19/20/b91920dbfc93fdeb04045598d08c227c.jpg",
        bgm: "assests/audio/day15to22.mp3",
 
       
@@ -314,10 +311,10 @@ const dailyVerses = {
         bibleImage: "https://i.pinimg.com/736x/ab/28/ff/ab28ff2aeaa097e964478081324d8c7c.jpg",
         backgroundImage: "https://i.pinimg.com/1200x/60/90/16/609016ed5bd84cc02d26e3c99ebb4a81.jpg",
        bgm: "assests/audio/day15to22.mp3",
-
        
     },
 
+   //////////////////   NEED TO ADD THE VERSES FOR 23 TO 30 NOV    \\\\\\\\\\\\\\\
 
     23: {
         tamilReference: "உரோமையர் 15:13",
