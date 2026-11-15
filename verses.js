@@ -314,15 +314,14 @@ const dailyVerses = {
        
     },
 
-   //////////////////   NEED TO ADD THE VERSES FOR 23 TO 30 NOV    \\\\\\\\\\\\\\\
 
     23: {
-        tamilReference: "உரோமையர் 15:13",
-        tamilVerse: "எதிர்நோக்கைத் தரும் கடவுள், நம்பிக்கையால் உண்டாகும் பெருமகிழ்ச்சியாலும், அமைதியாலும் உங்களை நிரப்புவாராக! அவ்வாறு தூய ஆவியின் வல்லமையால் நீங்கள் இன்னும் மிகுதியான எதிர்நோக்குடன் வாழ அருள்புரிவாராக.",
-        englishReference: "Romans 15:13",
-        englishVerse: "Now may the God of hope make you full of joy and peace through faith, so that all hope may be yours in the power of the Holy Spirit.",
-        bibleImage: "https://i.pinimg.com/736x/17/49/bf/1749bff9345eca6f7dc981b0cbc7c1ed.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/17/49/bf/1749bff9345eca6f7dc981b0cbc7c1ed.jpg",
+        tamilReference: "1 பேதுரு 3:8",
+        tamilVerse: "நீங்கள் எல்லாரும் ஒருமனப்பட்டிருங்கள். பிறரிடம் இரக்கமும் சகோதரர் அன்பும் பரிவுள்ளமும் மனத்தாழ்மையும் கொண்டிருங்கள்.",
+        englishReference: "1 Peter 3:8",
+        englishVerse: "See that you are all in agreement; feeling for one another, loving one another like brothers, full of pity, without pride:",
+        bibleImage: "https://i.pinimg.com/1200x/86/69/6b/86696b818c29f2451b81678dca5a7241.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/49/99/f3/4999f3107e1c05ba8bc1bd0bfafaaa35.jpg",
        bgm: "assests/audio/day23to31.mp3",
 
        
@@ -343,34 +342,34 @@ const dailyVerses = {
 
 
     25: {
-        tamilReference: "திருப்பாடல்கள் 9:10",
-        tamilVerse: "உமது பெயரை அறிந்தோர் உம்மில் நம்பிக்கை கொள்வர்; ஆண்டவரே, உம்மை நாடி வருவோரை நீர் கைவிடுவதில்லை.",
-        englishReference: "Psalms 9:10",
-        englishVerse: "And those who have knowledge of your name will put their faith in you; because you, Lord, have ever given your help to those who were waiting for you.",
-        bibleImage: "https://i.pinimg.com/736x/27/85/96/278596a7e6e7901af7097d38b2444f0a.jpg",
-        backgroundImage: "https://i.pinimg.com/1200x/ed/2d/d0/ed2dd0ff69bb89a5920b00bd586cc6f2.jpg", 
+        tamilReference: "உரோமையர் 12:9",
+        tamilVerse: "உங்கள் அன்பு கள்ளமற்றதாய் இருப்பதாக! தீமையை வெறுத்து நன்மையையே பற்றிக்கொள்ளுங்கள்",
+        englishReference: "Romans 12:9",
+        englishVerse: "Let love be without deceit. Be haters of what is evil; keep your minds fixed on what is good.",
+        bibleImage: "https://i.pinimg.com/736x/10/23/c7/1023c7a92ecc38532961150c20fd2bae.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/97/98/35/979835eb36d7528d367c0b0eda425571.jpg", 
        bgm: "assests/audio/day23to31.mp3",
     },
 
 
     26: {
-        tamilReference: "யோவான் 16:33",
-        tamilVerse: "என் வழியாய் நீங்கள் அமைதி காணும் பொருட்டே நான் இவற்றை உங்களிடம் சொன்னேன். உலகில் உங்களுக்குத் துன்பம் உண்டு, எனினும் துணிவுடன் இருங்கள். நான் உலகின்மீது வெற்றி கொண்டுவிட்டேன்” என்றார்.",
-        englishReference: "John 16:33",
-        englishVerse: " I have said all these things to you so that in me you may have peace. In the world you have trouble: but take heart! I have overcome the world.",
-        bibleImage: "https://i.pinimg.com/736x/89/d2/1e/89d21eff78baa4e515b1b703d9e91790.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/b0/50/9b/b0509b1343847369f2faf00c2a1c4b2e.jpg",  
+        tamilReference: "நீதிமொழிகள் 3:5",
+        tamilVerse: "முழு மனத்தோடு ஆண்டவரை நம்பு; உன் சொந்த அறிவாற்றலைச் சார்ந்து நில்லாதே.",
+        englishReference: "Proverbs 3:5",
+        englishVerse: "Put all your hope in God, not looking to your reason for support.",
+        bibleImage: "https://i.pinimg.com/1200x/12/27/b2/1227b2b6283972be02d24eca21df4ea9.jpg",
+        backgroundImage: "https://i.pinimg.com/236x/0e/ac/d9/0eacd9050d590a36b11d4aad9dcaa3bb.jpg",
        bgm: "assests/audio/day23to31.mp3",
     },
    
 
     27: {
-        tamilReference: "திருப்பாடல் 91:15",
-        tamilVerse: "அவர்கள் என்னை நோக்கி மன்றாடும்போது, அவர்களுக்குப் பதிலளிப்பேன்; அவர்களது துன்பத்தில் அவர்களோடு இருப்பேன்; அவர்களைத் தப்புவித்து அவர்களைப் பெருமைப்படுத்துவேன்;",
-        englishReference: "Psalms 91:15",
-        englishVerse: "When his cry comes up to me, I will give him an answer: I will be with him in trouble; I will make him free from danger and give him honour.",
-        bibleImage: "https://i.pinimg.com/1200x/be/49/f6/be49f609050f2250aed8e89367fc7c7c.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/b6/37/9d/b6379d8bf6e608550c6fcd0957210f66.jpg",
+        tamilReference: "திருப்பாடல் 86:15",
+        tamilVerse: "என் தலைவரே! நீரோ இரக்கமிகு இறைவன்; அருள் மிகுந்தவர்; விரைவில் சினமுறாதவர்; பேரன்பும் உண்மையும் பெரிதும் கொண்டவர்.",
+        englishReference: "Psalms 86:15",
+        englishVerse: "But you, O Lord, are a God full of pity and forgiveness, slow to get angry, great in mercy and wisdom.",
+        bibleImage: "https://i.pinimg.com/1200x/68/65/e3/6865e39765e80a4977c6ffbd397b0c95.jpg",
+        backgroundImage: "https://i.pinimg.com/1200x/a8/71/47/a87147b9f42e3f1359ebb3540af757e5.jpg",
        bgm: "assests/audio/day23to31.mp3",
 
      
@@ -378,17 +377,18 @@ const dailyVerses = {
 
 
     28: {
-        tamilReference: "திருப்பாடல்கள் 25:5",
-        tamilVerse: "உமது உண்மை நெறியில் என்னை நடத்தி எனக்குக் கற்பித்தருளும்;ஏனெனில், நீரே என் மீட்பராம் கடவுள்; உம்மையே நான் நாள் முழுதும் நம்பியிருக்கின்றேன்;",
-        englishReference: "Psalms 25:5",
-        englishVerse: "Be my guide and teacher in the true way; for you are the God of my salvation; I am waiting for your word all the day.",
-        bibleImage: "https://i.pinimg.com/1200x/9a/70/24/9a702474152ef57f861113b15eef60c1.jpg",
-        backgroundImage: "https://i.pinimg.com/1200x/15/25/72/1525723f9e845611e6c5a7d70bb18dce.jpg",
+        tamilReference: "திருப்பாடல்கள் 31:3",
+        tamilVerse: "ஆம், என் கற்பாறையும் கோட்டையும் நீரே; உமது பெயரின் பொருட்டு எனக்கு வழிகாட்டி என்னை நடத்தியருளும்.",
+        englishReference: "Psalms 31:3",
+        englishVerse: "For you are my Rock and my strong tower; go in front of me and be my guide, because of your name",
+        bibleImage: "https://i.pinimg.com/1200x/94/3c/9f/943c9fc8b8b4ed1303d35790ce76aeb0.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/c5/7f/18/c57f1831d95a4e7aae0cf6b11ad4bed2.jpg",
        bgm: "assests/audio/day23to31.mp3",
 
       
     },
 
+      //////////////////   NEED TO ADD THE VERSES FOR 29 TO 30 NOV    \\\\\\\\\\\\\\\
 
     29: {
         tamilReference: "யோவான் நற்செய்தி 6:47",
@@ -413,18 +413,18 @@ const dailyVerses = {
        bgm: "assests/audio/day23to31.mp3",
 
        
-    },
-
-
-    31: {
-        tamilReference: "2 சாமுவேல் 22:33",
-        tamilVerse: "இறைவன் எனக்கு வலிமைமிகு கோட்டையாய் உள்ளார்; என் வழியை பாதுகாப்பானதாய்ச் செய்தவரும் அவரே.",
-        englishReference: "2 Samuel 22:33",
-        englishVerse: "God puts a strong band about me, guiding me in a straight way.",
-        bibleImage: "https://i.pinimg.com/1200x/d8/2f/9e/d82f9eed2359f81f8b90124ba5584067.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/85/7e/67/857e678c11ce48dcdad9da568624cfa9.jpg",
-       bgm: "assests/audio/day23to31.mp3",
-
     }
+
+
+    // 31: {
+    //     tamilReference: "2 சாமுவேல் 22:33",
+    //     tamilVerse: "இறைவன் எனக்கு வலிமைமிகு கோட்டையாய் உள்ளார்; என் வழியை பாதுகாப்பானதாய்ச் செய்தவரும் அவரே.",
+    //     englishReference: "2 Samuel 22:33",
+    //     englishVerse: "God puts a strong band about me, guiding me in a straight way.",
+    //     bibleImage: "https://i.pinimg.com/1200x/d8/2f/9e/d82f9eed2359f81f8b90124ba5584067.jpg",
+    //     backgroundImage: "https://i.pinimg.com/736x/85/7e/67/857e678c11ce48dcdad9da568624cfa9.jpg",
+    //    bgm: "assests/audio/day23to31.mp3",
+
+    // }
 
 };
