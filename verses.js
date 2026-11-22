@@ -316,12 +316,12 @@ const dailyVerses = {
 
 
     23: {
-        tamilReference: "1 பேதுரு 3:8",
-        tamilVerse: "நீங்கள் எல்லாரும் ஒருமனப்பட்டிருங்கள். பிறரிடம் இரக்கமும் சகோதரர் அன்பும் பரிவுள்ளமும் மனத்தாழ்மையும் கொண்டிருங்கள்.",
-        englishReference: "1 Peter 3:8",
-        englishVerse: "See that you are all in agreement; feeling for one another, loving one another like brothers, full of pity, without pride:",
-        bibleImage: "https://i.pinimg.com/1200x/86/69/6b/86696b818c29f2451b81678dca5a7241.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/49/99/f3/4999f3107e1c05ba8bc1bd0bfafaaa35.jpg",
+        tamilReference: "நீதிமொழிகள் 3:5",
+        tamilVerse: "முழு மனத்தோடு ஆண்டவரை நம்பு; உன் சொந்த அறிவாற்றலைச் சார்ந்து நில்லாதே.",
+        englishReference: "Proverbs 3:5",
+        englishVerse: "Put all your hope in God, not looking to your reason for support.",
+        bibleImage: "https://i.pinimg.com/1200x/a2/6f/c5/a26fc5a013aeadda34159e40837ba9fa.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/3c/ae/1b/3cae1b81b8dd1cd4e712fd97e1a38713.jpg",
        bgm: "assests/audio/day23to31.mp3",
 
        
