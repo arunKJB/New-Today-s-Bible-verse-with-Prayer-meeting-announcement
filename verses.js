@@ -329,12 +329,12 @@ const dailyVerses = {
 
 
     24: {
-        tamilReference: "திருப்பாடல்கள் 138:8",
-        tamilVerse: "நீர் வாக்களித்த அனைத்தையும் எனக்கெனச் செய்து முடிப்பீர்; ஆண்டவரே! என்றும் உள்ளது உமது பேரன்பு; உம் கைவினைப் பொருளைக் கைவிடாதேயும்.",
-        englishReference: "Psalm 138:8",
-        englishVerse: "The Lord will make all things complete for me: O Lord, your mercy is eternal; do not give up the works of your hands.",
-        bibleImage: "https://i.pinimg.com/736x/a1/2c/41/a12c411fb84d38fe60eecfe3805efb06.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/0b/e1/ab/0be1ab81f0c5a4a75239c9f320ae0497.jpg",
+        tamilReference: "திருப்பாடல் 118:14",
+        tamilVerse: "ஆண்டவரே என் ஆற்றல்; என் பாடல்; என் மீட்பும் அவரே.",
+        englishReference: "Psalms 118:14",
+        englishVerse: "The Lord is my strength and my song; he has become my salvation.",
+        bibleImage: "https://i.pinimg.com/236x/97/a6/82/97a682550d624856e0f95304cb427029.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/19/83/5b/19835be5637269c196a3599855564997.jpg",
        bgm: "assests/audio/day23to31.mp3",
 
       
