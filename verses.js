@@ -343,33 +343,33 @@ const dailyVerses = {
 
     25: {
         tamilReference: "உரோமையர் 12:9",
-        tamilVerse: "உங்கள் அன்பு கள்ளமற்றதாய் இருப்பதாக! தீமையை வெறுத்து நன்மையையே பற்றிக்கொள்ளுங்கள்",
+        tamilVerse: "இயேசு, “மனிதரால் இயலாதவற்றைக் கடவுளால் செய்ய இயலும்” என்றார்.",
         englishReference: "Romans 12:9",
-        englishVerse: "Let love be without deceit. Be haters of what is evil; keep your minds fixed on what is good.",
-        bibleImage: "https://i.pinimg.com/736x/10/23/c7/1023c7a92ecc38532961150c20fd2bae.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/97/98/35/979835eb36d7528d367c0b0eda425571.jpg", 
+        englishVerse: "But He said, Things which are not possible with man are possible with God.",
+        bibleImage: "https://i.pinimg.com/736x/c2/22/b9/c222b957cf9de02c7dd8be141a4648fb.jpg",
+        backgroundImage: "https://i.pinimg.com/236x/86/44/b5/8644b53ed25599dba075377c82326955.jpg", 
        bgm: "assests/audio/day23to31.mp3",
     },
 
 
     26: {
-        tamilReference: "நீதிமொழிகள் 3:5",
-        tamilVerse: "முழு மனத்தோடு ஆண்டவரை நம்பு; உன் சொந்த அறிவாற்றலைச் சார்ந்து நில்லாதே.",
-        englishReference: "Proverbs 3:5",
-        englishVerse: "Put all your hope in God, not looking to your reason for support.",
-        bibleImage: "https://i.pinimg.com/1200x/12/27/b2/1227b2b6283972be02d24eca21df4ea9.jpg",
-        backgroundImage: "https://i.pinimg.com/236x/0e/ac/d9/0eacd9050d590a36b11d4aad9dcaa3bb.jpg",
+        tamilReference: "திருப்பாடல் 5:11",
+        tamilVerse: "ஆனால், உம்மிடம் அடைக்கலம் புகுவோர் அனைவரும் மகிழ்வர்; அவர்கள் எந்நாளும் களித்து ஆர்ப்பரிப்பர்; நீர் அவர்களைப் பாதுகாப்பீர்; உமது பெயரில் பற்றுடையோர் உம்மில் அக்களிப்பர்.",
+        englishReference: "Psalms 5:11",
+        englishVerse: "But let all those who put their faith in you be glad with cries of joy at all times, and let all the lovers of your name be glad in you.",
+        bibleImage: "https://i.pinimg.com/1200x/32/c2/a4/32c2a4bcecd66c64314befdeb3985c35.jpg",
+        backgroundImage: "https://i.pinimg.com/1200x/cb/70/cf/cb70cf0f9e9c6c09a88bd8e1965a0e71.jpg",
        bgm: "assests/audio/day23to31.mp3",
     },
    
 
     27: {
-        tamilReference: "திருப்பாடல் 86:15",
-        tamilVerse: "என் தலைவரே! நீரோ இரக்கமிகு இறைவன்; அருள் மிகுந்தவர்; விரைவில் சினமுறாதவர்; பேரன்பும் உண்மையும் பெரிதும் கொண்டவர்.",
-        englishReference: "Psalms 86:15",
-        englishVerse: "But you, O Lord, are a God full of pity and forgiveness, slow to get angry, great in mercy and wisdom.",
-        bibleImage: "https://i.pinimg.com/1200x/68/65/e3/6865e39765e80a4977c6ffbd397b0c95.jpg",
-        backgroundImage: "https://i.pinimg.com/1200x/a8/71/47/a87147b9f42e3f1359ebb3540af757e5.jpg",
+        tamilReference: "1 யோவான் 5:12",
+        tamilVerse: "இறைமகனைக் கொண்டிருப்போர் வாழ்வைக் கொண்டுள்ளனர்; அவரைக் கொண்டிராதோர் வாழ்வைக் கொண்டிரார்.",
+        englishReference: "1 John 5:12",
+        englishVerse: "He who has the Son has the life; he who has not the Son of God has not the life.",
+        bibleImage: "https://i.pinimg.com/1200x/30/24/ff/3024ff6d0c66d2ad360bbe58f6b5ed1e.jpg",
+        backgroundImage: "https://i.pinimg.com/1200x/4d/24/e0/4d24e0600cce52f01d3836f38d11741f.jpg",
        bgm: "assests/audio/day23to31.mp3",
 
      
@@ -377,12 +377,12 @@ const dailyVerses = {
 
 
     28: {
-        tamilReference: "திருப்பாடல்கள் 31:3",
-        tamilVerse: "ஆம், என் கற்பாறையும் கோட்டையும் நீரே; உமது பெயரின் பொருட்டு எனக்கு வழிகாட்டி என்னை நடத்தியருளும்.",
-        englishReference: "Psalms 31:3",
-        englishVerse: "For you are my Rock and my strong tower; go in front of me and be my guide, because of your name",
-        bibleImage: "https://i.pinimg.com/1200x/94/3c/9f/943c9fc8b8b4ed1303d35790ce76aeb0.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/c5/7f/18/c57f1831d95a4e7aae0cf6b11ad4bed2.jpg",
+        tamilReference: "நீதிமொழிகள் 2:7",
+        tamilVerse: "நேர்மையாளருக்கு அவர் துணை செய்யக் காத்திருக்கின்றார்; மாசற்றோருக்குக் கேடயமாய் இருக்கின்றார்.",
+        englishReference: "Proverbs 2:7",
+        englishVerse: "He has salvation stored up for the upright, he is a breastplate to those in whom there is no evil.",
+        bibleImage: "https://i.pinimg.com/736x/d2/e5/43/d2e543b455a93782398de0b2f4bcb12e.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/b3/83/04/b38304f828af0a0835eb55f9d38ebc8c.jpg",
        bgm: "assests/audio/day23to31.mp3",
 
       
@@ -391,12 +391,12 @@ const dailyVerses = {
       //////////////////   NEED TO ADD THE VERSES FOR 29 TO 30 NOV    \\\\\\\\\\\\\\\
 
     29: {
-        tamilReference: "யோவான் நற்செய்தி 6:47",
-        tamilVerse: "உறுதியாக உங்களுக்குச் சொல்கிறேன்; என்னை நம்புவோர் நிலைவாழ்வைக் கொண்டுள்ளனர்.",
-        englishReference: "John 6:47",
-        englishVerse: "Truly I say to you, He who has faith in me has eternal life.",
-        bibleImage: "https://i.pinimg.com/736x/84/3d/b0/843db03a3bcdb64cea12b61128163a68.jpg",
-        backgroundImage: "https://i.pinimg.com/736x/c3/8b/fb/c38bfb1797875b4ab426d2b08aace302.jpg",
+        tamilReference: "திருப்பாடல் 103:5",
+        tamilVerse: "அவர் உன் வாழ்நாளை நலன்களால் நிறைவுறச் செய்கின்றார்; உன் இளமை கழுகின் இளமையெனப் புதிதாய்ப் பொலிவுறும்.",
+        englishReference: "Psalms 103:5",
+        englishVerse: "He makes your mouth full of good things, so that your strength is made new again like the eagle’s.",
+        bibleImage: "https://i.pinimg.com/236x/9f/44/41/9f4441af4dda3257113dbe3a3a3b4309.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/a4/ef/b3/a4efb3328ffb8ad592805ddf22bd26f8.jpg",
        bgm: "assests/audio/day23to31.mp3",
 
       
@@ -404,12 +404,12 @@ const dailyVerses = {
 
 
     30: {
-        tamilReference: "யாக்கோபு 4:10",
-        tamilVerse: "ஆண்டவர்முன் உங்களைத் தாழ்த்துங்கள்; அவர் உங்களை உயர்த்துவார்.",
-        englishReference: "James 4:10",
-        englishVerse: " Make yourselves low in the eyes of the Lord and you will be lifted up by him.",
-        bibleImage: "https://i.pinimg.com/736x/74/bb/ad/74bbad48b2c42e4d14e94d2552ba0d8b.jpg",
-        backgroundImage: "https://i.pinimg.com/236x/e4/29/e0/e429e0d114290468315bb6b5dd521d20.jpg",
+        tamilReference: "திருப்பாடல் 34:17",
+        tamilVerse: "நீதிமான்கள் மன்றாடும்போது, ஆண்டவர் செவிசாய்க்கின்றார்; அவர்களை அனைத்து இடுக்கண்ணினின்றும் விடுவிக்கின்றார்.",
+        englishReference: "Psalms 34:17",
+        englishVerse: "The cry of the upright comes before the Lord, and he takes them out of all their troubles.",
+        bibleImage: "https://i.pinimg.com/736x/59/6a/30/596a30edf9edd729c639ec31f83d6ea5.jpg",
+        backgroundImage: "https://i.pinimg.com/736x/2b/cf/99/2bcf990450ba12a474523e3c0904ea06.jpg",
        bgm: "assests/audio/day23to31.mp3",
 
        
